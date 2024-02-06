@@ -150,6 +150,14 @@ FilteredData$MMEFactor <- if_else(FilteredData$OpioidName == 'oxycodone' & Filte
 FilteredData$MMEFactor <- if_else(FilteredData$OpioidName == 'morphine' & FilteredData$RouteDescription %in% c("IV Continuous Infusion","IV Slow Injection","IV Infusion"), 3, FilteredData$MMEFactor)
 
 ### SPLIT HERE ###
+
+# Update the patch interval by defaulting to 3 days for fentanyl and 1 week for buprenorphine
+# if there is no other information provided. Also change it to 24 hours for any where it is 
+# a "check" code.
+FilteredData$PatchInterval <- if_else(FilteredData$MinFrequencyGap <= 1, if_else(FilteredData$OpioidName == 'fentanyl',72,168), FilteredData$MinFrequencyGap)
+FilteredData$PatchInterval <- if_else(grepl('Check',FilteredData$TaskName),24,FilteredData$PatchInterval)
+
+### SPLIT HERE ###
 ## SANITY CHECK ##
 
 # If the RouteCategory is "oral" then we adjust the mg based on the UNITS.
@@ -165,4 +173,33 @@ if(nrow(unmatchedOralUnits) > 0) {
 	unmatchedOralUnits$UNITS
 } else {
 	message('There are no unmatched oral units')
+}
+
+### SPLIT HERE ###
+## SANITY CHECK ##
+
+# If the RouteCategory is "topical" then we check that
+# 1. there is only fentanyl or buprenorphine  
+# 2. the units for MinFrequencyGap <= 1 are in the list provided 
+
+knownOpioids <- c("fentanyl","buprenorphine")
+knownFrequencies <- c("<User Schedule>","As Often as Necessary","ONCE ONLY (ONE DOSE)")
+
+topicalOpioids <- FilteredData %>%  filter(RouteCategory == 'topical') %>% group_by(OpioidName) %>% summarise(n = n())
+topicalFrequencies <- FilteredData %>%  filter(RouteCategory == 'topical' & MinFrequencyGap <=1) %>% group_by(FrequencyCode) %>% summarise(n = n())
+
+unmatchedTopicalOpioids <- (topicalOpioids %>% filter(!OpioidName %in% knownOpioids))
+if(nrow(unmatchedTopicalOpioids) > 0) {
+	message('WARNING. Unmatched opioid name:')
+	message(unmatchedTopicalOpioids$OpioidName)
+} else {
+	message('There are no unmatched opioid names for topical administrations.')
+}
+
+unmatchedTopicalFrequencies <- (topicalFrequencies %>% filter(!FrequencyCode %in% knownFrequencies))
+if(nrow(unmatchedTopicalFrequencies) > 0) {
+	message('WARNING. Unmatched topical frequency:')
+	message(unmatchedTopicalFrequencies$FrequencyCode)
+} else {
+	message('There are no unmatched frequencies for topical administrations.')
 }

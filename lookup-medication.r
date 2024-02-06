@@ -219,7 +219,7 @@ rbind(MedicationLookup,c("tiotropium respimat","",FALSE,NA,NA,NA,0))->Medication
 # Excluding PCA and "recovery only" codes - by setting the IsOpioid flag to FALSE
 rbind(MedicationLookup,c("morphine sulphate (1mg/ml) pca","morphine",FALSE,1,"injection","injection",0))->MedicationLookup
 rbind(MedicationLookup,c("morphine sulfate (1mg/ml) pca","morphine",FALSE,1,"injection","injection",0))->MedicationLookup
-rbind(MedicationLookup,c("fentanyl (20micrograms/ml) pca","fentanyl",TRUE,0.02,"injection","injection",0))->MedicationLookup
+rbind(MedicationLookup,c("fentanyl (20micrograms/ml) pca","fentanyl",FALSE,0.02,"injection","injection",0))->MedicationLookup
 
 rbind(MedicationLookup,c("morphine injection (recovery only)","morphine",FALSE,NA,"injection","injection",0))->MedicationLookup
 rbind(MedicationLookup,c("oxycodone injection (recovery only)","oxycodone",FALSE,NA,"injection","injection",0))->MedicationLookup
