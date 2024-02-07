@@ -23,3 +23,7 @@ message('As long as this is a very small percentage we can ignore as we are usin
 SingleDoseMME <- SingleDoseRows %>%
   group_by(PseudonymisedID, Date, OpioidName) %>% 
   summarise(DailyDose = sum(TabletDosage), DailyMME = sum(MMEFactor * TabletDosage), .groups='drop')
+
+message('The following data frames are now available:')
+message(' - SingleDoseRows - the data filtered to those records that look like a single dose')
+message(' - SingleDoseMME - the daily dose and daily MME grouped by opioid, person and date')
