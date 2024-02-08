@@ -18,6 +18,23 @@ message(paste('There are',NumberOfSingleDoseRows,'records that look like a singl
 message(paste(' - of these,', NumberWhereTaskDoseIsNA, 'do not have a TaskDose field.'))
 message('As long as this is a very small percentage we can ignore as we are using the DosageLow and DosageHigh fields as the alternative.\n')
 
+RowsWithTaskDoseLikelyDosageLow <- SingleDoseRows %>%
+  filter(TaskDose==1 & TaskDose < DosageLow & UNITS != 'Tablet/s' & RouteCategory=='oral')
+RowsWithTaskDoseLikelyDosageHigh <- SingleDoseRows %>% 
+  filter(TaskDose==2 & TaskDose < DosageLow & DosageHigh == 2*DosageLow & UNITS != 'Tablet/s' & RouteCategory=='oral')
+
+SingleDoseRows$DOSAGE = if_else(
+  SingleDoseRows$TaskDose==1 & SingleDoseRows$TaskDose < SingleDoseRows$DosageLow & SingleDoseRows$UNITS != 'Tablet/s' & SingleDoseRows$RouteCategory=='oral',
+  SingleDoseRows$DosageLow,
+  if_else(
+    SingleDoseRows$TaskDose==2 & SingleDoseRows$TaskDose < SingleDoseRows$DosageLow & SingleDoseRows$DosageHigh == 2*SingleDoseRows$DosageLow & SingleDoseRows$UNITS != 'Tablet/s' & SingleDoseRows$RouteCategory=='oral',
+    SingleDoseRows$DosageHigh,
+    SingleDoseRows$DOSAGE,
+  )
+)
+message(paste0('There are ', nrow(RowsWithTaskDoseLikelyDosageLow), ' rows where the TaskDose is 1, the Units is "mg", and the TaskDose is below DosageLow. These are most likely actually "1 dose" rather than "1 mg" so adjusting the DOSAGE accordingly to equal the DosageLow field.'))
+message(paste0('There are ', nrow(RowsWithTaskDoseLikelyDosageHigh), ' rows where the TaskDose is 2, the Units is "mg", and the TaskDose is below DosageLow, and the DosageHigh is double the DosageLow. These are most likely actually "2 doses" rather than "2 mg" so adjusting the DOSAGE accordingly to equal the DosageHigh field.\n'))
+
 # Now let's fix the 42 co-codamol rows (either 8/500 or 30/500 i.e. 8 or 30mg of codeine and 500mg of paracetamol)
 # where the TaskUom is "Tablet/s" but there are more than 10. Usually it's 30 or 60, so seems a lot more likely
 # that this is in fact the "mg" the patient received, rather than they were given 30 or 60 tablets!
