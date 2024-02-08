@@ -1,3 +1,11 @@
+message('# Medication lookup');
+message('Creates a dataframe `MedicationLookup` with columns:');
+message('  - MedicationName - the full medication description');
+message('  - Active ingredient - the opioid name (e.g. codeine, morphine, fentanyl etc) or "" if not an opioid');
+message('  - IsOpioid - TRUE/FALSE - to allow us to filter out non-opioids');
+message('  - StrengthInMilligrams - if in tablet form, or mg/millilitre if in liquid form');
+message('  - Form - e.g. tablet/suppository/injection etc.');
+message('  - Route - e.g. oral/injection/topical etc.\n');
 # create the dose lookup
 MedicationLookup <- data.frame()
  
@@ -126,12 +134,12 @@ rbind(MedicationLookup,c("tramadol","tramadol",TRUE,NA,"unknown","unknown",0.1))
 # co-codamol
 #medicationname == "co-codamol" & route == "sc" ~ "0.15"
 #medicationname == "co-codamol" & route == "oral" ~ "0.15"
-rbind(MedicationLookup,c("co-codamol (30/500mg) effervescent tablets","co-codamol",TRUE,30,"tablet","oral",0.15))->MedicationLookup
-rbind(MedicationLookup,c("co-codamol (30/500mg) tablets","co-codamol",TRUE,30,"tablet","oral",0.15))->MedicationLookup
-rbind(MedicationLookup,c("co-codamol (30/500mg)","co-codamol",TRUE,30,"tablet","oral",0.15))->MedicationLookup
-rbind(MedicationLookup,c("co-codamol (8/500mg) effervescent tablets","co-codamol",TRUE,8,"tablet","oral",0.15))->MedicationLookup
-rbind(MedicationLookup,c("co-codamol (8/500mg) tablets","co-codamol",TRUE,8,"tablet","oral",0.15))->MedicationLookup
-rbind(MedicationLookup,c("co-codamol (8/500mg)","co-codamol",TRUE,8,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("co-codamol (30/500mg) effervescent tablets","codeine",TRUE,30,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("co-codamol (30/500mg) tablets","codeine",TRUE,30,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("co-codamol (30/500mg)","codeine",TRUE,30,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("co-codamol (8/500mg) effervescent tablets","codeine",TRUE,8,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("co-codamol (8/500mg) tablets","codeine",TRUE,8,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("co-codamol (8/500mg)","codeine",TRUE,8,"tablet","oral",0.15))->MedicationLookup
 
 # buprenorphine
 # medicationname == "buprenorphine" & route == "sublingual" ~ "30.0"
@@ -232,5 +240,3 @@ MedicationLookup$IsOpioid <- MedicationLookup$IsOpioid == 'TRUE'
 MedicationLookup$OpioidName <- as.factor(MedicationLookup$OpioidName)
 MedicationLookup$Form <- as.factor(MedicationLookup$Form)
 MedicationLookup$Route <- as.factor(MedicationLookup$Route)
-#summary(MedicationLookup)
-#head(MedicationLookup)

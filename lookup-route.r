@@ -1,3 +1,13 @@
+message('# Route lookup')
+message('Creates a dataframe `RouteLookup` with columns:')
+message('  - RouteDescription - route description from data')
+message('  - RouteCategory - oral/injection/sublingual/topical/rectal')
+message('Example output:')
+message('  | RouteDescription       | RouteCategory |')
+message('  | ---------------------- | ------------- |')
+message('  | IV Continuous Infusion | injection     |')
+message('  | Enteral Feeding Tube   | oral          |\n')
+
 # create the route lookup
 RouteLookup <- data.frame()
  

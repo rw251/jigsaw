@@ -1,3 +1,17 @@
+message('# Dosage lookup');
+message('Creates a dataframe `DoseLookup` with columns:');
+message('  - FrequencyCode - instruction e.g. "Take 2 a day"')
+message('  - MinFrequencyGap - minimum gap between doses in hours')
+message('  - MaxFrequencyGap - maximum gap between doses in hours')
+message('  - IsOneOff - indicates whether a one off, or a recurring item')
+message('Example output')
+message('  | FrequencyCode     | MinFrequencyGap | MaxFrequencyGap | IsOneOff |')
+message('  | ----------------- | --------------- | --------------- | -------- |')
+message('  | Twice a day       | 12              | 12              | FALSE    |')
+message('  | Every 6 - 8 hours | 6               | 8               | FALSE    |')
+message('  | Once only         | 24              | 24              | TRUE     |')
+
+
 # create the dose lookup
 DoseLookup <- data.frame()
  
@@ -6,9 +20,6 @@ DoseLookup <- data.frame()
 # - MinFrequencyGap
 # - MaxFrequencyGap
 # - IsOneOff? TRUE/FALSE - to account for things like "ONLY ONCE"
-
-# TODO check 24 hour - is it "once per 24 hours", continuous e.g. 24/7, or just for 24 hours.
-# depends on if it's a tablet or a drip
 
 # Hard to classify
 rbind(DoseLookup,c("As Often as Necessary",0,-1,FALSE))->DoseLookup
@@ -85,5 +96,3 @@ colnames(DoseLookup) <- c("FrequencyCode","MinFrequencyGap","MaxFrequencyGap","I
 DoseLookup$IsOneOff = DoseLookup$IsOneOff == 'TRUE'
 DoseLookup$MinFrequencyGap = as.numeric(DoseLookup$MinFrequencyGap)
 DoseLookup$MaxFrequencyGap = as.numeric(DoseLookup$MaxFrequencyGap)
-#summary(DoseLookup)
-#head(DoseLookup)
