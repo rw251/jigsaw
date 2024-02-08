@@ -38,7 +38,7 @@ if(!isDataLoaded) {
 #
 FilteredData <- Opioid_Medication_Task %>% 
   filter(!is.na(PerformedFromDtm) & TaskStatusCode != "Not Performed") %>%
-  mutate(MedicationName = tolower(MedicationName), Date = format(PerformedFromDtm, "%Y/%m/%d")) %>%
+  mutate(MedicationName = tolower(MedicationName), Date = as.Date(format(PerformedFromDtm, "%Y/%m/%d"))) %>%
   left_join(MedicationLookup, by = join_by(MedicationName)) %>%
   left_join(DoseLookup, by = join_by(FrequencyCode)) %>%
   filter(IsOpioid)
