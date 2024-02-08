@@ -60,18 +60,6 @@ FilteredData$UNITS <- if_else(!is.na(FilteredData$TaskUom), FilteredData$TaskUom
 # ELSE Just use DosageLow
 FilteredData$DOSAGE <- if_else(!is.na(FilteredData$TaskDose), FilteredData$TaskDose, if_else(!is.na(FilteredData$DosageHigh), (FilteredData$DosageLow + FilteredData$DosageHigh)/2, FilteredData$DosageLow))
 
-# IF UNITS == 'tablet' then multiply by StrengthInMilligrams
-# ELSE IF UNITS == 'micrograms' then divide by 1000
-# ELSE just use the dosage
-FilteredData$TabletDosage <- if_else(
-  FilteredData$UNITS == 'Tablet/s', 
-  FilteredData$DOSAGE * FilteredData$StrengthInMilligrams, 
-  if_else(
-    FilteredData$UNITS == 'microgram', 
-    FilteredData$DOSAGE / 1000,
-    FilteredData$DOSAGE
-  ))
-
 ### SPLIT HERE ###
 
 # Compile complete list of routes
