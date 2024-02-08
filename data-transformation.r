@@ -150,14 +150,6 @@ FilteredData$MMEFactor <- if_else(FilteredData$OpioidName == 'oxycodone' & Filte
 FilteredData$MMEFactor <- if_else(FilteredData$OpioidName == 'morphine' & FilteredData$RouteDescription %in% c("IV Continuous Infusion","IV Slow Injection","IV Infusion"), 3, FilteredData$MMEFactor)
 
 ### SPLIT HERE ###
-
-# Update the patch interval by defaulting to 3 days for fentanyl and 1 week for buprenorphine
-# if there is no other information provided. Also change it to 24 hours for any where it is 
-# a "check" code.
-FilteredData$PatchInterval <- if_else(FilteredData$MinFrequencyGap <= 1, if_else(FilteredData$OpioidName == 'fentanyl',72,168), FilteredData$MinFrequencyGap)
-FilteredData$PatchInterval <- if_else(grepl('Check',FilteredData$TaskName),24,FilteredData$PatchInterval)
-
-### SPLIT HERE ###
 ## SANITY CHECK ##
 
 # If the RouteCategory is "oral" then we adjust the mg based on the UNITS.
