@@ -41,9 +41,9 @@ message('The exception being the rows where the TaskDose was 500 or 30500. In th
 # more plausible TaskDose. In which case we use that instead.
 
 # First we get the ID, TaskName and Date for any records with a TaskDose >= 1000
-LargeDosage <- SingleDoseRows %>% filter(TaskDose >= 1000) %>% select(PseudonymisedID, TaskName, Date) %>% mutate(Date = as.Date(Date))
+LargeDosage <- SingleDoseRows %>% filter(TaskDose >= 1000) %>% select(PseudonymisedID, TaskName, Date)
 # Then we populate a narrow table with all the TaskDoses < 1000
-JustDosage <- SingleDoseRows %>% filter(TaskDose < 1000) %>% mutate(DayBefore = as.Date(Date) - 1, DayAfter = as.Date(Date) + 1) %>% select(PseudonymisedID, TaskName, DayBefore, DayAfter, TaskDose)
+JustDosage <- SingleDoseRows %>% filter(TaskDose < 1000) %>% mutate(DayBefore = Date - 1, DayAfter = Date + 1) %>% select(PseudonymisedID, TaskName, DayBefore, DayAfter, TaskDose)
 
 # Joining the above data frames to find any one with the same administration, but with
 # one above 1000 and the rest below 1000. Take the MAX of the plausible TaskDoses

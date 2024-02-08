@@ -14,6 +14,42 @@ PatchRows <- FilteredData %>% filter(RouteCategory == 'topical')
 PatchRows$PatchInterval <- if_else(PatchRows$MinFrequencyGap <= 1, if_else(PatchRows$OpioidName == 'fentanyl',72,168), PatchRows$MinFrequencyGap)
 PatchRows$PatchInterval <- if_else(grepl('Check',PatchRows$TaskName),24,PatchRows$PatchInterval)
 
+# For any row that is now a check, we populate the DosageFromTaskName field by using a regex
+# on the TaskName field. Regular expression explainer:  
+#   ^[^0-9.]*           - matches any characters that aren't a number or a '.' from the start of the field
+#   ([0-9]+\\.?[0-9]?)  - matches a number, or a number with a decimal e.g. '50' or '37.5'
+#   microgramhr         - matches the unit
+#   .*$                 - matches the rest of the field
+message('Checking for records where the TaskDose is different to the value in the TaskName field...')
+PatchRows$DosageFromTaskName <- if_else(
+  grepl('Check',PatchRows$TaskName),
+  0,
+  suppressWarnings(as.numeric(gsub("^[^0-9]*([0-9]+\\.?[0-9]?)microgramhr.*$","\\1",PatchRows$TaskName)))
+)
+
+# Check that the regex actually matches everything
+NumberOfRowsWithoutMatchingRegex <- nrow(PatchRows %>% filter(!grepl('Check',TaskName) & is.na(DosageFromTaskName)))
+if(NumberOfRowsWithoutMatchingRegex > 0) {
+  message(paste0('There are ', NumberOfRowsWithoutMatchingRegex, " rows that don't match the DosageFromTaskName regex. You need to fix that."))
+} else {
+  message('All non-check records match the regex. No further work required.')
+}
+
+RowsWithTaskDoseNotEqualToTaskName <- PatchRows %>% filter(DosageFromTaskName > 0 & DosageFromTaskName != TaskDose)
+RowsWithTaskDoseFarFromTaskName <- PatchRows %>% filter(DosageFromTaskName > 0 & abs(DosageFromTaskName - TaskDose)/TaskDose > 0.1)
+
+message(paste0('There are ', nrow(RowsWithTaskDoseNotEqualToTaskName), " rows where the TaskDose is different to the TaskName value."))
+message(paste0(' - of which ', nrow(RowsWithTaskDoseFarFromTaskName), " have a TaskDose more than 10% away from the TaskName value:"))
+
+message((RowsWithTaskDoseFarFromTaskName %>% mutate(msg = paste0('    > ',str_split(TaskName, ";", simplify=TRUE)[, 1], ' = ', DosageFromTaskName, ' but TaskDose = ',TaskDose,'\n')) %>% arrange(msg))$msg)
+
+PatchRows$DOSAGE = if_else(
+  PatchRows$DosageFromTaskName > 0 & abs(PatchRows$DosageFromTaskName - PatchRows$TaskDose)/PatchRows$TaskDose > 0.1,
+  PatchRows$DosageFromTaskName,
+  PatchRows$DOSAGE
+)
+message(paste0('These ', nrow(RowsWithTaskDoseFarFromTaskName), ' rows have had their DOSAGE adjusted. Please check the above all look ok.\n'))
+
 # Patches are usually given for 3 or 7 days, so we first create duplicate rows
 # for each patch administration. A patch for n days will actually deliver some
 # for opioid on n+1 calendar days (24 hours a day, except on the first and last
