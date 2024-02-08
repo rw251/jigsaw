@@ -2,7 +2,8 @@
 
 # Load libraries
 suppressMessages({
-  library(sparklyr) 
+  library(sparklyr)
+  library(stringr)
   library(dplyr)
 })
 
@@ -12,5 +13,5 @@ opts <- list(multiline = TRUE)
 read_datalake <- function(filename, folder)
   spark_read_csv(sc, path = file.path('dbfs:/mnt/raw-data/', folder, filename), opt = opts) %>% collect
 
-message('Loaded libs: sparklyr, dplyr')
+message('Loaded libs: sparklyr, stringr, dplyr')
 message('Functions available: read_datalake')
