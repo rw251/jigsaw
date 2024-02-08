@@ -229,6 +229,7 @@ colnames(MedicationLookup) <- c("MedicationName", "OpioidName", "IsOpioid", "Str
 MedicationLookup$StrengthInMilligrams <- as.numeric(MedicationLookup$StrengthInMilligrams)
 MedicationLookup$MMEFactor <- as.numeric(MedicationLookup$MMEFactor)
 MedicationLookup$IsOpioid <- MedicationLookup$IsOpioid == 'TRUE'
+MedicationLookup$OpioidName <- as.factor(MedicationLookup$OpioidName)
 MedicationLookup$Form <- as.factor(MedicationLookup$Form)
 MedicationLookup$Route <- as.factor(MedicationLookup$Route)
 #summary(MedicationLookup)
