@@ -5,7 +5,7 @@
 # units: 'mg', 'microgram', 'Tablet/s'
 
 SingleDoseRows <- FilteredData %>%
-  filter(UNITS == 'mg' | UNITS == 'microgram' | UNITS == 'Tablet/s' )
+  filter((UNITS == 'mg' | UNITS == 'microgram' | UNITS == 'Tablet/s' ) & !IsPCA)
 
 # Check how many of these have NA for TaskDose
 TaskDoseIsNA <- SingleDoseRows %>%

@@ -1,9 +1,9 @@
 # This processes all injections that are given as a per hourly figure
 
-# We identify these records by looking for a RouteCategory of 'topical'
+# We identify these records by looking for a RouteCategory of 'injection' and units of ml/hour
 
-# Create data frame with just the topical opioids
-InjectionRows <- FilteredData %>% filter(RouteCategory == 'injection' & UNITS == 'ml/hour')
+# Create data frame with just the ml/hour injection opioids
+InjectionRows <- FilteredData %>% filter(RouteCategory == 'injection' & UNITS == 'ml/hour' & !IsPCA)
 
 # We group on ID and medication name. For each administration we check when the subsequent
 # administration occurred. If within 24 hours then we assume the IV continued until the next

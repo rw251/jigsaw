@@ -18,6 +18,10 @@
 
 ### SPLIT HERE ###
 
+%run ./library/process-injections-pca
+
+### SPLIT HERE ###
+
 %run ./library/data-checks
 
 ### SPLIT HERE ###
