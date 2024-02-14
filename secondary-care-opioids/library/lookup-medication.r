@@ -31,7 +31,6 @@ rbind(MedicationLookup,c("codeine injection","codeine",TRUE,FALSE,NA,"injection"
 rbind(MedicationLookup,c("codeine multi-route","codeine",TRUE,FALSE,NA,"multi","unknown",0.15))->MedicationLookup
 rbind(MedicationLookup,c("codeine tablets","codeine",TRUE,FALSE,NA,"tablet","oral",0.15))->MedicationLookup
 rbind(MedicationLookup,c("codeine","codeine",TRUE,FALSE,NA,"unknown","unknown",0.15))->MedicationLookup
-rbind(MedicationLookup,c("fentanyl (20micrograms/ml) pca","fentanyl",TRUE,TRUE,0.02,"injection","injection",0))->MedicationLookup
 
 # morphine (set the MME factor to 1 - then need to change some to 3 later on)
 # medicationname == "morphine" & route == "iv_infusion" ~ "3.0"
@@ -119,6 +118,7 @@ rbind(MedicationLookup,c("fentanyl sublingual tablets sugar free","fentanyl",TRU
 rbind(MedicationLookup,c("fentanyl transdermal patches","fentanyl",TRUE,FALSE,NA,"patch","topical",100))->MedicationLookup
 rbind(MedicationLookup,c("levobupivacaine (0.125%) with fentanyl 2microgram/ml epidural infusion","fentanyl",TRUE,FALSE,0.002,"injection","injection",130))->MedicationLookup
 rbind(MedicationLookup,c("levobupivacaine (0.125%) with fentanyl 4microgram/ml epidural infusion","fentanyl",TRUE,FALSE,0.004,"injection","injection",130))->MedicationLookup
+rbind(MedicationLookup,c("fentanyl (20micrograms/ml) pca","fentanyl",TRUE,TRUE,0.02,"injection","injection",130))->MedicationLookup
 
 # tramadol
 #medicationname == "tramadol" & route == "oral" ~ "0.1"
