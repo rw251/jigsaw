@@ -26,13 +26,24 @@
 
 ### SPLIT HERE ###
 
-# Group the data together
-Data <- rbind(SingleDoseMME, PatchMME, InjectionMME, Injection24HoursMME) %>% 
+# Group the non-PCA data together
+NonPCAData <- rbind(SingleDoseMME, PatchMME, InjectionMME, Injection24HoursMME) %>% 
   group_by(PseudonymisedID, OpioidName, Date) %>%
   summarise(DailyDose = sum(DailyDose), DailyMME = sum(DailyMME), .groups="drop") %>%
   filter(DailyMME > 0 & Date >= '2010-01-01' & Date <= '2021-09-30')
+NonPCAData$IsPCA = FALSE
 
-  ### SPLIT HERE ###
+# Group the PCA data together
+PCAData <- PCAInjectionMME %>% 
+  group_by(PseudonymisedID, OpioidName, Date) %>%
+  summarise(DailyDose = sum(DailyDose), DailyMME = sum(DailyMME), .groups="drop") %>%
+  filter(DailyMME > 0 & Date >= '2010-01-01' & Date <= '2021-09-30')
+PCAData$IsPCA = TRUE
+
+# Combine to final data set
+Data <- rbind(PCAData, NonPCAData)
+
+### SPLIT HERE ###
 
 # Write to file
 write_to_file(Data, 'secondary-care-opioids-tidied.csv', 'analysis-outputs')

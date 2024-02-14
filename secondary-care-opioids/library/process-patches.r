@@ -38,17 +38,21 @@ if(NumberOfRowsWithoutMatchingRegex > 0) {
 RowsWithTaskDoseNotEqualToTaskName <- PatchRows %>% filter(DosageFromTaskName > 0 & DosageFromTaskName != TaskDose)
 RowsWithTaskDoseFarFromTaskName <- PatchRows %>% filter(DosageFromTaskName > 0 & abs(DosageFromTaskName - TaskDose)/TaskDose > 0.1)
 
-message(paste0('There are ', nrow(RowsWithTaskDoseNotEqualToTaskName), " rows where the TaskDose is different to the TaskName value."))
-message(paste0(' - of which ', nrow(RowsWithTaskDoseFarFromTaskName), " have a TaskDose more than 10% away from the TaskName value:"))
+if(nrow(RowsWithTaskDoseNotEqualToTaskName) > 0) {
+  message(paste0('There are ', nrow(RowsWithTaskDoseNotEqualToTaskName), " rows where the TaskDose is different to the TaskName value."))
+  message(paste0(' - of which ', nrow(RowsWithTaskDoseFarFromTaskName), " have a TaskDose more than 10% away from the TaskName value:"))
 
-message((RowsWithTaskDoseFarFromTaskName %>% mutate(msg = paste0('    > ',str_split(TaskName, ";", simplify=TRUE)[, 1], ' = ', DosageFromTaskName, ' but TaskDose = ',TaskDose,'\n')) %>% arrange(msg))$msg)
+  message((RowsWithTaskDoseFarFromTaskName %>% mutate(msg = paste0('    > ',str_split(TaskName, ";", simplify=TRUE)[, 1], ' = ', DosageFromTaskName, ' but TaskDose = ',TaskDose,'\n')) %>% arrange(msg))$msg)
 
-PatchRows$DOSAGE = if_else(
-  PatchRows$DosageFromTaskName > 0 & abs(PatchRows$DosageFromTaskName - PatchRows$TaskDose)/PatchRows$TaskDose > 0.1,
-  PatchRows$DosageFromTaskName,
-  PatchRows$DOSAGE
-)
-message(paste0('These ', nrow(RowsWithTaskDoseFarFromTaskName), ' rows have had their DOSAGE adjusted. Please check the above all look ok.\n'))
+  PatchRows$DOSAGE = if_else(
+    PatchRows$DosageFromTaskName > 0 & abs(PatchRows$DosageFromTaskName - PatchRows$TaskDose)/PatchRows$TaskDose > 0.1,
+    PatchRows$DosageFromTaskName,
+    PatchRows$DOSAGE
+  )
+  message(paste0('These ', nrow(RowsWithTaskDoseFarFromTaskName), ' rows have had their DOSAGE adjusted. Please check the above all look ok.\n'))
+} else {
+  message('All records have a TaskDose which matches the free text in the TaskName. No further action required.')
+}
 
 # Patches are usually given for 3 or 7 days, so we first create duplicate rows
 # for each patch administration. A patch for n days will actually deliver some
