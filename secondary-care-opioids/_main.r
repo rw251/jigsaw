@@ -1,24 +1,24 @@
-%run ./data-transformation
+%run ./library/data-transformation
 
 ### SPLIT HERE ###
 
-%run ./process-single-dose
+%run ./library/process-single-dose
 
 ### SPLIT HERE ###
 
-%run ./process-patches
+%run ./library/process-patches
 
 ### SPLIT HERE ###
 
-%run ./process-injections
+%run ./library/process-injections
 
 ### SPLIT HERE ###
 
-%run ./process-injections-24hours
+%run ./library/process-injections-24hours
 
 ### SPLIT HERE ###
 
-%run ./data-checks
+%run ./library/data-checks
 
 ### SPLIT HERE ###
 
