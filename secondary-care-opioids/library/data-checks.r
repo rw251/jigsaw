@@ -23,7 +23,7 @@ message (paste("  There are", nrow(FilteredData), "rows"))
 message (paste("   -", nrow(SingleDoseRows ), "rows that are a single dose"))
 message (paste("   -", nrow(Injection24HoursRows ), "rows for injections with mg or mcg / 24 hours"))
 message (paste("   -", nrow(InjectionRows ), "rows for injections with ml/hour"))
-message (paste("   -", nrow(PCAInjectionRows ), "rows for injections with ml/hour"))
+message (paste("   -", nrow(PCAInjectionRows ), "rows for pca injections"))
 message (paste("   -", nrow(PatchRows ), "rows for patches"))
 
 if(nrow(FilteredData) == nrow(SingleDoseRows ) + nrow(Injection24HoursRows) + nrow(InjectionRows) + nrow(PCAInjectionRows ) + nrow(PatchRows)) {
