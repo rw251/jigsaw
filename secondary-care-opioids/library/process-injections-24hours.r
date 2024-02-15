@@ -18,13 +18,13 @@ Injection24HoursMME <- as.data.frame(lapply(Injection24HoursRows, rep, 2)) %>%
   group_by(PseudonymisedID, Date, OpioidName) %>%
   summarise(
     TotalHours = pmin(24,sum(HoursOnDay)),
-    DailyDose = if_else(
+    Dose = if_else(
         max(UNITS) == 'micrograms/24hours',
         max(DOSAGE) * TotalHours / 24000,
         max(DOSAGE) * TotalHours/24),
-    DailyMME = max(MMEFactor) * DailyDose,
+    MME = max(MMEFactor) * Dose,
     .groups='drop') %>%
-  select(PseudonymisedID, Date, OpioidName, DailyDose, DailyMME)
+  select(PseudonymisedID, Date, OpioidName, Dose, MME)
 
 message('The following data frames are now available:')
 message(' - Injection24HoursRows - the data filtered to those records that look like a continuous 24 hour injection')

@@ -29,15 +29,15 @@
 # Group the non-PCA data together
 NonPCAData <- rbind(SingleDoseMME, PatchMME, InjectionMME, Injection24HoursMME) %>% 
   group_by(PseudonymisedID, OpioidName, Date) %>%
-  summarise(DailyDose = sum(DailyDose), DailyMME = sum(DailyMME), .groups="drop") %>%
-  filter(DailyMME > 0 & Date >= '2010-01-01' & Date <= '2021-09-30')
+  summarise(Dose = sum(Dose), MME = sum(MME), .groups="drop") %>%
+  filter(MME > 0 & Date >= '2010-01-01' & Date <= '2021-09-30')
 NonPCAData$IsPCA = FALSE
 
 # Group the PCA data together
 PCAData <- PCAInjectionMME %>% 
   group_by(PseudonymisedID, OpioidName, Date) %>%
-  summarise(DailyDose = sum(DailyDose), DailyMME = sum(DailyMME), .groups="drop") %>%
-  filter(DailyMME > 0 & Date >= '2010-01-01' & Date <= '2021-09-30')
+  summarise(Dose = sum(Dose), MME = sum(MME), .groups="drop") %>%
+  filter(MME > 0 & Date >= '2010-01-01' & Date <= '2021-09-30')
 PCAData$IsPCA = TRUE
 
 # Combine to final data set

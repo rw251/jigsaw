@@ -74,8 +74,8 @@ PatchMME <- as.data.frame(lapply(PatchRows, rep, 1+PatchRows$PatchInterval/24)) 
   group_by(PseudonymisedID, OpioidName,StartDate) %>%
   summarise(PatchWornForHours = pmin(24, max(TimeToMidnight) + max(TimeFromMidnight)),DOSAGE=max(DOSAGE), .groups='drop') %>%
   # Finally we calculate the DailyDose and the DailyMME
-  mutate(DailyDose = PatchWornForHours * DOSAGE / 1000, DailyMME = if_else(OpioidName == 'buprenorphine', 75*DailyDose, 100*DailyDose), Date = StartDate) %>%
-  select(PseudonymisedID, Date, OpioidName, DailyDose, DailyMME) %>%
+  mutate(Dose = PatchWornForHours * DOSAGE / 1000, MME = if_else(OpioidName == 'buprenorphine', 75*Dose, 100*Dose), Date = StartDate) %>%
+  select(PseudonymisedID, Date, OpioidName, Dose, MME) %>%
   arrange(PseudonymisedID, Date)
 
 message('The following data frames are now available:')

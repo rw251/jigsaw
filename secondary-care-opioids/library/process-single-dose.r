@@ -98,7 +98,7 @@ SingleDoseRows$TotalDosage <- if_else(
 # field has already been calculated based on the Units and the Strength
 SingleDoseMME <- SingleDoseRows %>%
   group_by(PseudonymisedID, Date, OpioidName) %>% 
-  summarise(DailyDose = sum(TotalDosage), DailyMME = sum(MMEFactor * TotalDosage), .groups='drop')
+  summarise(Dose = sum(TotalDosage), MME = sum(MMEFactor * TotalDosage), .groups='drop')
 
 message('The following data frames are now available:')
 message(' - SingleDoseRows - the data filtered to those records that look like a single dose')

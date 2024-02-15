@@ -51,7 +51,7 @@ PCAInjectionMME <- as.data.frame(lapply(Injections, rep, 2)) %>%
   ) %>%
   filter(DoseOnDayMG > 0) %>%
   group_by(PseudonymisedID, Date, OpioidName) %>%
-  summarise(DailyDose = sum(DoseOnDayMG), DailyMME = sum(MMEOnDay), .groups='drop')
+  summarise(Dose = sum(DoseOnDayMG), MME = sum(MMEOnDay), .groups='drop')
 
 message('The following data frames are now available:')
 message(' - PCAInjectionRows - the data filtered to those records that look like a continuous injection')
