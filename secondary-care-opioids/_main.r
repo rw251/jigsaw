@@ -49,6 +49,10 @@ README <- c(
   "",
   "**NB2:** It is possible to receive the same opioid as a PCA and a non-PCA. E.g. patient 2886 received 1.5mg of fentanyl in total on 2019-03-10, with 0.5mg given directly and 1mg under PCA",
   "",
+  "## Date range",
+  "",
+  "The data is filtered to just administrations in the range '2010-01-01' to '2021-09-30' inclusive.",
+  "",
   "## PCA",
   "",
   "The instructions for a PCA opioid include:",
@@ -129,7 +133,6 @@ README <- c(
   ""
 )
 write_to_file(README, 'README.md', 'analysis-outputs')
-
 
 ### SPLIT HERE ###
 
