@@ -42,3 +42,9 @@ PCAData$IsPCA = TRUE
 
 # Combine to final data set
 Data <- rbind(PCAData, NonPCAData)
+
+# Make Dose column explicitly in milligrams, relocate columns and sort
+Data <- Data %>%
+  rename(DoseInMg = Dose) %>%
+  relocate(Date, .before = OpioidName) %>%
+  arrange(PseudonymisedID, Date, OpioidName, IsPCA)

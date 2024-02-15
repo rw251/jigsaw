@@ -49,15 +49,15 @@ if(nrow(Patient001) != 3) {
   message(paste0('  Expecting 3 rows for patient 1, but instead got ', nrow(Patient001)))
   isPassing = FALSE
 }
-if(nrow(Patient001 %>% filter(OpioidName == 'codeine' & Date == '2021-01-01' & Dose == 15 & MME == 2.25)) != 1) {
+if(nrow(Patient001 %>% filter(OpioidName == 'codeine' & Date == '2021-01-01' & DoseInMg == 15 & MME == 2.25)) != 1) {
   message('  Expected row not found in test 1.1')
   isPassing = FALSE
 }
-if(nrow(Patient001 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-11' & Dose == 0.06 & MME == 6)) != 1) {
+if(nrow(Patient001 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-11' & DoseInMg == 0.06 & MME == 6)) != 1) {
   message('  Expected row not found in test 1.2')
   isPassing = FALSE
 }
-if(nrow(Patient001 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-12' & Dose == 0.18 & MME == 18)) != 1) {
+if(nrow(Patient001 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-12' & DoseInMg == 0.18 & MME == 18)) != 1) {
   message('  Expected row not found in test 1.3')
   isPassing = FALSE
 }
@@ -73,7 +73,7 @@ if(nrow(Patient002) != 1) {
   message(paste0('  Expecting 1 row for patient 2, but instead got ', nrow(Patient002)))
   isPassing = FALSE
 }
-if(nrow(Patient002 %>% filter(OpioidName == 'codeine' & Date == '2021-01-01' & Dose == 30 & MME == 4.5)) != 1) {
+if(nrow(Patient002 %>% filter(OpioidName == 'codeine' & Date == '2021-01-01' & DoseInMg == 30 & MME == 4.5)) != 1) {
   message('  Expected row not found in test 2.1')
   isPassing = FALSE
 }
@@ -89,11 +89,11 @@ if(nrow(Patient003) != 2) {
   message(paste0('  Expecting 2 rows for patient 3, but instead got ', nrow(Patient003)))
   isPassing = FALSE
 }
-if(nrow(Patient003 %>% filter(OpioidName == 'morphine' & Date == '2021-01-01' & Dose == 40 & MME == 80)) != 1) {
+if(nrow(Patient003 %>% filter(OpioidName == 'morphine' & Date == '2021-01-01' & DoseInMg == 40 & MME == 80)) != 1) {
   message('  Expected row not found in test 3.1')
   isPassing = FALSE
 }
-if(nrow(Patient003 %>% filter(OpioidName == 'morphine' & Date == '2021-01-02' & Dose == 10 & MME == 30)) != 1) {
+if(nrow(Patient003 %>% filter(OpioidName == 'morphine' & Date == '2021-01-02' & DoseInMg == 10 & MME == 30)) != 1) {
   message('  Expected row not found in test 3.2')
   isPassing = FALSE
 }
@@ -109,11 +109,11 @@ if(nrow(Patient004) != 2) {
   message(paste0('  Expecting 2 rows for patient 4, but instead got ', nrow(Patient004)))
   isPassing = FALSE
 }
-if(nrow(Patient004 %>% filter(OpioidName == 'oxycodone' & Date == '2021-01-01' & Dose == 5*15/24 & MME == 3*Dose)) != 1) {
+if(nrow(Patient004 %>% filter(OpioidName == 'oxycodone' & Date == '2021-01-01' & DoseInMg == 5*15/24 & MME == 3*DoseInMg)) != 1) {
   message('  Expected row not found in test 4.1')
   isPassing = FALSE
 }
-if(nrow(Patient004 %>% filter(OpioidName == 'oxycodone' & Date == '2021-01-02' & Dose == 19*15/24 & MME == 3*Dose)) != 1) {
+if(nrow(Patient004 %>% filter(OpioidName == 'oxycodone' & Date == '2021-01-02' & DoseInMg == 19*15/24 & MME == 3*DoseInMg)) != 1) {
   message('  Expected row not found in test 4.2')
   isPassing = FALSE
 }
@@ -129,11 +129,11 @@ if(nrow(Patient005) != 2) {
   message(paste0('  Expecting 2 rows for patient 5, but instead got ', nrow(Patient005)))
   isPassing = FALSE
 }
-if(nrow(Patient005 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-01' & abs(Dose - 1.8) < 0.0001 & abs(MME - 130*Dose) < 0.0001)) != 1) {
+if(nrow(Patient005 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-01' & abs(DoseInMg - 1.8) < 0.0001 & abs(MME - 130*DoseInMg) < 0.0001)) != 1) {
   message('  Expected row not found in test 5.1')
   isPassing = FALSE
 }
-if(nrow(Patient005 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-02' & abs(Dose - 0.6) < 0.0001 & abs(MME - 130*Dose) < 0.0001)) != 1) {
+if(nrow(Patient005 %>% filter(OpioidName == 'fentanyl' & Date == '2021-01-02' & abs(DoseInMg - 0.6) < 0.0001 & abs(MME - 130*DoseInMg) < 0.0001)) != 1) {
   message('  Expected row not found in test 5.2')
   isPassing = FALSE
 }
