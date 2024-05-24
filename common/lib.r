@@ -1,10 +1,12 @@
 # Initial setup scripts
+install.packages("doseminer", quiet=TRUE)
 
 # Load libraries
 suppressMessages({
   library(sparklyr)
   library(stringr)
   library(dplyr)
+  library(doseminer)
 })
 
 # Make helper method "read_datalake" to load csv files
@@ -19,5 +21,5 @@ write_to_csv_file <- function(df, filename, folder)
 write_to_file <- function(text, filename, folder)
   cat(text, file=file.path('/dbfs/mnt/', folder, filename), sep='\n')
 
-message('Loaded libs: sparklyr, stringr, dplyr')
+message('Loaded libs: sparklyr, stringr, dplyr, doseminer')
 message('Functions available: read_datalake, write_to_csv_file, write_to_file')

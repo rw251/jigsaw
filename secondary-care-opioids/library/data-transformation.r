@@ -2,7 +2,7 @@ message('# Data transformation')
 
 ### SPLIT HERE ###
 
-%run ./lib
+%run ../../common/lib
 
 ### SPLIT HERE ###
 

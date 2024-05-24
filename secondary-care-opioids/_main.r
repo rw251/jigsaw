@@ -1,11 +1,11 @@
 %md
 # Secondary care opioid cleaning script
 
-This script calls the `./library/wrapper` script, which in turn loads the data, transforms it, and combines into the desired output. The final output is saved to `/dbfs/mnt/analysis-outputs/secondary-care-opioids-tidied.csv`, and a README file explaining the cleaning in detail is created at `/dbfs/mnt/analysis-outputs/README.md`.
+This script calls the `./library/_wrapper` script, which in turn loads the data, transforms it, and combines into the desired output. The final output is saved to `/dbfs/mnt/analysis-outputs/secondary-care-opioids-tidied.csv`, and a README file explaining the cleaning in detail is created at `/dbfs/mnt/analysis-outputs/README.md`.
 
 ### SPLIT HERE ###
 
-%run ./library/wrapper
+%run ./library/_wrapper
 
 ### SPLIT HERE ###
 
