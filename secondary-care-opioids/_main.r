@@ -30,7 +30,7 @@ README <- c(
   "",
   "- PseudonymisedID - the pseudonymised patient id",
   "- Date - the date of the opioid",
-  "- OpioidName - the opiod name",
+  "- OpioidName - the opioid name",
   "- DoseInMg - the total amount of opioid that day in mg",
   "- MME - the total MME of that opioid",
   "- IsPCA - a flag to indicate if this opioid was controlled by the patient",

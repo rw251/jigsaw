@@ -36,7 +36,7 @@ if(!isDataLoaded) {
 # Filter data
 #  - Remove items without a date
 #  - Remove items with a task code of "Not Performed"
-#  - Remove non-opiods
+#  - Remove non-opioids
 #  - Make the MedicationName field lowercase for joining
 #  - Join the lookups
 #
