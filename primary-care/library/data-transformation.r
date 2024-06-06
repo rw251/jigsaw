@@ -26,13 +26,21 @@ if(!isDataLoaded) {
 ### SPLIT HERE ###
 
 # Filter data
-#  - Remove non-opiods
+#  - Remove non-opioids
 #  - Make the MedicationName field lowercase for joining
 #  - Join the lookups
 #
 JournalData$EntryDate <- as.character(JournalData$EntryDate)
 FilteredData <- JournalData %>% 
-  mutate(Date = as.Date(EntryDate, "%Y%m%d")) %>%
+  mutate(
+    Date = as.Date(EntryDate, "%Y%m%d"),
+    # Fix the ReadCode which has two different drugs
+    ReadCode = if_else(
+      ReadCode == 'djks.' & Rubric %in% c("Oxycodone 10mg/ml oral solution sugar free","OXYCODONE HCl oral liq conc 10mg/ml","OxyNorm 10mg/ml concentrate oral solution (Napp Pharmaceu..."),
+      "djks.ALTERNATIVE",
+      ReadCode
+    )
+  ) %>%
   left_join(MedicationLookup, by = c("ReadCode" = "ClinicalCode")) %>% 
   filter(!is.na(OpioidName))
 
