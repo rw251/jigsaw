@@ -271,63 +271,56 @@ RowCounts <- rbind(RowCounts, c('065', 30))
 ExpectedRows <- rbind(ExpectedRows, c('065', 'fentanyl','2018-06-07',0.6,60))
 ExpectedRows <- rbind(ExpectedRows, c('065', 'fentanyl','2018-07-06',0.6,60))
 
+# TEST070 - Patient070 Check last day partial dose logic if next rx too soon
+JournalData <- rbind(JournalData,c('Patient070',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+JournalData <- rbind(JournalData,c('Patient070',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160311','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+# EXPECT take one a day
+RowCounts <- rbind(RowCounts, c('070', 14))
+ExpectedRows <- rbind(ExpectedRows, c('070', 'tramadol', '2016-03-06', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('070', 'tramadol', '2016-03-11', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('070', 'tramadol', '2016-03-18', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('070', 'tramadol', '2016-03-19', 200, 20))
+
+# TEST071 - Patient071 Check last day partial dose logic if next rx too soon
+JournalData <- rbind(JournalData,c('Patient071',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+JournalData <- rbind(JournalData,c('Patient071',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160312','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+# EXPECT take one a day
+RowCounts <- rbind(RowCounts, c('071', 15))
+ExpectedRows <- rbind(ExpectedRows, c('071', 'tramadol', '2016-03-06', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('071', 'tramadol', '2016-03-12', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('071', 'tramadol', '2016-03-19', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('071', 'tramadol', '2016-03-20', 200, 20))
+
+# TEST072 - Patient072 Check last day partial dose logic if next rx correct
+JournalData <- rbind(JournalData,c('Patient072',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+JournalData <- rbind(JournalData,c('Patient072',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160313','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+# EXPECT take one a day
+RowCounts <- rbind(RowCounts, c('072', 16))
+ExpectedRows <- rbind(ExpectedRows, c('072', 'tramadol', '2016-03-06', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('072', 'tramadol', '2016-03-13', 200, 20))
+ExpectedRows <- rbind(ExpectedRows, c('072', 'tramadol', '2016-03-20', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('072', 'tramadol', '2016-03-21', 200, 20))
+
+# TEST073 - Patient073 Check last day partial dose logic if next rx in future
+JournalData <- rbind(JournalData,c('Patient073',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+JournalData <- rbind(JournalData,c('Patient073',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160314','30',"TAKE 1 TABLET 4 TIMES A DAY"))
+# EXPECT take one a day
+RowCounts <- rbind(RowCounts, c('073', 16))
+ExpectedRows <- rbind(ExpectedRows, c('073', 'tramadol', '2016-03-06', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('073', 'tramadol', '2016-03-13', 200, 20))
+UnExpectedRows <- rbind(UnExpectedRows, c('073', 'tramadol', '2016-03-14'))
+ExpectedRows <- rbind(ExpectedRows, c('073', 'tramadol', '2016-03-21', 400, 40))
+ExpectedRows <- rbind(ExpectedRows, c('073', 'tramadol', '2016-03-22', 200, 20))
+
 # Manual checks later for injections
-JournalData <- rbind(JournalData, c("Patient070","o42x.","FENTANYL 100microgram/2mL injection","20190606",10,NA))
-JournalData <- rbind(JournalData, c("Patient070","o42x.","FENTANYL 100microgram/2mL injection","20190806",10,NA))
+JournalData <- rbind(JournalData, c("Patienti-1","o42x.","FENTANYL 100microgram/2mL injection","20190606",10,NA))
+JournalData <- rbind(JournalData, c("Patienti-1","o42x.","FENTANYL 100microgram/2mL injection","20190806",10,NA))
 
-JournalData <- rbind(JournalData, c("Patient071","djko.","OXYCODONE HYDROCHLORIDE 10mg/mL injection solution 1mL ampoule","20190606",10,NA))
+JournalData <- rbind(JournalData, c("Patienti-2","djko.","OXYCODONE HYDROCHLORIDE 10mg/mL injection solution 1mL ampoule","20190606",10,NA))
 
-JournalData <- rbind(JournalData, c("Patient072","o451.","Morphine sulfate 10mg/1ml solution for injection ampoules","20190606",10,NA))
-JournalData <- rbind(JournalData, c("Patient072","o451.","Morphine sulfate 10mg/1ml solution for injection ampoules","20190706",10,NA))
-JournalData <- rbind(JournalData, c("Patient072","o451.","Morphine sulfate 10mg/1ml solution for injection ampoules","20190806",10,NA))
-
-# TEST080 - Patient080 Check last day partial dose logic if next rx too soon
-JournalData <- rbind(JournalData,c('Patient080',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-JournalData <- rbind(JournalData,c('Patient080',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160311','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-# EXPECT take one a day
-RowCounts <- rbind(RowCounts, c('080', 14))
-ExpectedRows <- rbind(ExpectedRows, c('080', 'tramadol', '2016-03-06', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('080', 'tramadol', '2016-03-11', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('080', 'tramadol', '2016-03-18', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('080', 'tramadol', '2016-03-19', 200, 20))
-
-# TEST081 - Patient081 Check last day partial dose logic if next rx too soon
-JournalData <- rbind(JournalData,c('Patient081',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-JournalData <- rbind(JournalData,c('Patient081',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160312','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-# EXPECT take one a day
-RowCounts <- rbind(RowCounts, c('081', 15))
-ExpectedRows <- rbind(ExpectedRows, c('081', 'tramadol', '2016-03-06', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('081', 'tramadol', '2016-03-12', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('081', 'tramadol', '2016-03-19', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('081', 'tramadol', '2016-03-20', 200, 20))
-
-# TEST082 - Patient082 Check last day partial dose logic if next rx correct
-JournalData <- rbind(JournalData,c('Patient082',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-JournalData <- rbind(JournalData,c('Patient082',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160313','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-# EXPECT take one a day
-RowCounts <- rbind(RowCounts, c('082', 16))
-ExpectedRows <- rbind(ExpectedRows, c('082', 'tramadol', '2016-03-06', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('082', 'tramadol', '2016-03-13', 200, 20))
-ExpectedRows <- rbind(ExpectedRows, c('082', 'tramadol', '2016-03-20', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('082', 'tramadol', '2016-03-21', 200, 20))
-
-# TEST083 - Patient083 Check last day partial dose logic if next rx in future
-JournalData <- rbind(JournalData,c('Patient083',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160305','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-JournalData <- rbind(JournalData,c('Patient083',"djiG.","TRAMADOL HYDROCHLORIDE 100mg m/r capsules",'20160314','30',"TAKE 1 TABLET 4 TIMES A DAY"))
-# EXPECT take one a day
-RowCounts <- rbind(RowCounts, c('083', 16))
-ExpectedRows <- rbind(ExpectedRows, c('083', 'tramadol', '2016-03-06', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('083', 'tramadol', '2016-03-13', 200, 20))
-UnExpectedRows <- rbind(UnExpectedRows, c('083', 'tramadol', '2016-03-14'))
-ExpectedRows <- rbind(ExpectedRows, c('083', 'tramadol', '2016-03-21', 400, 40))
-ExpectedRows <- rbind(ExpectedRows, c('083', 'tramadol', '2016-03-22', 200, 20))
-
-
-#injection-oneoff	7
-#nasal spray	15
-
-#sachet	79
-
+JournalData <- rbind(JournalData, c("Patienti-3","o451.","Morphine sulfate 10mg/1ml solution for injection ampoules","20190606",10,NA))
+JournalData <- rbind(JournalData, c("Patienti-3","o451.","Morphine sulfate 10mg/1ml solution for injection ampoules","20190706",10,NA))
+JournalData <- rbind(JournalData, c("Patienti-3","o451.","Morphine sulfate 10mg/1ml solution for injection ampoules","20190806",10,NA))
 
 
 colnames(JournalData) <- c("PseudonymisedID","ReadCode","Rubric", "EntryDate", "CodeValue","Codeunits")
@@ -397,9 +390,9 @@ injectionTest <- function(ID, FirstDate, LastDate, Number, DayDifference){
 
 injectionTests <- function() {
   allInjectionTestsPassing <- TRUE
-  allInjectionTestsPassing <- allInjectionTestsPassing & injectionTest('070','2019-06-06','2019-08-06',2,61)
-  allInjectionTestsPassing <- allInjectionTestsPassing & injectionTest('071','2019-06-06','2019-06-06',1,0)
-  allInjectionTestsPassing <- allInjectionTestsPassing & injectionTest('072','2019-06-06','2019-08-06',3,61)
+  allInjectionTestsPassing <- allInjectionTestsPassing & injectionTest('i-1','2019-06-06','2019-08-06',2,61)
+  allInjectionTestsPassing <- allInjectionTestsPassing & injectionTest('i-2','2019-06-06','2019-06-06',1,0)
+  allInjectionTestsPassing <- allInjectionTestsPassing & injectionTest('i-3','2019-06-06','2019-08-06',3,61)
   return(allInjectionTestsPassing)
 }
 

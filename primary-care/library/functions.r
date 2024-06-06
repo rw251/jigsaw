@@ -212,8 +212,13 @@ makeFinalDailyMGsAndDuration <- function(Rows) {
         )
       )
     ) %>%
-    mutate(LastDayMilligram = if_else(PrescribedMilligrams %% FinalDailyMilligram == 0, FinalDailyMilligram, PrescribedMilligrams %% FinalDailyMilligram)) %>% #if prescription does not divide fully, then last day has a different amount
-    select(PseudonymisedID, Date, MedicationName, OpioidName, MMEFactor, Duration, PrescribedMilligrams, FinalDailyMilligram, LastDayMilligram, Category)
+    mutate(
+      LastDayMilligram = if_else(PrescribedMilligrams %% FinalDailyMilligram == 0, FinalDailyMilligram, PrescribedMilligrams %% FinalDailyMilligram),
+      DaysUntilLastDayMg = floor(PrescribedMilligrams/FinalDailyMilligram),
+      LastDayMgToExhaust = if_else(PrescribedMilligrams %% DailyMgToExhaustSupply == 0, DailyMgToExhaustSupply, PrescribedMilligrams %% DailyMgToExhaustSupply),
+      DaysUntilLastDayMgToExhaust = floor(PrescribedMilligrams/DailyMgToExhaustSupply)
+    ) %>% #if prescription does not divide fully, then last day has a different amount
+    select(PseudonymisedID, Date, MedicationName, OpioidName, MMEFactor, Duration, PrescribedMilligrams, FinalDailyMilligram, LastDayMilligram, DaysUntilLastDayMg, DailyMgToExhaustSupply, LastDayMgToExhaust, DaysUntilLastDayMgToExhaust, Category)
   )
 }
 
@@ -223,7 +228,12 @@ makeMMEDataFrame <- function(RowsNarrow) {
     # There are now multiple rows for each PseudonymisedID, MedicationName and Date
     # By grouping on them we can set a new field StartDate so that each day of the prescription is recorded.
     group_by(PseudonymisedID, MedicationName, Date) %>% 
-    mutate(daycount = row_number(), StartDate = as.Date(Date + daycount), FinalDailyMilligram = if_else(row_number() < n(), FinalDailyMilligram, LastDayMilligram)) %>% 
+    mutate(
+      daycount = row_number(),
+      StartDate = as.Date(Date + daycount),
+      FinalDailyMilligram = if_else(row_number() <= DaysUntilLastDayMg, FinalDailyMilligram, LastDayMilligram),
+      DailyMgToExhaustSupply = if_else(row_number() <= DaysUntilLastDayMgToExhaust, DailyMgToExhaustSupply, LastDayMgToExhaust),
+    ) %>% 
     ungroup() %>% 
     select(PseudonymisedID, MedicationName, OpioidName, FinalDailyMilligram, MMEFactor, StartDate ) %>%   
     # Calculate the daily MME
