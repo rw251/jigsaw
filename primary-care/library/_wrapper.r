@@ -6,6 +6,10 @@
 
 ### SPLIT HERE ###
 
+%run ./functions
+
+### SPLIT HERE ###
+
 %run ./process-patches
 
 ### SPLIT HERE ###
