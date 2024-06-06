@@ -263,7 +263,16 @@ rbind(MedicationLookup,c("OXSO2721NEMIS","Oxycodone Hydrochloride  Solution  Sug
 rbind(MedicationLookup,c("djkr.","OXYCODONE HYDROCHLORIDE 5mg/5mL sugar free liquid",4379,"oxycodone",1,"oral solution","oral",1.5))->MedicationLookup
 rbind(MedicationLookup,c("OXSO2732NEMIS","OxyNorm  Oral solution  5 mg/5 ml (1 mg/1 ml)",53,"oxycodone",1,"oral solution","oral",1.5))->MedicationLookup
 rbind(MedicationLookup,c("OXSO2722NEMIS","Oxycodone Hydrochloride  Concentrated Oral Solution  Sugar Free 10 mg/ml",8,"oxycodone",10,"oral solution","oral",1.5))->MedicationLookup
-rbind(MedicationLookup,c("djks.","OXYCODONE HYDROCHLORIDE 10mg/mL concentrate sugar free liquid",3273,"oxycodone",10,"oral solution","oral",1.5))->MedicationLookup
+
+# djks. seems to correspond to two different formulations - 5mg/5ml, or 10mg/ml. The Codeunits suggest that this is correct. E.g. 
+# - for the 5mg/5ml the dosages given are often small e.g. 1-5mg which would be <= 0.5ml if it was the stronger formulation
+# - for the 5mg/5ml you sometimes get instructions like "TAKE 10mg (10ml)"
+# - for the 10mg/ml most dosages say something like "15mg (1.5ml)"
+# - so we link this ReadCode to the most frequent rubric (5mg/5ml) but later on correct the other Rubrics by changing their readcode to
+#   the made up "djks.ALTERNATIVE"
+rbind(MedicationLookup,c("djks.","Oxycodone 5mg/5ml oral solution sugar free",3273,"oxycodone",1,"oral solution","oral",1.5))->MedicationLookup
+rbind(MedicationLookup,c("djks.ALTERNATIVE","Oxycodone 10mg/ml oral solution sugar free",1,"oxycodone",10,"oral solution","oral",1.5))->MedicationLookup
+
 rbind(MedicationLookup,c("OXSO2731NEMIS","OxyNorm Concentrate  Solution  10 mg/ml",5,"oxycodone",10,"oral solution","oral",1.5))->MedicationLookup
 
 # fentanyl
@@ -384,6 +393,7 @@ rbind(MedicationLookup,c("dia2.","CO-CODAMOL 8mg/500mg tablets",12876,"codeine",
 rbind(MedicationLookup,c("diap.","CO-CODAMOL 8mg/500mg effervescent tablets",2939,"codeine",8,"tablet","oral",0.15))->MedicationLookup
 rbind(MedicationLookup,c("diaq.","CO-CODAMOL 8mg/500mg capsules",4295,"codeine",8,"tablet","oral",0.15))->MedicationLookup
 rbind(MedicationLookup,c("diaO.","CO-CODAPRIN 8mg/500mg dispersible tablets",1,"codeine",8,"tablet","oral",0.15))->MedicationLookup
+rbind(MedicationLookup,c("dibn.","SOLPADEINE SOLUBLE effervescent tablets",10,"codeine",8,"tablet","oral",0.15))->MedicationLookup
 
 rbind(MedicationLookup,c("dibQ.","PARACETAMOL+CODEINE PHOSPHATE 500mg/12.8mg tablets",10,"codeine",12.8,"tablet","oral",0.15))->MedicationLookup
 
@@ -407,7 +417,6 @@ rbind(MedicationLookup,c("dibz.","SOLPADOL caplets 500mg + 30mg",108,"codeine",3
 rbind(MedicationLookup,c("dibw.","REMEDEINE FORTE tabs 30mg + 500mg",262,"codeine",30,"tablet","oral",0.15))->MedicationLookup
 rbind(MedicationLookup,c("dic3.","ZAPAIN caplets 30mg + 500mg",29469,"codeine",30,"tablet","oral",0.15))->MedicationLookup
 rbind(MedicationLookup,c("dic4.","Zapain Capsules 30 mg + 500 mg",12240,"codeine",30,"tablet","oral",0.15))->MedicationLookup
-rbind(MedicationLookup,c("dibn.","SOLPADEINE SOLUBLE effervescent tablets",10,"codeine",30,"tablet","oral",0.15))->MedicationLookup
 
 # buprenorphine
 # medicationname == "buprenorphine" & route == "topical" ~ "75.0"
@@ -526,7 +535,7 @@ rbind(MedicationLookup,c("djBZ.","TAPENTADOL 50mg m/r tablets",77,"tapentadol",5
 # medicationname == "methadone" & route == "oral" & dose <= 60 mg/day ~ "10"
 # medicationname == "methadone" & route == "oral" & dose > 60 mg/day ~ "12"
 rbind(MedicationLookup,c("djc3.","METHADONE 1mg/1mL mixture",2,"methadone",1,"oral solution","oral",NA))->MedicationLookup
-rbind(MedicationLookup,c("djc4.","METHADONE HYDROCHLORIDE 50mg/5mL sugar free liquid",2,"methadone",1,"oral solution","oral",NA))->MedicationLookup
+rbind(MedicationLookup,c("djc4.","METHADONE HYDROCHLORIDE 50mg/5mL sugar free liquid",2,"methadone",10,"oral solution","oral",NA))->MedicationLookup
 rbind(MedicationLookup,c("djcC.","METHADONE 1mg/1mL sugar free mixture",412,"methadone",1,"oral solution","oral",NA))->MedicationLookup
 rbind(MedicationLookup,c("djcq.","METHADONE 60mg/60mL oral solution unit dose",12,"methadone",1,"oral solution","oral",NA))->MedicationLookup
 rbind(MedicationLookup,c("djcy.","METHADONE HYDROCHLORIDE 5mg tablets",106,"methadone",5,"tablet","oral",NA))->MedicationLookup
