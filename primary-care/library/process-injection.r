@@ -12,7 +12,7 @@ InjectionRows <- FilteredData  %>% filter(Form=='injection' | Form=='injection-o
 FirstLastInjections <- InjectionRows %>%
   group_by(PseudonymisedID) %>%
   summarise(FirstInjectionPrescription=min(Date), LastInjectionPrescription=max(Date), NumberOfPrescriptions = n()) %>%
-  mutate(DifferenceInDaysBetweenFirstAndLast = as.numeric(difftime(last, first, units="days")))
+  mutate(DifferenceInDaysBetweenFirstAndLast = as.numeric(difftime(LastInjectionPrescription, FirstInjectionPrescription, units="days")))
 
 message('The following data frames are now available:')
 message(' - InjectionRows - the data filtered to those records that look like an injection')
