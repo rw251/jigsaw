@@ -200,10 +200,10 @@ makeFinalDailyMGsAndDuration <- function(Rows) {
               "Next Rx exists but unknown length of current Rx", # Might need to cap if e..g 6000mg prescribed on day 1 and again on day 2 - did they really take all 6000 on day 1
               if_else(
                 is.na(Diff) & !is.na(MinRxLength),
-                "No future Rx, but have a known length of current Rx",
+                "Last Rx - known length",
                 if_else(
                   is.na(Diff) & is.na(MinRxLength),
-                  "No future Rx, and unknown length of current Rx",
+                  "Last Rx - unknown length",
                   NA
                 )
               )
@@ -214,9 +214,9 @@ makeFinalDailyMGsAndDuration <- function(Rows) {
     ) %>%
     mutate(
       LastDayMilligram = if_else(PrescribedMilligrams %% FinalDailyMilligram == 0, FinalDailyMilligram, PrescribedMilligrams %% FinalDailyMilligram),
-      DaysUntilLastDayMg = floor(PrescribedMilligrams/FinalDailyMilligram),
+      DaysUntilLastDayMg = ceiling(PrescribedMilligrams/FinalDailyMilligram),
       LastDayMgToExhaust = if_else(PrescribedMilligrams %% DailyMgToExhaustSupply == 0, DailyMgToExhaustSupply, PrescribedMilligrams %% DailyMgToExhaustSupply),
-      DaysUntilLastDayMgToExhaust = floor(PrescribedMilligrams/DailyMgToExhaustSupply)
+      DaysUntilLastDayMgToExhaust = ceiling(PrescribedMilligrams/DailyMgToExhaustSupply)
     ) %>% #if prescription does not divide fully, then last day has a different amount
     select(PseudonymisedID, Date, MedicationName, OpioidName, MMEFactor, Duration, PrescribedMilligrams, FinalDailyMilligram, LastDayMilligram, DaysUntilLastDayMg, DailyMgToExhaustSupply, LastDayMgToExhaust, DaysUntilLastDayMgToExhaust, Category)
   )
@@ -231,16 +231,16 @@ makeMMEDataFrame <- function(RowsNarrow) {
     mutate(
       daycount = row_number(),
       StartDate = as.Date(Date + daycount),
-      FinalDailyMilligram = if_else(row_number() <= DaysUntilLastDayMg, FinalDailyMilligram, LastDayMilligram),
-      DailyMgToExhaustSupply = if_else(row_number() <= DaysUntilLastDayMgToExhaust, DailyMgToExhaustSupply, LastDayMgToExhaust),
+      FinalDailyMilligram = if_else(row_number() < n() | row_number() < DaysUntilLastDayMg, FinalDailyMilligram, LastDayMilligram),
+      DailyMgToExhaustSupply = if_else(row_number() < DaysUntilLastDayMgToExhaust, DailyMgToExhaustSupply, if_else(row_number() == DaysUntilLastDayMgToExhaust, LastDayMgToExhaust, 0)),
     ) %>% 
     ungroup() %>% 
-    select(PseudonymisedID, MedicationName, OpioidName, FinalDailyMilligram, MMEFactor, StartDate ) %>%   
+    select(PseudonymisedID, MedicationName, OpioidName, FinalDailyMilligram, DailyMgToExhaustSupply, MMEFactor, StartDate, Category ) %>%   
     # Calculate the daily MME
-    mutate(Dose = FinalDailyMilligram, MME = MMEFactor * Dose, Date = StartDate) %>%
+    mutate(Dose = FinalDailyMilligram, MME = MMEFactor * Dose, Date = StartDate, ExhaustDose = DailyMgToExhaustSupply, ExhaustMME = MMEFactor * ExhaustDose) %>%
     # Now group and sum to get daily dose and daily mme per person and opioid
     group_by(PseudonymisedID, Date, OpioidName) %>%
-    summarise(Dose = sum(Dose), MME = sum(MME), .groups='drop') %>%
+    summarise(Dose = sum(Dose), MME = sum(MME), Category=max(Category), ExhaustDose = if_else(Category=="Next Rx too soon", sum(ExhaustDose), NA), ExhaustMME = if_else(Category=="Next Rx too soon", sum(ExhaustMME), NA), .groups='drop') %>%
     mutate( # methadone MME is dependant on daily dose
       MME = if_else(
         OpioidName == 'methadone' & Dose <= 20,
@@ -255,6 +255,23 @@ makeMMEDataFrame <- function(RowsNarrow) {
               OpioidName == 'methadone' & Dose > 60,
               Dose * 12,
               MME
+            )
+          )
+        )
+      ),
+      ExhaustMME = if_else(
+        OpioidName == 'methadone' & ExhaustDose <= 20,
+        ExhaustDose * 4,
+        if_else(
+          OpioidName == 'methadone' & ExhaustDose <= 40,
+          ExhaustDose * 8,
+          if_else(
+            OpioidName == 'methadone' & ExhaustDose <= 60,
+            ExhaustDose * 10,
+            if_else(
+              OpioidName == 'methadone' & ExhaustDose > 60,
+              ExhaustDose * 12,
+              ExhaustMME
             )
           )
         )

@@ -56,7 +56,7 @@ PatchMME <- as.data.frame(lapply(PatchRows, rep, (PatchRows$NumberPatchesPrescri
   summarise(Dose = max(Dose), MME = max(MME), .groups='drop') %>%
   # Now regroup and sum to get daily dose and daily mme per person and opioid
   group_by(PseudonymisedID, Date, OpioidName) %>%
-  summarise(Dose = sum(Dose), MME = sum(MME), .groups='drop') %>%
+  summarise(Dose = sum(Dose), MME = sum(MME), ExhaustDose = NA, ExhaustMME = NA, Category = 'Patch', .groups='drop') %>%
   arrange(PseudonymisedID, Date)
 
 
