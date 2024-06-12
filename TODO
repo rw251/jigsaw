@@ -1,4 +1,8 @@
+DONE- README
+DONE- more tests
+DONE- Fix TEST001 - if dose doesn't divide exactly into prescription then last day should have a reduced dose
+DONE- Fix TEST013 - two close Rx - large dose / first known, second unknown / assume following previous instruction, rather than what was necessary to exhaust previous Rx
+DONE- Fix TEST046 - incorrect assignment for "OXYCODONE HYDROCHLORIDE 10mg/mL concentrate sugar free liquid" as most rubrics are "Oxycodone 5mg/5ml oral solution sugar free"
+DONE- more checks??
 
-- README
-- more tests
-- more checks??
+DONE- Investigate djks. - see if different rubrics are correct

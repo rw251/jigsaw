@@ -1,7 +1,7 @@
 %md
 # Secondary care opioid cleaning script
 
-This script calls the `./library/_wrapper` script, which in turn loads the data, transforms it, and combines into the desired output. The final output is saved to `/dbfs/mnt/analysis-outputs/secondary-care-opioids-tidied.csv`, and a README file explaining the cleaning in detail is created at `/dbfs/mnt/analysis-outputs/README.md`.
+This script calls the `./library/_wrapper` script, which in turn loads the data, transforms it, and combines into the desired output. The final output is saved to `/dbfs/mnt/analysis-outputs/secondary-care-opioids-tidied.csv`, and a README file explaining the cleaning in detail is created at `/dbfs/mnt/analysis-outputs/README-Secondary-Care.md`.
 
 ### SPLIT HERE ###
 
@@ -22,11 +22,11 @@ readLines(file.path('/dbfs/mnt/', 'analysis-outputs', 'secondary-care-opioids-ti
 # Write readme file to explain the processing that has occurred
 
 README <- c(
-  "# Overview of cleaning",
+  "# Overview of cleaning - secondary care data",
   "",
   "## Summary",
   "",
-  "The output file `secondary-care-opioids-tidied.csv` is a csv with the following columns:",
+  "The output file `/dbfs/mnt/analysis-outputs/secondary-care-opioids-tidied.csv` is a csv with the following columns:",
   "",
   "- PseudonymisedID - the pseudonymised patient id",
   "- Date - the date of the opioid",
@@ -132,9 +132,9 @@ README <- c(
   "If the route is 'injection' and the units are 'mg/24hours' or 'micrograms/24hours', then we assume that the dose is to be spread out over the 24 hours following the administration. First we standardise the units to mg/24hours by dividing by 1000 the values with a unit of micrograms/24hours. Then we calculate the number of hours until midnight (H) following the administration. Finally we apportion H/24 of the dosage to the day of administration, and (24-H)/H of the dosage to the day after.",
   ""
 )
-write_to_file(README, 'README.md', 'analysis-outputs')
+write_to_file(README, 'README-Secondary-Care.md', 'analysis-outputs')
 
 ### SPLIT HERE ###
 
 # Read the readme to check
-file.show(file.path('/dbfs/mnt/', 'analysis-outputs', 'README.md'))
+file.show(file.path('/dbfs/mnt/', 'analysis-outputs', 'README-Secondary-Care.md'))
