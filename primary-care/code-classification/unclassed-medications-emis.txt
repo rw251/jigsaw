@@ -1,0 +1,858 @@
+ClinicalCode	Description	FrequencyInData
+AMSU28391EMIS	Amitriptyline Hydrochloride  Sugar-free oral solution  25 mg/5 ml	5
+AMSU28392EMIS	Amitriptyline Hydrochloride  Sugar-free oral solution  50 mg/5 ml	1
+AMTA31586EMIS	Amisulpride  Tablets  50 mg	106
+AMTA8386EGTON	Amitriptyline Hydrochloride  Tablets  10 mg	4730
+AMTA8388EGTON	Amitriptyline Hydrochloride  Tablets  50 mg	2229
+AMTA8390EGTON	Amitriptyline Hydrochloride  Tablets  25 mg	1481
+ARTA18226NEMIS	Aripiprazole  Tablets  10 mg	126
+ARTA18228NEMIS	Aripiprazole  Tablets  15 mg	8
+ARTA18229NEMIS	Aripiprazole  Tablets  30 mg	10
+ARTA19379NEMIS	Aripiprazole  Tablets  5 mg	7
+BALI4624	Baclofen  Oral Solution, Sugar Free  5 mg/5 ml	278
+BATA264	Baclofen  Tablets  10 mg	654
+BECA12523NEMIS	Bedranol Sr  Capsules  80 mg	39
+BEM/78530NEMIS	Betmiga  M/R tablets  25 mg	1
+BETA10381BRIDL	Betahistine Dihydrochloride  Tablets  16 mg	1877
+BETA17553NEMIS	Bendroflumethiazide  Tablets  2.5 mg	8901
+BETA17554NEMIS	Bendroflumethiazide  Tablets  5 mg	333
+BETA339	Betahistine Dihydrochloride  Tablets  8 mg	582
+BETA363	Bezalip-Mono  M/R tablets  400 mg	201
+BETA4655	Bezafibrate  Tablets  200 mg	627
+BETA4656	Bezafibrate  M/R tablets  400 mg	9
+BIEY12733NEMIS	Bimatoprost  Eye drops  0.3 mg/ml	163
+BIEY40903NEMIS	Bimatoprost  Eye drops  0.1 mg/ml	69
+BIOR46716NEMIS	Bisoprolol Fumarate  Oral solution  2.5 mg/5 ml	2
+BISU3248	Bisacodyl  Suppositories  10 mg	42
+BISU3249	Bisacodyl  Suppositories  5 mg	1
+BITA1018NEMIS	Bicalutamide  Tablets  150 mg	74
+BITA10630BRIDL	Bisoprolol Fumarate  Tablets  5 mg	6614
+BITA2332NEMIS	Bisoprolol Fumarate  Tablets  1.25 mg	6007
+BITA2333NEMIS	Bisoprolol Fumarate  Tablets  2.5 mg	8755
+BITA2334NEMIS	Bisoprolol Fumarate  Tablets  3.75 mg	1035
+BITA2335NEMIS	Bisoprolol Fumarate  Tablets  7.5 mg	512
+BITA26636EMIS	Bicalutamide  Tablets  50 mg	157
+BITA381	Bisacodyl  E/c tablets  5 mg	1106
+BOM/35196NEMIS	Bolamyn Sr  M/R tablets  500 mg	4
+BOTA14410NEMIS	Bosentan  Tablets  125 mg	1
+BOTA26895EMIS	Bonefos  Tablets  800 mg	90
+BREY36487NEMIS	Brinzolamide And Timolol  Eye drops  10 mg/ml + 5 mg/ml	4
+BREY3934NEMIS	Brinzolamide  Eye drops  10 mg/ml	903
+BREY95049NEMIS	Brinzolamide And Brimonidine  Eye drops  10 mg/ml + 2 mg/ml	1
+BRSY408	Bricanyl  Syrup  1.5 mg/5 ml	1
+BRTA104652NEMIS	Bramox  Tablets  2.5 mg	8
+BRTA104653NEMIS	Bramox  Tablets  5 mg	10
+BRTA109522NEMIS	Brivaracetam  Tablets  50 mg	5
+BUBU16112NEMIS	Buccastem M  Buccal tablets  3 mg	6
+BUCA35547EMIS	Budesonide  Capsules (Gastro-Resistant)  3 mg	2
+BUGA52601NEMIS	Budesonide  Gastro-resistant Granules  9 mg sachets	1
+BUIN443	Buscopan  Injection  20 mg/ml, 1 ml ampoule	22
+BULI433	Bumetanide  Oral Solution, Sugar Free  1 mg/5 ml	2
+BUM/101209NEMIS	Budesonide  M/R tablets  9 mg	1
+BUM/28270EMIS	Budesonide  M/R capsules (Gastro-Resistant)  3 mg	11
+BUNE1884NEMIS	Budesonide  Nebulisation single dose unit  1 mg/2 ml	1
+BUOR40613NEMIS	Buccolam  Oromucosal Solution  (5 mg/ml) 7.5 mg/1.5 ml Oral Syringe	6
+BUOR40614NEMIS	Buccolam  Oromucosal Solution  (5 mg/ml) 10 mg/2 ml Oral Syringe	11
+BUTA10619BRIDL	Buspirone Hydrochloride  Tablets  5 mg	29
+BUTA10621BRIDL	Buspirone Hydrochloride  Tablets  10 mg	448
+BUTA10623BRIDL	Buspar  Tablets  10 mg	19
+BUTA434	Bumetanide  Tablets  1 mg	7130
+BUTA435	Bumetanide  Tablets  5 mg	335
+BUTA440	Burinex  Tablets  1 mg	16
+BUTA444	Buscopan  Tablets  10 mg	253
+BUTA4575NEMIS	Bupropion Hydrochloride  M/R tablets  150 mg	3
+BUTA5692	Buccastem  Buccal tablets  3 mg	45
+BUTA974NEMIS	Bumetanide And Amiloride  Tablets  1 mg + 5 mg	54
+CACH8955DLSEM	Carbamazepine  Chewtabs  200 mg	1
+CALI10618BRIDL	Carbamazepine  Sugar-free liquid  100 mg/5 ml	24
+CAM/6325NEMIS	Carbamazepine  M/R tablets  200 mg	343
+CATA3285	Carbamazepine  Tablets  100 mg	205
+CATA3286	Carbamazepine  Tablets  200 mg	775
+CATA3287	Carbamazepine  Tablets  400 mg	165
+CHEL7170	Chlorpromazine Hydrochloride  Oral solution  25 mg/5 ml	3
+CHTA598	Chlorpromazine Hydrochloride  Tablets  25 mg	71
+CIDR1699NEMIS	Citalopram Hydrochloride  Drops  Sugar Free 40 mg/ml	81
+CITA26752EMIS	Citalopram Hydrobromide  Tablets  20 mg	5993
+CITA32092EMIS	Citalopram Hydrobromide  Tablets  40 mg	1019
+CITA32611EMIS	Citalopram Hydrobromide  Tablets  10 mg	3517
+CLCA650	Clomipramine Hydrochloride  Capsules  10 mg	14
+CLTA655	Clonazepam  Tablets  2 mg	4
+DACA29861NEMIS	Dabigatran Etexilate  Capsules  75 mg	30
+DACA29863NEMIS	Dabigatran Etexilate  Capsules  110 mg	284
+DACA51688NEMIS	Dabigatran Etexilate  Capsules  150 mg	10
+DACA798	Danazol  Capsules  100 mg	1
+DACA799	Danazol  Capsules  200 mg	1
+DACA86743NEMIS	Dabrafenib  Capsules  50 mg	2
+DESO110021NEMIS	Dexamethasone  Soluble Tablets Sugar Free  2 mg	9
+DESO110022NEMIS	Dexamethasone  Soluble Tablets Sugar Free  4 mg	1
+DETA6400NEMIS	Depakote  E/c tablets  250 mg	226
+DICA8335EGTON	Diflucan  Capsules  150 mg	9
+DIE/1994NEMIS	Diclofenac Sodium  E/c tablets  25 mg	28
+DIE/1995NEMIS	Diclofenac Sodium  E/c tablets  50 mg	734
+DIE/26685EMIS	Diclofenac Sodium  E/C, M/R capsules  75 mg	15
+DIM/18533NEMIS	Dipyridamole And Aspirin  M/R capsules  200 mg + 25 mg	360
+DIM/20347EMIS	Diamox Sr  M/R capsules  250 mg	54
+DIM/22263EMIS	Diltiazem Hydrochloride  M/R capsules  120 mg	79
+DIM/22264EMIS	Diltiazem Hydrochloride  M/R capsules  180 mg	74
+DIM/22266EMIS	Diltiazem Hydrochloride  M/R capsules  90 mg	38
+DIM/22445EMIS	Distaclor Mr  M/R tablets  375 mg	1
+DIM/23454EMIS	Diltiazem Hydrochloride  M/R capsules  60 mg	150
+DIM/24040EMIS	Dilzem Xl  M/R capsules  120 mg	2
+DIM/26683EMIS	Diclofenac Sodium  M/R capsules  75 mg	26
+DIM/27367EMIS	Diltiazem Hydrochloride  M/R capsules  240 mg	52
+DIM/28229EMIS	Diltiazem Hydrochloride  M/R capsules  200 mg	48
+DIM/30235EMIS	Diltiazem Hydrochloride  M/R tablets  60 mg	95
+DIM/30709EMIS	Dipyridamole  M/R capsules  200 mg	268
+DIM/74131NEMIS	Diagemet Xl  M/R tablets  500 mg	114
+DIOR13302NEMIS	Diazepam  Oral solution  2 mg/5 ml	36
+DIOR46723NEMIS	Diazepam  Oral solution  10 mg/5 ml	1
+DIOR46726NEMIS	Diltiazem Hydrochloride  Oral solution  60 mg/5 ml	1
+DIS/9119EMIS	Diltiazem Hydrochloride  M/R tablets  90 mg	28
+DISR10514BRIDL	Diltiazem Hydrochloride  M/R tablets  120 mg	3
+DISU25796EMIS	Diclofenac Sodium  Suppositories  50 mg	6
+DISU883	Diclofenac Sodium  Suppositories  100 mg	1
+DITA1026NEMIS	Diclofenac Potassium  Tablets  50 mg	19
+DITA10944BRIDL	Ditropan  Tablets  2.5 mg	866
+DITA17627NEMIS	Dicycloverine  Tablets  10 mg	150
+DITA17857NEMIS	Diethylstilbestrol  Tablets  1 mg	11
+DITA23524EMIS	Diphenhydramine Hydrochloride  Tablets  25 mg	2
+DITA26777EMIS	Dicloflex  Tablets  25 mg	1
+DITA4853	Etidronate Disodium  Tablets  200 mg	6
+DITA4859	Disulfiram  Tablets  200 mg	14
+DITA871	Diamox  Tablets  250 mg	1
+DITA879	Diazepam  Tablets  10 mg	127
+DITA880	Diazepam  Tablets  2 mg	1266
+DITA881	Diazepam  Tablets  5 mg	2651
+DITA929	Dipyridamole  Tablets  100 mg	168
+DITA930	Dipyridamole  Tablets  25 mg	15
+DITA978NEMIS	Diclofenac And Misoprostol  Tablets  50 mg + 200 micrograms	7
+DITA979NEMIS	Diclofenac And Misoprostol  Tablets  75 mg + 200 micrograms	11
+DOCA17635NEMIS	Dosulepin  Capsules  25 mg	647
+DOTA17636NEMIS	Dosulepin  Tablets  75 mg	931
+EDTA103668NEMIS	Edoxaban  Tablets  30 mg	4
+EFSO23286NEMIS	Efcortesol  Solution for injection  100 mg/ml, 1 ml ampoule	30
+EICA20139NEMIS	Eicosapentaenoic Acid And Docosahexaenoic Acid  Capsules  460 mg + 380 mg	244
+ELM/20277EMIS	Elantan La 25  M/R capsules  25 mg	54
+ELTA28287EMIS	Elleste-Solo  Tablets  1 mg	1
+ELTA28288EMIS	Elleste-Solo  Tablets  2 mg	13
+EMTA8949BRIDL	Bisoprolol Fumarate  Tablets  10 mg	2600
+EMTA91265NEMIS	Empagliflozin  Tablets  10 mg	291
+EMTA91272NEMIS	Empagliflozin  Tablets  25 mg	63
+ENIN30042EMIS	Enoxaparin  Injection  100 mg/1 ml pre-filled syringe	20
+ENIN30043EMIS	Enoxaparin  Injection  60 mg/0.6 ml pre-filled syringe	1
+ENIN30044EMIS	Enoxaparin  Injection  80 mg/0.8 ml pre-filled syringe	3
+ENIN3348NEMIS	Enoxaparin  Injection  120 mg/0.8 ml pre-filled syringe	9
+ENIN3351NEMIS	Enoxaparin  Injection  150 mg/1 ml pre-filled syringe	4
+ENIN9285EMIS	Enoxaparin  Injection  20 mg/0.2 ml pre-filled syringe	3
+ENIN9286EMIS	Enoxaparin  Injection  40 mg/0.4 ml pre-filled syringe	9
+ENSO39065NEMIS	Enbrel  Solution for injection in pre-filled pen  50 mg	1
+ENTA1060	Enalapril Maleate  Tablets  10 mg	132
+ENTA1062	Enalapril Maleate  Tablets  20 mg	755
+ENTA1063	Enalapril Maleate  Tablets  5 mg	65
+ENTA6935	Enalapril Maleate  Tablets  2.5 mg	177
+EPBU26047NEMIS	Epistatus  Buccal Liquid Sugar-Free  10 mg/ml	4
+EPCA1071	Epanutin  Capsules  100 mg	56
+EPCA1072	Epanutin  Capsules  25 mg	10
+EPCA19756EMIS	Epanutin  Capsules  300 mg	41
+EPM/23960EMIS	Epilim Chrono  M/R tablets  200 mg	103
+EPM/23961EMIS	Epilim Chrono  M/R tablets  300 mg	500
+EPM/23962EMIS	Epilim Chrono  M/R tablets  500 mg	759
+EPTA1090	Epilim  Crushable tablets  100 mg	2
+EPTA19048NEMIS	Eplerenone  Tablets  25 mg	818
+EPTA19050NEMIS	Eplerenone  Tablets  50 mg	83
+EPTA3295NEMIS	Eprosartan  Tablets  400 mg	35
+ERCA23393NEMIS	Erdosteine  Capsules  300 mg	52
+ERCA23396NEMIS	Erdotin  Capsules  300 mg	1
+ERCA3531	Erymax  Capsules (Gastro-Resistant)  250 mg	21
+ERCA4890	Erythromycin  Capsules (Gastro-Resistant)  250 mg	46
+ERE/2023NEMIS	Erythromycin  E/c tablets  250 mg	181
+ERLO981NEMIS	Erythromycin And Zinc Acetate  Lotion  40 mg/ml + 12 mg/ml	2
+ERST3539	Erythromycin  Tablets  250 mg	1
+ERST3540	Erythromycin  Stearate tablets  500 mg	72
+ERST4896	Erythromycin (As Stearate)  Tablets  250 mg	9
+ERSU25265EMIS	Erythromycin Ethyl Succinate  Sugar-free suspension  250 mg/5 ml	17
+ERSU25267EMIS	Erythromycin Ethyl Succinate  Suspension  250 mg/5 ml	2
+ERSU28989EMIS	Erythromycin Ethyl Succinate  Sugar-free suspension  500 mg/5 ml	2
+ERTA10453BRIDL	Erythromycin Ethyl Succinate  Tablets  500 mg	9
+ERTA24306NEMIS	Ergocalciferol  Tablets  1.25 mg	2
+ERTA3533	Erythrocin  Tablets  250 mg	5
+ERTA3534	Erythrocin  Tablets  500 mg	5
+ERTA3543	Erythroped A  Tablets  500 mg	3
+ESGA45517NEMIS	Esomeprazole  Gastro-resistant Capsules  20 mg	101
+ESGA45518NEMIS	Esomeprazole  Gastro-resistant Capsules  40 mg	77
+ESTA13085NEMIS	Escitalopram  Tablets  10 mg	5
+ESTA15859NEMIS	Escitalopram  Tablets  20 mg	20
+ESTA16904NEMIS	Escitalopram  Tablets  5 mg	25
+ESTA18932NEMIS	Estradiol Valerate And Norethisterone  Tablets  2 mg + 700 micrograms	10
+ESTA5124NEMIS	Esomeprazole  Gastro-resistant Tablets  20 mg	10
+ESTA5126NEMIS	Esomeprazole  Gastro-resistant Tablets  40 mg	40
+ETCA10348BRIDL	Etodolac  Capsules  300 mg	5
+ETCA4905	Ethosuximide  Capsules  250 mg	6
+ETPO29333NEMIS	Etoposide  Powder For Solution For Injection  100 mg vial	1
+ETSU1036NEMIS	Etonogestrel  Subdermal implant  68 mg	1
+ETSY4906	Ethosuximide  Oral solution  250 mg/5 ml	6
+ETTA12809NEMIS	Etoricoxib  Tablets  60 mg	31
+ETTA12810NEMIS	Etoricoxib  Tablets  90 mg	4
+ETTA28966NEMIS	Etoricoxib  Tablets  30 mg	1
+EVCH83105NEMIS	Evacal D3  Chewable tablets  1500 mg + 400 units	172
+EXTA23856NEMIS	Exforge  Tablets  5 mg/160 mg	46
+EXTA2781NEMIS	Exemestane  Tablets  25 mg	57
+EYSO78088NEMIS	Eylea  Solution for injection  2 mg/50 microlitre vial	1
+EZTA15249NEMIS	Ezetimibe  Tablets  10 mg	1716
+EZTA15252NEMIS	Ezetrol  Tablets  10 mg	1
+EZTA20280NEMIS	Ezetimibe And Simvastatin  Tablets  10 mg + 20 mg	21
+FECA1148	Feldene  Capsules  10 mg	3
+FEM/13659NEMIS	Fenactol Retard  M/R tablets  100 mg	4
+FETA13655NEMIS	Fenactol  Gastro-resistant Tablets  50 mg	75
+FLCA10829BRIDL	Fluoxetine Hydrochloride  Capsules  20 mg	2962
+FLCA115553NEMIS	Fluoxetine Hydrochloride  Capsules  10 mg	13
+FLCA116749NEMIS	Fluoxetine Hydrochloride  Capsules  30 mg	15
+FLCA116750NEMIS	Fluoxetine Hydrochloride  Capsules  40 mg	12
+FLOR13431NEMIS	Fluoxetine Hydrochloride  Oral solution  20 mg/5 ml	65
+FLOR44068NEMIS	Fluoxetine Hydrochloride  Oral Solution, Sugar Free  20 mg/5 ml	114
+FLTA17661NEMIS	Flupentixol  Tablets  1 mg	1
+GACA23645EMIS	Gabapentin  Capsules  100 mg	1913
+GACA23646EMIS	Gabapentin  Capsules  300 mg	3352
+GACA23647EMIS	Gabapentin  Capsules  400 mg	820
+GAOR13764NEMIS	Gabapentin  Oral solution  250 mg/5 ml	26
+GATA4733NEMIS	Gabapentin  Tablets  600 mg	854
+GATA4734NEMIS	Gabapentin  Tablets  800 mg	23
+HAIN1341	Haloperidol  Injection  100 mg/ml, 1 ml ampoule	1
+HAIN15566NEMIS	Haloperidol  Injection  5 mg/ml, 1 ml ampoule	9
+HATA1344	Haloperidol  Tablets  1.5 mg	7
+HATA1347	Haloperidol  Tablets  5 mg	1
+IBM/18882EMIS	Ibuprofen  M/R tablets  800 mg	46
+IBSU13346NEMIS	Ibuprofen  Suspension  100 mg/5 ml	3
+IBSU34992EMIS	Ibuprofen  Sugar-free suspension  100 mg/5 ml	8
+IBTA1429	Ibuprofen  Tablets  200 mg	288
+IBTA1430	Ibuprofen  Tablets  400 mg	702
+IBTA1431	Ibuprofen  Tablets  600 mg	31
+IMTA1443	Imipramine  Tablets  25 mg	156
+IMTA5022	Imipramine Hydrochloride  Tablets  10 mg	136
+INCA17688NEMIS	Indometacin  Capsules  25 mg	6
+INCA17689NEMIS	Indometacin  Capsules  50 mg	55
+INM/17695NEMIS	Indometacin  M/R capsules  75 mg	2
+KECA8763BRIDL	Ketoprofen  M/R capsules  200 mg	9
+KETA19080NEMIS	Keppra  Tablets  750 mg	1
+KETA5618NEMIS	Keppra  Tablets  250 mg	26
+KETA5619NEMIS	Keppra  Tablets  500 mg	15
+LADI24495EMIS	Lamotrigine  Dispersible tablets  Sugar Free 100 mg	14
+LATA17996EMIS	Lamotrigine  Tablets  100 mg	331
+LATA17997EMIS	Lamotrigine  Tablets  50 mg	465
+LATA22481EMIS	Lamotrigine  Tablets  25 mg	206
+LATA27770EMIS	Lamotrigine  Tablets  200 mg	547
+LATA31252NEMIS	Lacosamide  Tablets  50 mg	7
+LATA31254NEMIS	Lacosamide  Tablets  100 mg	10
+LATA31256NEMIS	Lacosamide  Tablets  200 mg	19
+LEIN17312NEMIS	Levomepromazine  Solution for injection  25 mg/ml, 1 ml ampoule	210
+LEOR19079NEMIS	Levetiracetam  Oral Solution, Sugar Free  100 mg/ml	124
+LESU78271NEMIS	Levetiracetam  Sugar free granules  1000 mg sachet	9
+LESU78272NEMIS	Levetiracetam  Sugar free granules  250 mg sachet	9
+LETA17313NEMIS	Levomepromazine  Tablets  25 mg	43
+LETA17314NEMIS	Levomepromazine  Tablets  6 mg	11
+LETA19078NEMIS	Levetiracetam  Tablets  750 mg	30
+LETA5613NEMIS	Levetiracetam  Tablets  250 mg	410
+LETA5615NEMIS	Levetiracetam  Tablets  500 mg	203
+LETA5616NEMIS	Levetiracetam  Tablets  1000 mg	463
+LOTA1684	Lofepramine  Tablets  70 mg	278
+LYCA18437NEMIS	Lyrica  Capsules  25 mg	200
+LYCA18438NEMIS	Lyrica  Capsules  50 mg	123
+LYCA18439NEMIS	Lyrica  Capsules  75 mg	145
+LYCA18440NEMIS	Lyrica  Capsules  100 mg	170
+LYCA18441NEMIS	Lyrica  Capsules  150 mg	45
+LYCA18442NEMIS	Lyrica  Capsules  200 mg	1
+LYCA18443NEMIS	Lyrica  Capsules  300 mg	184
+MECA1751	Mefenamic Acid  Capsules  250 mg	1
+META1753	Mefenamic Acid  Tablets  500 mg	52
+META28880EMIS	Meloxicam  Tablets  15 mg	36
+META28881EMIS	Meloxicam  Tablets  7.5 mg	27
+MIOR16205NEMIS	Mirtazapine  Orodispersible tablets  30 mg	58
+MIOR16890NEMIS	Mirtazapine  Orodispersible tablets  15 mg	112
+MIOR16891NEMIS	Mirtazapine  Orodispersible tablets  45 mg	122
+MITA19793NEMIS	Mirtazapine  Tablets  15 mg	2539
+MITA19794NEMIS	Mirtazapine  Tablets  45 mg	2548
+MITA31478EMIS	Mirtazapine  Tablets  30 mg	2629
+MOCA1869	Molipaxin  Capsules  50 mg	2
+MOIN10029BRIDL	Modecate  Injection  50 mg/2 ml ampoule	17
+MOSY8788BRIDL	Modecate  Injection  25 mg/1 ml ampoule	2
+NAE/9202EMIS	Naproxen  E/c tablets  250 mg	170
+NAE/9203EMIS	Naproxen  E/c tablets  500 mg	286
+NAE/9389EMIS	Naproxen  E/c tablets  375 mg	3
+NATA1938	Naproxen  Tablets  250 mg	265
+NATA1939	Naproxen  Tablets  500 mg	521
+NEEY36713NEMIS	Nevanac  Eye drops  1 mg/ml	1
+NOTA123310NEMIS	Nortriptyline  Tablets  50 mg	25
+NOTA5215	Nortriptyline  Tablets  10 mg	432
+NOTA6760	Nortriptyline  Tablets  25 mg	179
+OFTA23520EMIS	Ofloxacin  Tablets  400 mg	14
+OLOR3800NEMIS	Olanzapine  Oral Lyophilisate Sugar Free  5 mg	4
+OLOR71531NEMIS	Olanzapine  Orodispersible tablets  10 mg	9
+OLOR71532NEMIS	Olanzapine  Orodispersible tablets  15 mg	16
+OLTA13258NEMIS	Olanzapine  Tablets  15 mg	125
+OLTA15758NEMIS	Olmesartan Medoxomil  Tablets  10 mg	159
+OLTA15760NEMIS	Olmesartan Medoxomil  Tablets  20 mg	198
+OLTA23534NEMIS	Olanzapine  Tablets  20 mg	486
+OLTA29729EMIS	Olanzapine  Tablets  10 mg	789
+OLTA29730EMIS	Olanzapine  Tablets  5 mg	206
+OLTA29731EMIS	Olanzapine  Tablets  7.5 mg	130
+OLTA34085EMIS	Olanzapine  Tablets  2.5 mg	220
+OMCA10940BRIDL	Omeprazole  Capsules (Gastro-Resistant)  20 mg	32426
+OMCA13300NEMIS	Omacor  Capsules  1000 mg	651
+OMCA23822EMIS	Omeprazole  Capsules (Gastro-Resistant)  40 mg	822
+OMCA25325EMIS	Omeprazole  Capsules (Gastro-Resistant)  10 mg	1963
+OMDI13049NEMIS	Omeprazole  Dispersible (Gastro-Resistant) Tablets  10 mg	9
+OMDI13050NEMIS	Omeprazole  Dispersible (Gastro-Resistant) Tablets  20 mg	105
+OMDI13051NEMIS	Omeprazole  Dispersible (Gastro-Resistant) Tablets  40 mg	11
+OMTA1187NEMIS	Omeprazole  Tablets (Gastro-Resistant)  20 mg	469
+OMTA1188NEMIS	Omeprazole  Tablets (Gastro-Resistant)  40 mg	38
+ONOR44686NEMIS	Ondansetron  Orodispersible tablets  8 mg	1
+ONOR82335NEMIS	Ondansetron  Orodispersible Films (Sugar Free)  4 mg	1
+ONSU30358EMIS	Ondansetron Hydrochloride  Oral Solution, Sugar Free  4 mg/5 ml	2
+ONTA9770HILLI	Ondansetron Hydrochloride  Tablets  4 mg	31
+ONTA9771HILLI	Ondansetron Hydrochloride  Tablets  8 mg	16
+ORCA34117EMIS	Orlistat  Capsules  120 mg	175
+ORCA48100NEMIS	Orlistat  Capsules  60 mg	67
+OSCA14664NEMIS	Oseltamivir  Capsules  75 mg	2
+OSCA29014NEMIS	Oseltamivir  Capsules  30 mg	2
+OVCR2125	Ovestin  Cream  1 mg	38
+OXCA10581BRIDL	Oxerutins  Capsules  250 mg	3
+OXCA11081NEMIS	Oxactin  Capsules  20 mg	14
+OXM/4776NEMIS	Oxybutynin Hydrochloride  M/R tablets  5 mg	137
+OXM/4777NEMIS	Oxybutynin Hydrochloride  M/R tablets  10 mg	253
+OXTA19601EMIS	Oxybutynin Hydrochloride  Tablets  3 mg	238
+OXTA2131	Oxazepam  Tablets  10 mg	75
+OXTA2140	Oxprenolol Hydrochloride  Sr tablets  160 mg	14
+OXTA2146	Oxytetracycline  Tablets  250 mg	122
+OXTA8594BRID	Ditropan  Tablets  5 mg	235
+OXTA9033EMIS	Oxybutynin Hydrochloride  Tablets  2.5 mg	148
+OXTA9034EMIS	Oxybutynin Hydrochloride  Tablets  5 mg	429
+OXTR20079NEMIS	Oxybutynin Hydrochloride  Transdermal patches  3.9 mg/24 hours	4
+PATA24526NEMIS	Paroxetine Hydrochloride  Tablets  10 mg	425
+PATA8972EMIS	Paroxetine Hydrochloride  Tablets  20 mg	715
+PATA8973EMIS	Paroxetine Hydrochloride  Tablets  30 mg	143
+PETA7008	Pericyazine  Tablets  2.5 mg	26
+PETA76721NEMIS	Perampanel  Tablets  2 mg	1
+PETA76723NEMIS	Perampanel  Tablets  4 mg	1
+PETA76724NEMIS	Perampanel  Tablets  6 mg	5
+PETA76725NEMIS	Perampanel  Tablets  8 mg	2
+PHCA19758EMIS	Phenytoin Sodium  Capsules  300 mg	92
+PHCA2241	Phenytoin Sodium  Capsules  100 mg	241
+PHCA2242	Phenytoin Sodium  Capsules  25 mg	54
+PHCA2243	Phenytoin Sodium  Capsules  50 mg	7
+PHTA17818NEMIS	Phenobarbital  Tablets  30 mg	419
+PHTA17819NEMIS	Phenobarbital  Tablets  60 mg	14
+PHTA2226	Phenelzine  Tablets  15 mg	30
+PHTA5282	Phenytoin Sodium  Tablets  100 mg	42
+PICA2280	Piroxicam  Capsules  20 mg	1
+PIME22465EMIS	Piroxicam  Orodispersible tablets  20 mg	1
+PITA23834EMIS	Piracetam  Tablets  800 mg	6
+POTA2309	Ponstan  Tablets forte  500 mg	1
+PRCA18428NEMIS	Pregabalin  Capsules  25 mg	532
+PRCA18430NEMIS	Pregabalin  Capsules  50 mg	334
+PRCA18431NEMIS	Pregabalin  Capsules  75 mg	792
+PRCA18432NEMIS	Pregabalin  Capsules  100 mg	456
+PRCA18433NEMIS	Pregabalin  Capsules  150 mg	462
+PRCA18434NEMIS	Pregabalin  Capsules  200 mg	233
+PRCA18435NEMIS	Pregabalin  Capsules  300 mg	768
+PRCA2401	Prothiaden  Capsules  25 mg	1
+PROR11626NEMIS	Promazine Hydrochloride  Oral solution  50 mg/5 ml	183
+PROR74091NEMIS	Pregabalin  Oral Solution, Sugar Free  20 mg/ml	2
+PRSY12797NEMIS	Promazine Hydrochloride  Syrup  50 mg/5 ml	1
+PRSY29334EMIS	Promazine Hydrochloride  Oral solution  25 mg/5 ml	495
+PRTA2377	Promazine Hydrochloride  Tablets  25 mg	96
+PRTA2378	Promazine Hydrochloride  Tablets  50 mg	85
+PRTA47630NEMIS	Primidone  Tablets  50 mg	26
+PRTA5332	Primidone  Tablets  250 mg	59
+QUM/31062NEMIS	Quetiapine Fumarate  M/R tablets  300 mg	6
+QUM/31063NEMIS	Quetiapine Fumarate  M/R tablets  400 mg	9
+QUTA31563EMIS	Quetiapine Fumarate  Tablets  100 mg	325
+QUTA31564EMIS	Quetiapine Fumarate  Tablets  200 mg	26
+QUTA31565EMIS	Quetiapine Fumarate  Tablets  25 mg	147
+QUTA959NEMIS	Quetiapine Fumarate  Tablets  150 mg	39
+RECA100514NEMIS	Rewisca  Capsules  50 mg	1
+RILI28308EMIS	Risperdal  Oral solution  1 mg/1 ml	1
+RILI28310EMIS	Risperidone  Oral Solution, Sugar Free  1 mg/1 ml	1
+RIOP1539NEMIS	Rimexolone  Eye drops  10 mg/ml	1
+RITA23782EMIS	Risperdal  Tablets  1 mg	440
+RITA23783EMIS	Risperdal  Tablets  2 mg	257
+RITA23790EMIS	Risperidone  Tablets  1 mg	191
+RITA23791EMIS	Risperidone  Tablets  2 mg	48
+RITA23792EMIS	Risperidone  Tablets  3 mg	103
+RITA23793EMIS	Risperidone  Tablets  4 mg	450
+RITA31681EMIS	Risperidone  Tablets  6 mg	113
+SETA8968EMIS	Seroxat  Tablets  20 mg	57
+SETA9308EMIS	Sertraline Hydrochloride  Tablets  100 mg	3189
+SETA9309EMIS	Sertraline Hydrochloride  Tablets  50 mg	3790
+SOLI2627	Sodium Valproate  Sugar-free liquid  200 mg/5 ml	8
+SOM/23967EMIS	Sodium Valproate  M/R tablets  300 mg	450
+SOM/23968EMIS	Sodium Valproate  M/R tablets  500 mg	118
+SOM/25449NEMIS	Sodium Valproate  M/R capsules  300 mg	2
+SOTA2629	Sodium Valproate  Crushable tablets  100 mg	32
+SOTA2630	Sodium Valproate  E/c tablets  200 mg	76
+SOTA2631	Sodium Valproate  E/c tablets  500 mg	7
+BASH2713NEMIS	Bard Urisac  Short tube leg bags  350ml, 7661	1
+STSY2686	Stelazine  Syrup  1 mg/5 ml	1
+SUCA2748	Surmontil  Capsules  50 mg	41
+SUTA2733	Sulpiride  Tablets  200 mg	60
+TESY2787	Tegretol  Sugar-free liquid  100 mg/5 ml	9
+TETA20599EMIS	Tenoxicam  Tablets  20 mg	88
+TETA2788	Tegretol  Tablets  100 mg	278
+TETA2789	Tegretol  Tablets  200 mg	50
+TETA9540BRIDL	Tegretol Prolonged Release  M/R tablets  200 mg	22
+TETA9542BRIDL	Tegretol Prolonged Release  M/R tablets  400 mg	7
+TOCA18895NEMIS	Topiramate  Capsules  15 mg	6
+TOCA18896NEMIS	Topiramate  Capsules  25 mg	14
+TOCA18897NEMIS	Topiramate  Capsules  50 mg	131
+TOEY10807NEMIS	Tobradex  Eye drops  3 mg/ml + 1 mg/ml	131
+TOTA30046EMIS	Topamax  Tablets  25 mg	2
+TOTA30051EMIS	Topiramate  Tablets  100 mg	98
+TOTA30052EMIS	Topiramate  Tablets  200 mg	40
+TOTA30053EMIS	Topiramate  Tablets  25 mg	14
+TOTA30054EMIS	Topiramate  Tablets  50 mg	45
+TRCA2900	Trazodone Hydrochloride  Capsules  50 mg	694
+TRCA2940	Trimipramine  Capsules  50 mg	79
+TRCA5464	Trazodone Hydrochloride  Capsules  100 mg	990
+TRLI2901	Trazodone Hydrochloride  Oral Solution, Sugar Free  50 mg/5 ml	101
+TRSY2927	Trifluoperazine  Oral Solution, Sugar Free  1 mg/5 ml	12
+TRTA2928	Trifluoperazine  Tablets  1 mg	20
+TRTA5465	Trazodone Hydrochloride  Tablets  150 mg	52
+VAE/12513NEMIS	Valproic Acid (As Semisodium Valproate)  E/c tablets  250 mg	213
+VAE/12514NEMIS	Valproic Acid (As Semisodium Valproate)  E/c tablets  500 mg	261
+VEM/31438EMIS	Venlafaxine  M/R capsules  150 mg	433
+VEM/31439EMIS	Venlafaxine  M/R capsules  75 mg	400
+VEM/33582NEMIS	Venlafaxine  M/R tablets  75 mg	51
+VEM/34459NEMIS	Vensir Xl  M/R capsules  75 mg	2
+VEM/34460NEMIS	Vensir Xl  M/R capsules  150 mg	9
+VEM/34935NEMIS	Venaxx Xl  M/R capsules  75 mg	65
+VEM/34936NEMIS	Venaxx Xl  M/R capsules  150 mg	92
+VEM/36232NEMIS	Venlafaxine  M/R tablets  225 mg	7
+VEM/36234NEMIS	Venlalic Xl  M/R tablets  225 mg	5
+VEM/36235NEMIS	Venlalic Xl  M/R tablets  150 mg	144
+VEM/36236NEMIS	Venlalic Xl  M/R tablets  75 mg	25
+VEM/48723NEMIS	Venlafaxine  M/R tablets  37.5 mg	20
+VEM/86017NEMIS	Venlafaxine  M/R capsules  37.5 mg	3
+VETA26284EMIS	Venlafaxine  Tablets  37.5 mg	89
+VETA26285EMIS	Venlafaxine  Tablets  75 mg	525
+VETA3038	Nozinan  Tablets  25 mg	4
+VIM/47268NEMIS	Vimovo  M/R tablets  500 mg + 20 mg	3
+VOM/13540NEMIS	Volsaid Retard 75  M/R tablets  75 mg	1
+VOTA3066	Voltarol Retard  M/R tablets  100 mg	5
+ZOCA20273NEMIS	Zonisamide  Capsules  50 mg	33
+ZOCA20274NEMIS	Zonisamide  Capsules  100 mg	80
+ZYOR3804NEMIS	Zyprexa Velotab  Orodispersible tablets  10 mg	2
+DIOI3453	Diprobase  Ointment  	108
+EMOI1059	Emulsifying  Ointment  	88
+DICR6758	Diethylamine Salicylate  Cream  10 %	74
+BESP4637	Benzydamine Hydrochloride  Spray  Sugar Free 0.15 %	73
+EUCR1127	Eurax  Cream  10 %	62
+DICR3456	Diprosone  Cream  0.05 %	51
+EFCR3499	Efudix  Cream  5 %	51
+DITA3460	Dixarit  Tablets  25 micrograms	45
+OROR4093	Orabase  Paste  	27
+DIOI3455	Diprosalic  Ointment  0.05 % + 3 %	26
+BEOI3241	Betnovate-Rd  Ointment  0.025 %	22
+EULO1128	Eurax  Lotion  10 %	18
+HATA6901	Haloperidol  Tablets  500 micrograms	16
+BECR3240	Betnovate-Rd  Cream  0.025 %	14
+EUCR1130	Eurax-Hydrocortisone  Cream  	10
+ENIN1070	Engerix B  Suspension For Injection  20 micrograms/1 ml vial	9
+OTEA2120	Otosporin  Ear-drops  	9
+DILO3454	Diprosalic  Scalp application  0.05 % + 2 %	7
+OLOI2074	Olive  Oil  bp	7
+ORMO2092	Oraldene  Mouth wash  Peppermint, 0.1 %	6
+OTEY2123	Otrivine-Antistin  Eye drops  	4
+BEOI4642	Betamethasone  Ointment  0.05 % (as dipropionate)	2
+ECCR4878	Econazole Nitrate  Cream  1 %	2
+BAOI3216	Balneum  Bath oil  84.75 %	1
+BESC4643	Betamethasone Scalp application 0.05 %	1
+ORPE4097	Ortho-Gynest  Pessaries  500 micrograms	1
+EPNA1087	Ephedrine Hydrochloride  Nasal drops  1 %	1
+E4CR1018	E45  Cream  	903
+ONCA2078	One-Alpha  Capsules  250 nanograms	536
+EUCR1123	Eumovate  Cream  0.05 %	146
+HACA1338	Haloperidol  Capsules  500 micrograms	145
+OIEM2073	Oilatum  Emollient  	137
+ONCA2077	One-Alpha  Capsules  1 microgram	133
+DISP3427	Difflam  Spray  0.15 %	126
+DIOR3426	Difflam  Oral Rinse  0.15 %	116
+EUOI1125	Eumovate  Ointment  0.05 %	111
+BRTUEGTON7168	Bricanyl  Turbohaler  500 micrograms/dose	395
+FLTA8362BRID	Fludrocortisone  Tablets  100 micrograms	387
+EADR19043NEMIS	Easyhaler Salbutamol  Dry Powder Inhaler  100 micrograms/actuation	373
+EADR19044NEMIS	Easyhaler Salbutamol  Dry Powder Inhaler  200 micrograms/actuation	288
+BUDR18593NEMIS	Budesonide And Formoterol  Dry Powder Inhaler  400 micrograms + 12 micrograms/actuation	203
+EVTR22315EMIS	Evorel  Transdermal patches  50 micrograms/24 hrs	145
+FOCF106430NEMIS	Fostair  Cfc-free inhaler  200 micrograms + 6 micrograms/dose	139
+RITA5273NEMIS	Risperidone  Tablets  500 micrograms	108
+ESTR28299EMIS	Estraderm Mx  Transdermal patches  50 micrograms/24 hrs	99
+EADR21092NEMIS	Easyhaler Beclometasone  Dry Powder Inhaler  200 micrograms/actuation	96
+BECF28854NEMIS	Beclometasone And Formoterol  Cfc-free inhaler  100 micrograms + 6 micrograms/dose	95
+ESTR17761NEMIS	Estradiol  Transdermal patches  50 micrograms/24 hrs	56
+OXBR31953EMIS	Oxis Turbohaler  Breath-actuated inhaler  12 micrograms/dose, 60 dose	50
+EKDR76095NEMIS	Eklira Genuair  Dry Powder Inhaler  322 micrograms/dose	42
+BECF17549NEMIS	Beclometasone  Cfc-free inhaler  100 micrograms/actuation	34
+BUDR18592NEMIS	Budesonide And Formoterol  Dry Powder Inhaler  200 micrograms + 6 micrograms/actuation	28
+BEIN17538NEMIS	Beclometasone  Inhaler  100 micrograms/actuation	22
+BUBR34630EMIS	Budesonide  Breath-Actuated Dry Powder Inhaler  400 micrograms/dose	22
+ESTR17759NEMIS	Estradiol  Transdermal patches  25 micrograms/24 hrs	22
+EPIN27256EMIS	Epipen  Solution for injection  300 micrograms/0.3 ml auto-injector	18
+EADR21824NEMIS	Easyhaler Budesonide  Dry Powder Inhaler  100 micrograms/actuation	17
+EADR21825NEMIS	Easyhaler Budesonide  Dry Powder Inhaler  200 micrograms/actuation	15
+BECF17548NEMIS	Beclometasone  Cfc-free inhaler  50 micrograms/actuation	14
+BUDR21822NEMIS	Budesonide  Dry Powder Inhaler  400 micrograms/actuation	14
+ENCU114458NEMIS	Enstilar  Cutaneous Foam  50 micrograms + 500 micrograms/gram	11
+BUCF33455NEMIS	Budesonide  Cfc-free inhaler  200 micrograms/dose	10
+BUIN40206NEMIS	Budelin Novolizer  Inhalation Powder With Device  200 micrograms/dose	10
+ETTA18971NEMIS	Ethinylestradiol And Levonorgestrel  Tablets  30 micrograms + 150 micrograms	10
+BUTU10005BRIDL	Budesonide  Turbohaler  200 micrograms/dose	9
+BUIN19789NEMIS	Budesonide  Inhalation Cartridge Refill  200 micrograms/dose, 100 doses	8
+ENPR27292EMIS	Engerix B  Prefilled syringe  20 micrograms/1 ml	8
+ESTR19389NEMIS	Estradot  Transdermal patches  37.5 micrograms/24 hrs	8
+CICF33575NEMIS	Ciclesonide  Cfc-free inhaler  160 micrograms/actuation	7
+BEIN17525NEMIS	Beclometasone  Inhaler  250 micrograms/actuation	5
+OLSO90843NEMIS	Olodaterol  Inhalation Solution Cartridge With Device  2.5 micrograms/dose	5
+BEIN17537NEMIS	Beclometasone  Inhaler  200 micrograms/actuation	4
+BEDR93316NEMIS	Beclometasone And Formoterol  Dry Powder Inhaler  100 micrograms + 6 micrograms/dose	3
+BEFO114450NEMIS	Betamethasone Dipropionate And Calcipotriol  Foam  500 micrograms + 50 micrograms/gram	3
+DIEL10376BRIDL	Digoxin  Elixir  50 micrograms/ml	3
+ESPA8673EGTON	Estraderm Tts  Transdermal patches  50 micrograms/24 hrs	3
+ESTR19390NEMIS	Estradot  Transdermal patches  50 micrograms/24 hrs	3
+EMSO86729NEMIS	Emerade  Solution for injection  300 micrograms/0.3 ml auto-injector	2
+ESPE46850NEMIS	Estradiol  Pessaries  10 micrograms	2
+ETSH26228NEMIS	Etrivex  Shampoo  500 micrograms/gram	2
+BEBR17526NEMIS	Beclometasone  Breath-actuated inhaler  250 micrograms/actuation	1
+BEBR17528NEMIS	Beclometasone  Breath-actuated inhaler  100 micrograms/actuation	1
+BEBR17550NEMIS	Beclometasone  Breath-Actuated Inhaler (Cfc-Free)  50 micrograms/actuation	1
+BEIN34109EMIS	Beclazone 200  Inhaler  200 micrograms/puff	1
+BUDR21821NEMIS	Budesonide  Dry Powder Inhaler  200 micrograms/actuation	1
+EADR21826NEMIS	Easyhaler Budesonide  Dry Powder Inhaler  400 micrograms/actuation	1
+ENPR14265NEMIS	Engerix B  Pre-Filled Syringe  10 micrograms/0.5 ml	1
+ESPA8672EGTON	Estraderm Tts  Transdermal patches  25 micrograms/24 hrs	1
+FLTA17662NEMIS	Flupentixol  Tablets  500 micrograms	1
+FODR106375NEMIS	Fostair Nexthaler  Dry Powder Inhaler  200 micrograms + 6 micrograms/dose	1
+DITA905	Digoxin  Tablets  125 micrograms	3949
+DITA908	Digoxin  Tablets  62.5 micrograms	2100
+CLTA654	Clonazepam  Tablets  500 micrograms	893
+DITA906	Digoxin  Tablets  250 micrograms	255
+BETA345	Betamethasone Sodium Phosphate  Soluble tablets  Sugar Free 500 micrograms	8
+BEGE33326NEMIS	Betamethasone Dipropionate And Calcipotriol  Gel  0.05 % + 50 micrograms/gram	49
+DIGE25688EMIS	Diclofenac Diethylammonium  Gel  1.16 %	701
+ORGE9595EMIS	Oruvail  Gel  2.5 %	36
+DIGE10794NEMIS	Diclofenac Sodium  Gel  3 %	28
+OISH19833EMIS	Oilatum  Shower gel  70 %	14
+OEGE26580EMIS	Oestrogel  Gel  0.06 % pump-pack	10
+OPDI19773NEMIS	Opus Absorbagel  Discharge Solidifying Sachets for Stoma Bag  9900	8
+BEGE19510NEMIS	Benzoyl Peroxide And Clindamycin  Gel  5 % + 1 %	7
+ESGE17750NEMIS	Estradiol  Gel  0.06 %	6
+BAPR19955EMIS	Bard Biocath Hydrogel Coated  Prefilled female catheter  Aquamatic, 14 ch, D2268	5
+DIGE89384NEMIS	Diclofenac Diethylammonium  Gel  2.32 %	4
+OISH40662NEMIS	Oilatum  Shower gel  fragrance-free 70 %	4
+BIMO13823NEMIS	Bioxtra  Moisturising Gel  	3
+BACA10733BRIDL	Bard Biocath Hydrogel Coated  Prefilled male catheter  Aquamatic, 14 ch, D2264	2
+BACA19978EMIS	Bard Biocath Hydrogel Coated  Catheter (male)  14 ch, 30 ml, D2266	2
+BOGE20884NEMIS	Bonjela Cool Mint  Gel  8.7 %	2
+BAPR19962EMIS	Bard Biocath Hydrogel Coated  Prefilled male catheter  Aquamatic, 12 ch, D2264	1
+BAVA36990NEMIS	Balance Activ Bv  Vaginal gel  	1
+BEAQ9177HILLI	Benzoyl Peroxide  Aquagel  2.5 %	1
+BEDE35109NEMIS	Benzocaine  Dental gel  Sugar Free 10 %	1
+EPGE42895NEMIS	Epiduo  Gel  0.1 % + 2.5 %	1
+BOGE393	Bonjela  Gel  8.7 %	8
+DICR8864BRIDL	Diprobase  Cream  	692
+EPCR34485NEMIS	Epaderm  Cream  	170
+BACR30474EMIS	Balneum Plus  Cream  	148
+OICR6348NEMIS	Oilatum  Cream  	138
+E4CR4770NEMIS	E45 Itch Relief  Cream  	101
+BECR20606EMIS	Betamethasone Valerate  Cream  0.025 %	65
+EMCR9006EMIS	Emla  Cream  5 %	63
+BECR19810NEMIS	Betamethasone Dipropionate And Clotrimazole  Cream  0.064 % + 1 %	56
+DICR19497NEMIS	Dimeticone And Benzalkonium Chloride  Cream  22 % + 0.1 %	44
+BACREGTON6195	Balmosa  Cream  	39
+ELCR22373EMIS	Elocon  Cream  0.1 %	25
+DICR9302BRIDL	Dithrocream  Cream  0.5 %	21
+BECR19489NEMIS	Betamethasone Valerate And Neomycin  Cream  0.1 % + 0.5 %	16
+BECR19371NEMIS	Betamethasone Valerate And Clioquinol  Cream  0.1 % + 3 %	8
+DICR15437NEMIS	Diltiazem Hydrochloride  Cream  2 %	5
+ECCR42219NEMIS	Eczmol  Cream  1 %	5
+EUCR27831NEMIS	Eumocream  Cream  	5
+BACR3559NEMIS	Bactroban  Cream  2 %	4
+EMPR2911NEMIS	Emla  Premedication pack cream  5 %	4
+EUCR32812EMIS	Eucerin  Cream  5 %	4
+EUCR11329NEMIS	Eurax Hc  Cream  	3
+OICR15398NEMIS	Oilatum  Cream (Pump Dispenser)  500 ml	3
+EUCR34330EMIS	Eucerin  Cream  10 %	2
+BACR39610NEMIS	Balneum  Cream  	1
+BECR4224NEMIS	Betamethasone  Cream  0.05 % (as dipropionate)	1
+DIOI9415HILLI	Diflucortolone Valerate  Oily cream  0.3 %	1
+DIOI9490EMIS	Diflucortolone Valerate  Oily cream  0.1 %	1
+E4SH13247NEMIS	E45  Shower Cream  	1
+OICR6523NEMIS	Oilatum Junior  Cream  	1
+BECR356	Betnovate  Cream  0.1 %	200
+BECR346	Betamethasone Valerate  Cream  0.1 %	165
+DICR895	Difflam  Cream  3 %	90
+BECR322	Benzydamine Hydrochloride  Cream  3 %	72
+BECR361	Betnovate-N  Cream  	35
+BECR359	Betnovate-C  Cream  	3
+DICR951	Dithranol  Cream  0.1 %	2
+BENAEGTON7181	Beconase  Aqueous nasal spray  50 micrograms/dose	1028
+BEAQ17586NEMIS	Beclometasone  Aqueous nasal spray  50 micrograms/actuation	174
+BUAQ17457NEMIS	Budesonide  Aqueous nasal spray  64 micrograms/dose	72
+BIGE116601NEMIS	Bioxtra Dry Mouth  Gel Mouthspray  	4
+BIGE22838NEMIS	Bioxtra  Gel Mouthspray  	1
+MOSP34931NEMIS	Mobigel  Spray  4 %	1
+OTSP9659BRIDL	Otomize  Spray  	417
+EAEA1278NEMIS	Earcalm  Ear Spray  2 %	27
+ELAE9460HILLI	Eludril  Aerosol spray  	2
+BDNE958NEMIS	Bd-Microfine +  Needles for insulin pens  8 mm/31 gauge	278
+BDNE110065NEMIS	Bd Viva  Needles for insulin pens  4 mm/32 gauge	165
+BDNE672NEMIS	Bd-Microfine +  Needles for insulin pens  5 mm/31 gauge	138
+BDLA33783EMIS	Bd-Microfine +  Lancets  type a, 0.30 mm/30 gauge	71
+BDNE81511NEMIS	Bd Micro-Fine Ultra  Needles for insulin pens  4 mm/32 gauge	53
+OMLA79099NEMIS	Omnican Lance Soft  Lancets  0.30 mm/30 gauge	42
+OMNE52361NEMIS	Omnican Fine  Needles for insulin pens  6 mm/31 gauge	35
+OMNE82091NEMIS	Omnican Fine  Needles for insulin pens  4 mm/31 gauge	26
+OMNE52362NEMIS	Omnican Fine  Needles for insulin pens  8 mm/31 gauge	20
+BDLA20391NEMIS	Bd-Microfine +  Lancets  type a, 0.20 mm/33 gauge	12
+BDNE32444EMIS	Bd-Microfine +  Needles for insulin pens  12.7 mm/29 gauge	12
+ONLA12841NEMIS	Onetouch Ultrasoft  Lancets  type a, 0.4 mm/28 gauge	6
+ONLA36924NEMIS	Onetouch Comfort  Lancets  0.20 mm/33 gauge	5
+OMNE121662NEMIS	Omnican Fine  Needles for insulin pens  5 mm/31 gauge	4
+BDNE110067NEMIS	Bd Viva  Needles for insulin pens  8 mm/31 gauge	3
+BDNE110066NEMIS	Bd Viva  Needles for insulin pens  5 mm/31 gauge	2
+BGLA52366NEMIS	Bgstar Ultra-Thin  Lancets  0.20 mm/33 gauge	2
+ETSU5216NEMIS	Ethicon Non Absorbable  Sutures  W319, 1.5 gauge, 45 cm, 19 mm needle curved	2
+ONLA82093NEMIS	Onetouch Delica  Lancets  0.32 mm/30 gauge	2
+BDNE52673NEMIS	Bd Autoshield Duo  Needles for insulin pens  5 mm/30 gauge	1
+ETSU16026NEMIS	Ethicon Polyamide Synthetic  Sutures  W1618T, 1 gauge, 45 cm, 19 mm P needle curved	1
+OMNE52363NEMIS	Omnican Fine  Needles for insulin pens  10 mm/30 gauge	1
+ENLI29149NEMIS	Ensure Plus  Liquid Feed (Mixed Flavours)  Milkshake Style	296
+ENLI86021NEMIS	Ensure Compact  Liquid  	277
+ENLI29143NEMIS	Ensure Plus  Liquid feed (banana)  Milkshake Style	216
+ENLI38384NEMIS	Ensure Plus  Liquid  	140
+ENLI86294NEMIS	Ensure Compact  Liquid (strawberry)  	120
+ENLI29138NEMIS	Ensure Plus  Liquid feed (strawberry)  Milkshake Style	98
+ENLI86022NEMIS	Ensure Compact  Liquid (vanilla)  	81
+ENLI29164NEMIS	Ensure Plus Juce Liquid (Mixed Flavours)	80
+ENLI39012NEMIS	Ensure Plus Fibre  Liquid feed  	68
+ENLI29141NEMIS	Ensure Plus  Liquid Feed (Vanilla)  Milkshake Style	67
+ENLI29167NEMIS	Ensure Plus Fibre  Liquid Feed (Mixed Flavours)  	42
+ENLI36414NEMIS	Ensure Plus Juce  Liquid  	32
+ENLI39013NEMIS	Ensure Twocal  Liquid feed  	30
+ENLI86293NEMIS	Ensure Compact  Liquid (Banana)  	25
+ENLI111774NEMIS	Ensure Plus Advance  Liquid feed (strawberry)  	24
+ENLI29165NEMIS	Ensure Plus Fibre  Liquid Feed (Vanilla)  	23
+ENLI30876NEMIS	Ensure Twocal Liquid feed (mixed flavours)	22
+ENLI479NEMIS	Ensure  Liquid Feed (Mixed Flavours) Cans  250 ml	22
+ENLI121809NEMIS	Ensure Compact  Liquid (cafe latte)  	21
+ENLI29147NEMIS	Ensure Plus  Liquid Feed (Neutral)  Milkshake Style	21
+ENLI89823NEMIS	Ensure Plus Advance  Liquid feed  	21
+ENLI30875NEMIS	Ensure Twocal  Liquid feed (strawberry)  	20
+ENLI29157NEMIS	Ensure Plus Juce  Liquid (Fruit Punch)  	17
+ENLI29170NEMIS	Ensure Plus Fibre  Liquid feed (strawberry)  	14
+ENLI30854NEMIS	Ensure Twocal  Liquid feed (banana)  	13
+ENLI29137NEMIS	Ensure Plus  Liquid Feed (Chocolate)  Milkshake Style	12
+ENLI29142NEMIS	Ensure Plus  Liquid feed (raspberry)  Milkshake Style	12
+ENLI29145NEMIS	Ensure Plus  Liquid feed (fruits of the forest)  Milkshake Style	9
+ENLI29156NEMIS	Ensure Plus Juce  Liquid (strawberry)  	9
+ENDE39011NEMIS	Ensure Plus Creme  Dessert  	8
+ENLI30872NEMIS	Ensure Twocal  Liquid Feed (Vanilla)  	8
+ENLI36432NEMIS	Ensure  Liquid  	7
+ENLI89830NEMIS	Ensure Plus Advance  Liquid feed (banana)  	7
+ENLI10140BRIDL	Ensure Chocolate  Liquid  	6
+ENLI29160NEMIS	Ensure Plus Juce  Liquid (orange)  	6
+ENLI29163NEMIS	Ensure Plus Juce  Liquid (Apple)  	6
+ENLI23130NEMIS	Ensure Plus Commence  Liquid feed  	5
+ENLI29166NEMIS	Ensure Plus Fibre  Liquid Feed (Chocolate)  	5
+ENLI29169NEMIS	Ensure Plus Fibre  Liquid feed (banana)  	4
+ENLI89831NEMIS	Ensure Plus Advance  Liquid Feed (Chocolate)  	4
+ENLI29159NEMIS	Ensure Plus Juce  Liquid (lemon and lime)  	3
+ENLI29355NEMIS	Ensure Plus Savoury  Liquid Feed (Chicken)  	3
+ENLI30874NEMIS	Ensure Twocal  Liquid Feed (Neutral)  	2
+ENLI89832NEMIS	Ensure Plus Advance  Liquid Feed (Vanilla)  	2
+ENDE30918NEMIS	Ensure Plus Creme  Dessert (Mixed Flavours)  	1
+ENLI10146BRIDL	Ensure Vanilla  Liquid  	1
+ENLI29144NEMIS	Ensure Plus  Liquid feed (orange)  Milkshake Style	1
+ENLI29161NEMIS	Ensure Plus Juce  Liquid (Peach)  	1
+ENLI29354NEMIS	Ensure Plus Savoury  Liquid Feed (Mushroom)  	1
+ENLI8666EGTON	Ensure  Liquid feed can  250 ml	1
+ENYO29150NEMIS	Ensure Plus Yoghurt Style (Mixed Flavours)	1
+ENYO29151NEMIS	Ensure Plus  Yoghurt Style (Strawberry Swirl)  	1
+BREY50828NEMIS	Bromfenac  Eye drops  900 micrograms/ml	2
+YEEY50830NEMIS	Yellox  Eye drops  900 micrograms/ml	2
+OLEA934NEMIS	Olive Oil  Ear drops  	246
+OPEY33411NEMIS	Optive  Eye drops  0.5 %	167
+SOEY17852NEMIS	Sodium Cromoglicate  Eye drops  2 %	100
+BREY30586EMIS	Brimonidine Tartrate  Eye drops  0.2 %	90
+DEEY19459NEMIS	Dexamethasone And Tobramycin  Eye drops  0.1 % + 0.3 %	36
+BLEY33605NEMIS	Blink Intensive Tears  Eye drops  0.2 %	23
+RAAQ26596EMIS	Rapitil  Aqueous eye drops  2 %	16
+BUNE31835NEMIS	Bullen Hi-Slip Plus Hydrophilic  Nelaton catheter (male)  12ch, HS.PM4012	14
+SOEY42131NEMIS	Sodium Cromoglicate  Eye drops (preservative-free)  2 %, 0.3 ml unit dose	14
+EVPR109448NEMIS	Evolve Carmellose  Eye drops (preservative-free)  0.5 %	13
+PREY15421NEMIS	Prednisolone Sodium Phosphate  Eye Drops Unit Dose, Preservative Free  0.5 %	12
+EYEY23597EMIS	Hay-Crom  Aqueous eye drops  2 %	11
+BUNE31845NEMIS	Bullen Hi-Slip Plus Hydrophilic  Nelaton catheter (female)  10ch, HS.PF2010	9
+OPEY87043NEMIS	Optive Fusion  Eye drops  0.1 %	7
+NEAQ26598EMIS	Nedocromil Sodium  Aqueous eye drops  2 %	5
+VIEY24909EMIS	Vista-Methasone  Eye drops  0.1 %	5
+OPEY73995NEMIS	Optive Plus  Eye drops  0.5 %	4
+AZEY32240EMIS	Azelastine Hydrochloride  Eye drops  0.05 %	3
+BUNE31808NEMIS	Bullen Hi-Slip Hydrophilic  Nelaton catheter (male)  18ch, HS.SM4018	2
+LOEY29418NEMIS	Lotemax  Eye drops  0.5 %	2
+OPAQ9199BRIDL	Opticrom  Aqueous eye drops  2 %	2
+BEDR19448NEMIS	Betamethasone And Neomycin  Drops  0.1 % + 0.5 %	1
+BLEY33606NEMIS	Blink Intensive Tears  Eye Drops Unit Dose, Preservative Free  0.2 %	1
+BUNE31812NEMIS	Bullen Hi-Slip Hydrophilic  Nelaton catheter (female)  10ch, HS.SF2010	1
+EVEY115020NEMIS	Evolve Ha  Eye drops (preservative-free)  0.2 %	1
+OPEY1662NEMIS	Opticare Arthro 5  Eye Drop Dispenser  	1
+BEDR354	Betnesol-N  Drops  	11
+BEDR343	Betamethasone Sodium Phosphate  Drops  0.1 %	7
+BEDR351	Betnesol  Drops  0.1 %	2
+BREY413	Brolene  Eye drops  0.1 %	2
+OIBA24148EMIS	Oilatum Plus  Bath emollient  	372
+BABA19654EMIS	E45 Emollient  Bath oil  	46
+DIEM19542EMIS	Diprobath  Emollient  	1
+ONIN43608NEMIS	Onbrez Breezhaler  Inhalation Powder Capsules With Device  150 micrograms	3
+BRIN117769NEMIS	Braltus  Inhalation Powder Capsules With Inhaler  10 micrograms	2
+ONCA1913NEMIS	One-Alpha  Capsules  500 nanograms	177
+OCCA23529NEMIS	Ocuvite Lutein  Capsules  	1
+OSCA82044NEMIS	Osteocaps D3  Capsules  20,000 units	1
+BISA14467NEMIS	Biotene Oralbalance  Saliva Replacement Gel  	47
+BIOR116602NEMIS	Bioxtra Dry Mouth  Oral gel  	13
+ORGE29896EMIS	Oralbalance  Gel  	4
+ENOR85049NEMIS	Ensure Shake  Oral powder sachets  57 gram sachet	11
+ENOR85505NEMIS	Ensure Shake  Oral Powder Sachets (Strawberry)  57 gram sachet	2
+ENOR85503NEMIS	Ensure Shake  Oral Powder Sachets (Banana)  57 gram sachet	1
+ENOR85506NEMIS	Ensure Shake  Oral Powder Sachets (Vanilla)  57 gram sachet	1
+DIOR23269EMIS	Dioralyte  Oral powder (blackcurrant)  	153
+DIOR51732NEMIS	Dioralyte  Oral powder (plain)  	6
+ELOR27081EMIS	Electrolade  Oral powder (multiflavour)  	5
+DIOR23270EMIS	Dioralyte  Oral powder (citrus)  	4
+BUOR35900NEMIS	Build-up Instant Drink  Oral Powder (Strawberry)  38 grams/sachet	2
+DIPO776NEMIS	Dioralyte Relief  Powder (blackcurrant)  	2
+ELOR11289NEMIS	Electrolade  Oral powder (lemon and lime)  	2
+ELOR27079EMIS	Electrolade  Oral powder (blackcurrant)  	2
+DIPO775NEMIS	Dioralyte Relief  Powder (raspberry)  	1
+BEOR323	Benzydamine Hydrochloride  Oral Rinse  Sugar Free 0.15 %	139
+DIPO920	Dioralyte Oral powder	19
+BEOI16714NEMIS	Betamethasone Dipropionate And Calcipotriol  Ointment  0.05 % + 50 micrograms/gram	140
+EPOI29175EMIS	Epaderm  Ointment  	117
+BANA10375BRIDL	Bactroban  Nasal ointment  2 %	47
+BEOI20607EMIS	Betamethasone Valerate  Ointment  0.025 %	44
+BEOI19372NEMIS	Betamethasone Valerate And Clioquinol  Ointment  0.1 % + 3 %	35
+ELOI22374EMIS	Elocon  Ointment  0.1 %	15
+BAOIEGTON8155	Bactroban  Ointment  2 %	14
+EMOI19703NEMIS	Emulsifying Wax And Yellow Soft Paraffin  Ointment  30 % + 30 %	10
+BEOI19375NEMIS	Betamethasone Dipropionate And Salicylic Acid  Ointment  0.05 % + 3 %	4
+DIOI9416HILLI	Diflucortolone Valerate  Ointment  0.3 %	4
+BEOIEGTON7920	Betadine  Ointment  10 %	2
+BEOI19490NEMIS	Betamethasone Valerate And Neomycin  Ointment  0.1 % + 0.5 %	1
+BEOI8753BRIDL	Betnovate-N  Ointment  	1
+BEOI357	Betnovate  Ointment  0.1 %	138
+BEOI347	Betamethasone Valerate  Ointment  0.1 %	92
+BEOI360	Betnovate-C  Ointment  	12
+ONTE12763NEMIS	Onetouch Ultra  Test strips  	137
+ENSU20871NEMIS	Enzira  Suspension For Injection  0.5 ml pre-filled syringe	68
+BAFL30203EMIS	Bard  Flip-flo catheter valve  bff5	65
+BDDE35011EMIS	Bd Safe-Clip  Device  	55
+BABA9587EMIS	Balneum Plus  Bath oil  	52
+OMTE47354NEMIS	Omnitest 3  Test strips  	42
+E4HA23446NEMIS	E45 Junior  Hand And Body Wash  	41
+BADI18740EMIS	Bard Uriplan  Direct inlet leg bags  350 ml, d3s	40
+BACO26222EMIS	Bard Uriplan  Collection bag  d8420	33
+ENPO37096NEMIS	Enshake  Powder sachets  6 x 96.5 gram sachets	32
+ARTA22354EMIS	Arthrotec 50  Tablets  	30
+EXLO33003EMIS	Exorex  Lotion  5 % Cutaneous Emulsion (1 % prepared coal tar)	29
+BGTE52394NEMIS	Bgstar  Test strips  	28
+OCWA25588NEMIS	Octenisan Antimicrobial  Wash Lotion  	28
+OSLI40667NEMIS	Osmolite Hp  Liquid  	28
+DITA18102EMIS	Didronel Pmo  Tablets  	26
+EXDR22210NEMIS	Excilon Amd Iv Sponge  Tracheostomy Dressing Sterile  7089, 5 cm x 5 cm	22
+ELTA30208EMIS	Elleste Duet 1 Mg  Tablets  	21
+LIME23717NEMIS	Lidocaine  Medicated Plaster  5 %	17
+BACO27397EMIS	Bard Uriplan  Collection bag  2 litres, d8420	16
+E4LO33886EMIS	E45  Lotion  	16
+LOOP19552EMIS	Lodoxamide Trometamol  Ophthalmic solution  0.1 %	15
+ONST102167NEMIS	Onetouch Select Plus  Test strips  	15
+OSLI35888NEMIS	Osmolite 1.5Kcal  Liquid feed ready-to-hang  Tube Feed	15
+PITA23833EMIS	Piracetam  Tablets  1.2 grams	14
+BA4 18738EMIS	Bard Uriplan  10 cm inlet tube leg bag  500 ml, d5m	11
+OISH11313NEMIS	Oilatum Scalp Treatment  Shampoo  	11
+BDDI35110EMIS	Bd-Microfine +  Disposable syringe  0.3 ml, 0.30 x 8 mm needle	10
+BAFO28732EMIS	Bard All Silicone  Foley catheter (male)  10 ml, 14 ch, d1658	9
+BALE32859EMIS	Bard Urisleeve  Leg Bag Holder  medium, 150121	9
+OPDR38762NEMIS	Opsite Post-Op  Dressing  15.5 cm x 8.5 cm	9
+BLEY45018NEMIS	Blephasol  Lotion  	8
+ENPO21353NEMIS	Enshake  Powder (Vanilla) Sachets  6 x 96.5 gram sachets	8
+OFOP23567EMIS	Ofloxacin  Ophthalmic solution  0.3 %	8
+OIBA26861NEMIS	Oilatum  Bath Formula  	8
+ORPOEGTON6036	Orahesive  Powder  	8
+BALE32860EMIS	Bard Urisleeve  Leg Bag Holder  small, 150111	7
+BUAD25522NEMIS	Bullen Trio Niltac Sting Free Adhesive remover TR101	7
+EAFO23148NEMIS	Eakin Wound Pouches  Fold And Tuck Closure  Large, 839252	7
+ERIN24325NEMIS	Ergocalciferol  Injection  300,000 units/ml, 1 ml ampoule	7
+EVTR31384EMIS	Evorel Sequi  Transdermal patches  	7
+BESC26818EMIS	Betacap  Scalp application  0.1 %	6
+OPDR38763NEMIS	Opsite Post-Op  Dressing  12 cm x 10 cm 	6
+OAST13219NEMIS	Oakmed Option  Stoma Cap Mini Opaque  20-40mm, 1120K	5
+BDDI18283NEMIS	Bd-Microfine +  Disposable syringe  1 ml, 0.30 x 8 mm needle	4
+BDDI35111EMIS	Bd-Microfine +  Disposable syringe  0.5 ml, 0.30 x 8 mm needle	4
+ELBA40535NEMIS	Elasticated Tubular  Bandage Bp  10 cm size F	4
+ENPO21354NEMIS	Enshake  Powder (Strawberry) Sachets  6 x 96.5 gram sachets	4
+EVTR31391EMIS	Evorel Conti  Transdermal patches  	4
+OPDR1833NEMIS	Opsite Post-Op  Dressing  9.5 cm x 8.5 cm	4
+OPLU46621NEMIS	Optilube  Sterile Lubricating Jelly  	4
+ALOP19550EMIS	Alomide  Ophthalmic solution  0.1 %	3
+BALE32858EMIS	Bard Urisleeve  Leg Bag Holder  large, 150131	3
+BEVA30364EMIS	Begrivac  Vaccine  	3
+BIMO14801NEMIS	Biotene Moisturising  Mouthwash  	3
+ELKN9227NEMIS	Elastic Hosiery Knee cap Class III -  circular	3
+ELST35223EMIS	Elasticated Viscose Stockinette 7.5 cm x 5 m (blue line)	3
+ENPO21355NEMIS	Enshake  Powder (Chocolate) Sachets  6 x 96.5 gram sachets	3
+ENPO21356NEMIS	Enshake  Powder (Banana) Sachets  6 x 96.5 gram sachets	3
+EULO32813EMIS	Eucerin  Lotion  10 %	3
+EXOP23565EMIS	Exocin  Ophthalmic solution  0.3 %	3
+OPDR38764NEMIS	Opsite Post-Op  Dressing  20 cm x 10 cm 	3
+ARTA29148EMIS	Arthrotec 75  Tablets  	2
+BAFO27600NEMIS	Bard Statlock  Foley Catheter Stabilisation Device  for silicone or latex catheters, FOL0102DT	2
+BEMO28661EMIS	Bettamousse  Mousse  0.12 %	2
+BEMO28663EMIS	Betamethasone Valerate  Mousse  0.12 % (= 0.1 % betamethasone)	2
+BIMI117796NEMIS	Bioxtra Dry Mouth  Mild Toothpaste  	2
+BUTR47318NEMIS	Buchanan Lite  Laryngectomy Protector  Large, Blue, LA BLT 1002	2
+EBTA31269NEMIS	Ebixa Treatment Initiation Pack  Tablets  	2
+ELST34475EMIS	Elasticated Viscose Stockinette 7.5 cm x 3 m (blue line)	2
+ELST35221EMIS	Elasticated Viscose Stockinette 10.75 cm x 5 m (yellow line)	2
+ELST35222EMIS	Elasticated Viscose Stockinette 5 cm x 5 m (green line)	2
+ERIN24326NEMIS	Ergocalciferol  Injection  300,000 units/ml, 2 ml ampoule	2
+OIEM23897NEMIS	Oilatum Junior  Bath additive  	2
+OSLI350NEMIS	Osmolite Plus  Liquid feed  	2
+BAFO34996EMIS	Bard All Silicone  Foley catheter (female)  10ml 12 ch, d1661	1
+BDLA10508BRIDL	Bd-Microfine +  Lancets  	1
+BESC19374NEMIS	Betamethasone Dipropionate And Salicylic Acid  Scalp application  0.05 % + 2 %	1
+BIAL16950NEMIS	Bioxtra Alcohol-Free Mouthrinse With Fluoride	1
+BIDR11445NEMIS	Biatain Adhesive  Dressing  sacral, 23 cm x 23 cm	1
+BIDR30900NEMIS	Biatain Ag  Dressing  (non-adhesive) rectangular, 5 cm x 7 cm	1
+BIDR36864NEMIS	Biatain Adhesive  Dressing  square, 12.5 cm x 12.5 cm	1
+BIMI16949NEMIS	Bioxtra Mild Anti-bacterial Toothpaste	1
+DILO21623NEMIS	Dimeticone  Lotion  4 %	1
+EASP127028NEMIS	Easychamber  Spacer device  with adult mask	1
+EESO14842NEMIS	Eesiness  Soft Cervical Foam Collar  medium, 23562100	1
+ELBA40537NEMIS	Elasticated Tubular  Bandage Bp  6.25 cm size B	1
+ELCE47994NEMIS	Elcess  Cervical collar  Flesh, Small	1
+ELIN19256EMIS	Elastic Band Truss  Inguinal  double	1
+ELIN43541NEMIS	Elastic Band Truss  Inguinal  single right	1
+ELKN9225NEMIS	Elastic Hosiery  Knee Cap  Class II -  circular knit	1
+ELST28384EMIS	Elasticated Viscose  Stockinette  10.75 cm x 1 m (yellow line)	1
+EMGL28748EMIS	Ema Film Disposable  Gloves  spec 21, medium	1
+ESCTDI23-3	HONKS - Diabetic hyperosmolar non-ketotic state	1
+EVEY125394NEMIS	Evolve  Eyelid Wipes  	1
+EXTR22212NEMIS	Excilon Amd Iv Sponge  Tracheostomy Dressing Sterile  7088, 10 cm x 10 cm	1
+ONTE47563NEMIS	Onetouch Verio  Test strips  	1
+OPDR11041NEMIS	Opsite Plus  Dressing  8.5 cm x 9.5 cm	1
+OPEY30882NEMIS	Opsil  Artificial Eye Lubricant  Standard	1
+OPST19337NEMIS	Opus Clearway  Stoma Bridge Mini  8800	1
+OXMA15529NEMIS	Oxygen  Mask  	1
+DIRE874	Diastix  Reagent strips  	213
+BESC348	Betamethasone Valerate  Scalp application  0.1 %	119
+BESC358	Betnovate  Scalp application  0.1 %	4
+EGTON53	T3 (Triiodothyronine)	3
+DIGL938	Dispos-A-Glove  Gloves  medium	2

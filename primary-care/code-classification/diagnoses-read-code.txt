@@ -1,0 +1,2152 @@
+ClinicalCode Description FrequencyInData
+G20..00 Essential hypertension 47495
+C10F.00 Type 2 diabetes mellitus 42516
+G2...00 Hypertensive disease 31682
+C10..00 Diabetes mellitus 9970
+C34..00 Gout 8180
+G3...00 Ischaemic heart disease 7606
+N330.00 Osteoporosis 5720
+J520z00 Constipation NOS 5613
+G33..00 Angina pectoris 4483
+G307100 Acute non-ST segment elevation myocardial infarction 3374
+C10E.00 Type 1 diabetes mellitus 3007
+G2z..00 Hypertensive disease NOS 2693
+G58..00 Heart failure 2557
+B34..00 Malignant neoplasm of female breast 2351
+G401.00 Pulmonary embolism 2217
+G30..00 Acute myocardial infarction 1952
+B46..00 Malignant neoplasm of prostate 1647
+B74..00 Lipoma 1464
+G30X000 Acute ST segment elevation myocardial infarction 1375
+N331N00 Fragility fracture 1352
+G581.00 Left ventricular failure 1198
+E278100 Tension headache 1149
+G311500 Acute coronary syndrome 1140
+K101.00 Acute pyelonephritis 983
+F12..00 Parkinson's disease 982
+K04C.00 Acute kidney injury stage 1 618
+B768.00 Melanocytic naevi of skin 543
+B49..00 Malignant neoplasm of urinary bladder 477
+B34z.00 Malignant neoplasm of female breast NOS 364
+C109.00 Non-insulin dependent diabetes mellitus 359
+G20z.00 Essential hypertension NOS 335
+G311100 Unstable angina 321
+B13..00 Malignant neoplasm of colon 320
+K10y000 Pyelonephritis unspecified 311
+G580.00 Congestive heart failure 305
+B7J0.00 Haemangioma 273
+C10FJ00 Insulin treated Type 2 diabetes mellitus 256
+B338.00 Squamous cell carcinoma of skin 250
+B10..00 Malignant neoplasm of oesophagus 247
+J20..00 Acute appendicitis 245
+B32..00 Malignant melanoma of skin 242
+BB2A.00 [M]Squamous cell carcinoma NOS 226
+BC...00 Polyp 210
+G32..00 Old myocardial infarction 210
+G202.00 Systolic hypertension 209
+B7F2000 Cerebral meningioma 205
+K04D.00 Acute kidney injury stage 2 185
+B222100 Malignant neoplasm of upper lobe of lung 183
+B7Fy100 Morton neuroma 179
+B133.00 Malignant neoplasm of sigmoid colon 177
+B78..00 Uterine leiomyoma - fibroids 175
+B78z.00 Uterine leiomyoma NOS 159
+B430200 Malignant neoplasm of endometrium of corpus uteri 156
+BB4..00 [M]Transitional cell papillomas and carcinomas 154
+B141.00 Malignant neoplasm of rectum 153
+BBe8.00 [M]Neuroma NOS 151
+E....00 Mental disorders 148
+B01..00 Malignant neoplasm of tongue 145
+B440.00 Malignant neoplasm of ovary 145
+C108.00 Insulin depnd diabetes melitus 142
+K04E.00 Acute kidney injury stage 3 141
+B22z.00 Malignant neoplasm of bronchus or lung NOS 137
+B41..00 Malignant neoplasm of cervix uteri 133
+BB5M000 [M]Tubular adenoma NOS 131
+J623.00 Portal hypertension 127
+PD11.00 Polycystic kidney disease 126
+B3...00 Malignant neoplasm of bone, connective tissue, skin and breast 125
+B630.00 Multiple myeloma 119
+N330000 Osteoporosis, unspecified 118
+B53..00 Malignant neoplasm of thyroid gland 117
+C100000 Diabetes mellitus, juvenile type, with no mention of complication 117
+B834.00 Carcinoma in situ of prostate 114
+G33z700 Stable angina 112
+B224100 Malignant neoplasm of lower lobe of lung 109
+BB5y400 [M]Prolactinoma 108
+BBEJ.00 [M]Intradermal naevus 108
+B641.00 Chronic lymphoid leukaemia 107
+G580200 Decompensated cardiac failure 103
+G61..00 Intracerebral haemorrhage 102
+B830.00 Carcinoma in situ of breast 101
+B13z.00 Malignant neoplasm of colon NOS 100
+C10FL00 Type 2 diabetes mellitus with persistent proteinuria 100
+C10FM00 Type 2 diabetes mellitus with persistent microalbuminuria 100
+B627.00 Non - Hodgkin's lymphoma 98
+B7E8.00 Naevus of choroid 97
+C10P.00 Diabetes mellitus in remission 97
+K04..00 Acute renal failure 97
+B6...00 Malignant neoplasm of lymphatic and haemopoietic tissue 96
+B49z.00 Malignant neoplasm of urinary bladder NOS 94
+BBL3.00 [M]Pleomorphic adenoma 93
+B4Az.00 Malignant neoplasm of kidney or urinary organs NOS 92
+C100100 Diabetes mellitus, adult onset, with no mention of complication 92
+B47..00 Malignant neoplasm of testis 89
+C10FH00 Type 2 diabetes mellitus with neuropathic arthropathy 87
+BB13.00 [M]Carcinoma, metastatic, NOS 85
+BB31.00 [M]Basal cell carcinoma NOS 85
+B21..00 Malignant neoplasm of larynx 83
+B934.00 Polycythaemia vera 83
+B150300 Hepatocellular carcinoma 81
+G28..00 Stge 2 hypertensin (NICE 2011) 78
+G140400 Tricuspid insufficiency, cause unspecified 76
+B837.00 Carcinoma in situ of bladder 75
+ByuG700 [X]Benign lipomatous neoplasm of other sites 75
+C10EM00 Type 1 diabetes mellitus with ketoacidosis 74
+G33z.00 Angina pectoris NOS 74
+BBEY.00 [M]Dysplastic naevus 71
+J520400 Chronic constipation 69
+B134.00 Malignant neoplasm of caecum 68
+B61..00 Hodgkin's disease 66
+G343.00 Ischaemic cardiomyopathy 66
+BBEK.00 [M]Compound naevus 64
+ByuDB00 [X]Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified 64
+G30z.00 Acute myocardial infarction NOS 64
+B0zz.00 Malignant neoplasm of lip, oral cavity and pharynx NOS 63
+BB52.00 [M]Adenocarcinoma NOS 62
+Byu6.00 [X]Malignant neoplasm/breast 62
+BB03.00 [M]Neoplasm, metastatic 61
+B583200 Cerebral metastasis 59
+B8yy000 Carcinoma in situ of thyroid gland 59
+C10F600 Type 2 diabetes mellitus with retinopathy 59
+J2...00 Appendicitis and other disorders of the appendix 59
+G13..00 Diseases of mitral+aortic valv 58
+G3z..00 Ischaemic heart disease NOS 58
+J21..00 Appendicitis, unqualified 58
+B060.00 Malignant neoplasm of tonsil 57
+BB5D100 [M]Cholangiocarcinoma 56
+BB5U300 [M]Tubulovillous adenoma 56
+BBz0.00 [M]Neuroendocrine neoplasm 55
+C34z.00 Gout NOS 55
+G308.00 Inferior myocardial infarction NOS 54
+B43..00 Malignant neoplasm of body of uterus 53
+B51..00 Malignant neoplasm of brain 53
+C340.00 Gouty arthropathy 52
+G25..00 Stge 1 hypertensin (NICE 2011) 52
+G340000 Single coronary vessel disease 52
+G34..00 Other chronic ischaemic heart disease 51
+B702300 Warthin's tumour 50
+BBd0.00 [M]Meningioma NOS 50
+G110.00 Mitral stenosis 50
+B40..00 Malignant neoplasm of uterus, part unspecified 49
+J520100 Chronic constptn with overflow 49
+B583000 Secondary malignant neoplasm of brain 48
+E271.00 Anorexia nervosa 47
+G200.00 Malignant essential hypertension 47
+B550400 Malignant neoplasm of neck NOS 46
+C10N.00 Secondary diabetes mellitus 46
+B627E00 Diffuse large B-cell lymphoma 45
+F124.00 Vascular parkinsonism 45
+B135.00 Malignant neoplasm of appendix 44
+C109900 Non-insulin-dependent diabetes mellitus without complication 44
+B082.00 Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect 43
+BB3D.00 [M]Basal cell carcinoma, nodular 43
+B4A2.00 Malignant neoplasm of ureter 42
+BB33.00 [M]Basal cell carcinoma, morphoea type 42
+BBE1.00 [M]Malignant melanoma NOS 42
+B7F1000 Acoustic neuroma 41
+B905400 Gastrointestinal stromal tumour 41
+BB5a000 [M]Renal cell carcinoma 41
+J520.00 Constipation - functional 41
+B33z.00 Malignant neoplasm of skin NOS 40
+B4A0.00 Malignant neoplasm of kidney parenchyma 40
+BBQ8.00 [M]Dermoid cyst 40
+B577.00 Secondary malignant neoplasm of liver 39
+B11..00 Malignant neoplasm of stomach 38
+B62y.00 Malignant lymphoma NOS 38
+B7H0.00 Benign neoplasm of adrenal gland 38
+C346.00 Acute exacerbation of gout 38
+G410.00 Primary pulmonary hypertension 38
+BB3..00 [M]Basal cell neoplasms 37
+C10FQ00 Type 2 diabetes mellitus with exudative maculopathy 37
+B4A..00 Malignant neoplasm of kidney and other unspecified urinary organs 36
+C101.00 Diabetes mellitus with ketoacidosis 36
+G250.00 Stage 1 hypertension (NICE 2011) without evidence of end organ damage 36
+B222.00 Malignant neoplasm of upper lobe, bronchus or lung 35
+B741J00 Lipoma of back 35
+B7A1.00 Dermoid cyst 35
+BBd..00 [M]Meningiomas 35
+G583.00 Heart failure with normal ejection fraction 35
+J620z00 Liver abscess NOS 35
+N338000 Malunion of fracture 34
+B8...00 Carcinoma in situ 33
+B937400 Essential (haemorrhagic) thrombocythaemia 33
+G580100 Chronic congestive heart failure 33
+B131.00 Malignant neoplasm of transverse colon 32
+B62x.00 Malignant lymphoma otherwise specified 32
+B650.00 Acute myeloid leukaemia 32
+B830100 Intraductal carcinoma in situ of breast 32
+BBW7.00 [M]Chondroblastoma NOS 32
+G130.00 Mitral and aortic stenosis 32
+B570.00 Secondary malignant neoplasm of lung 31
+BBF1.00 [M]Sarcoma NOS 31
+ByuDF00 [X]Non-Hodgkin's lymphoma, unspecified type 31
+J520y00 Other specified constipation 31
+B22..00 Malignant neoplasm of trachea, bronchus and lung 30
+BB43.00 [M]Transitional cell carcinoma NOS 30
+BBK0200 [M]Leiomyosarcoma NOS 29
+BBm7.00 [M] Monoclonal gammopathy 29
+D414.00 Hypersplenism 29
+B812.00 Carcinoma in situ of bronchus and lung 28
+G33zz00 Angina pectoris NOS 28
+B06..00 Malignant neoplasm oropharynx 27
+B140.00 Malignant neoplasm of rectosigmoid junction 27
+BB5M.00 [M]Tubular adenomas and adenocarcinomas 27
+BBQ6.00 [M]Gonadoblastoma 27
+C10EQ00 Type 1 dm with gastroparesis 27
+Ez...00 Mental disorders NOS 27
+K10..00 Infections of kidney 27
+B04..00 Malignant neoplasm of floor of mouth 26
+B33..00 Other malignant neoplasm skin 26
+B628.00 Follicular lymphoma 26
+B907200 Uncert. neoplasm lung 26
+BB5R900 [M]Neuroendocrine carcinoma 26
+BB5h000 [M]Adrenal cortical adenoma NOS 26
+B....00 Neoplasms 25
+B58..00 Secondary malignant neoplasm of other specified sites 25
+BB12.00 [M]Carcinoma NOS 25
+BBF3.00 [M]Spindle cell sarcoma 25
+BBG0.00 [M]Fibroma NOS 25
+B65y100 Acute promyelocytic leukaemia 24
+BB50.00 [M]Adenoma NOS 24
+K043000 Acute renal failure due to ACE inhibitor 24
+B651.00 Chronic myeloid leukaemia 23
+B741900 Lipoma of abdominal wall 23
+B937X00 Refractory anaemia,unspecif 23
+BB3C.00 [M]Superficial basal cell carcinoma 23
+BB5j200 [M]Endometrioid carcinoma 23
+C10F700 Type 2 diabetes mellitus - poor control 23
+G201.00 Benign essential hypertension 23
+G301z00 Anterior myocardial infarction NOS 23
+G30X.00 Acute transmural myocardial infarction of unspecified site 23
+B10z.00 Malignant neoplasm of oesophagus NOS 22
+B17..00 Malignant neoplasm of pancreas 22
+BB5R.00 [M]Carcinoid tumours 22
+BBJB000 [M]Angiomyolipoma 22
+G332.00 Coronary artery spasm 22
+G33z300 Angina on effort 22
+G582.00 Acute heart failure 22
+G58z.00 Heart failure NOS 22
+K100.00 Chronic pyelonephritis 22
+B630000 Malignant plasma cell neoplasm, extramedullary plasmacytoma 21
+BB5cz00 [M]Parathyroid adenoma/ca NOS 21
+BBbQ.00 [M]Oligodendroglioma NOS 21
+G300.00 Acute anterolateral infarction 21
+B221100 Malignant neoplasm of hilus of lung 20
+B832000 Carcinoma in situ of endometrium 20
+B917000 Bladder polyp 20
+BB25.00 [M]Squamous cell papilloma 20
+BB51.00 [M]Adenocarcinoma in situ 20
+BB5L000 [M]Adenomatous polyp NOS 20
+BBW0.00 [M]Osteochondroma 20
+G41y000 Secondary pulmonary hypertension 20
+B064100 Malignant neoplasm of glossoepiglottic fold 19
+B728.00 Atrial myxoma 19
+B803300 Carcinoma in situ of sigmoid colon 19
+BB91.00 [M]Infiltrating duct carcinoma 19
+BBT8.00 [M]Capillary haemangioma 19
+G311z00 Preinfarction syndrome NOS 19
+G340.00 Coronary atherosclerosis 19
+B0...00 Malignant neoplasm of lip, oral cavity and pharynx 18
+B4A0000 Hypernephroma 18
+B76..00 Benign neoplasm of skin 18
+B810.00 Carcinoma in situ of larynx 18
+C34y500 Gouty tophi of hand 18
+G2y..00 Other specified hypertensive disease 18
+K102000 Renal abscess 18
+N338.00 Malunion/nonunion of fracture 18
+B223100 Malignant neoplasm of middle lobe of lung 17
+B325100 Malignant melanoma of breast 17
+B509.00 Malignant melanoma of eye 17
+B585000 Pathological fracture due to metastatic bone disease 17
+BB2L.00 [M]Bowen's disease 17
+BB5j.00 [M]Endometrioid adenomas and carcinomas 17
+BBQ1.00 [M]Seminomas 17
+BBd7.00 [M]Haemangioblastic meningioma 17
+G301.00 Other specified anterior myocardial infarction 17
+G340100 Double coronary vessel disease 17
+G580000 Acute congestive heart failure 17
+B585.00 Secondary malignant neoplasm of bone and bone marrow 16
+B62F100 Mantle cell lymphoma 16
+B781.00 Intramural uterine leiomyoma 16
+BB42.00 [M]Transitional cell carcinoma in situ 16
+BB5RA00 [M]Merkel cell carcinoma 16
+BBE5.00 [M]Halo naevus 16
+BBM1.00 [M]Fibroadenoma NOS 16
+BBbB.00 [M]Astrocytoma NOS 16
+C109700 Non-insulin dependent diabetes mellitus - poor control 16
+C10FN00 Type 2 diabetes mellitus with ketoacidosis 16
+G27..00 Hypertnsn resistnt to drg ther 16
+B020.00 Malignant neoplasm of parotid gland 15
+B630100 Solitary myeloma 15
+B630200 Plasmacytoma NOS 15
+B741700 Lipoma of forearm 15
+B800700 Carcinoma in situ of nasopharynx 15
+B835.00 Carcinoma in situ of penis 15
+BB5a.00 [M]Renal adenoma/carcinoma 15
+BBEB.00 [M]Junctional naevus 15
+C10C.00 Diabetes mellitus autosomal dominant 15
+C10EK00 Type 1 diabetes mellitus with persistent proteinuria 15
+G400.00 Acute cor pulmonale 15
+N330B00 Vertebral osteoporosis 15
+B1z0.00 Malignant neoplasm of intestinal tract, part unspecified 14
+B224z00 Malignant neoplasm of lower lobe, bronchus or lung NOS 14
+B6y0.00 Myeloproliferative disorder 14
+G11..00 Mitral valve diseases 14
+G21..00 Hypertensive heart disease 14
+N330z00 Osteoporosis NOS 14
+B010.00 Malignant neoplasm of base of tongue 13
+B071100 Malignant neoplasm of pharyngeal tonsil 13
+B621.00 Mycosis fungoides 13
+B831.00 Carcinoma in situ of cervix uteri 13
+BB83.00 [M]Pseudomyxoma peritonei 13
+BBV3.00 [M]Fibroblastic osteosarcoma 13
+BBb7.00 [M]Ependymoma NOS 13
+BBe0.00 [M]Neurofibroma NOS 13
+F12z.00 Parkinson's disease NOS 13
+G311400 Worsening angina 13
+G613.00 Cerebellar haemorrhage 13
+J20z100 Acute gangrenous appendicitis 13
+B07..00 Malignant neoplasm of nasopharynx 12
+B21z.00 Malignant neoplasm of larynx NOS 12
+B431000 Malignant neoplasm of lower uterine segment 12
+B741100 Lipoma of neck 12
+BB29.00 [M]Squamous cell carcinoma in situ NOS 12
+BB5A.00 [M]Basal cell adenoma 12
+BB5D500 [M]Hepatocellular carcinoma NOS 12
+BBGK.00 [M]Dermatofibroma NOS 12
+BBT2.00 [M]Cavernous haemangioma 12
+BBmH.00 [M] Large cell lymphoma 12
+C10ED00 Type 1 diabetes mellitus with nephropathy 12
+C10FC00 Type 2 diabetes mellitus with nephropathy 12
+J20z.00 Acute appendicitis NOS 12
+K10z.00 Infection of kidney NOS 12
+B222z00 Malignant neoplasm of upper lobe, bronchus or lung NOS 11
+B32z.00 Malignant melanoma of skin NOS 11
+B4...00 Malignant neoplasm of genitourinary organ 11
+B550000 Malignant neoplasm of head NOS 11
+B61z.00 Hodgkin's disease NOS 11
+B671.00 Chronic erythraemia 11
+B768X00 Melanocytic naevi, unspecified 11
+B828.00 Melanoma in situ of skin 11
+B833300 Carcinoma in situ of vulva 11
+B927.00 Neurofibromatosis - Von Recklinghausen's disease 11
+BBEH.00 [M]Superficial spreading melanoma 11
+BBL2.00 [M]Adenomyoma 11
+BBQ7.00 [M]Teratomas 11
+BBv..00 [M]Myelodysplastic syndrome 11
+Byu4100 [X]Malignant melanoma of skin, unspecified 11
+G33z100 Stenocardia 11
+G401100 Recurrent pulmonary embolism 11
+J22..00 Other appendicitis 11
+PD1y.00 Other specified congenital cystic kidney disease 11
+B113.00 Malignant neoplasm of fundus of stomach 10
+B17z.00 Malignant neoplasm of pancreas NOS 10
+B18y300 Malignant neoplasm of omentum 10
+B4A1.00 Malignant neoplasm of renal pelvis 10
+B595.00 Malignant tumour of unknown origin 10
+B641000 B-cell chronic lymphocytic leukaemia 10
+B780.00 Submucous uterine leiomyoma 10
+B800600 Carcinoma in situ of palate 10
+B830000 Lobular carcinoma in situ of breast 10
+BB27.00 [M]Inverted papilloma 10
+BB4D.00 [M]Grade 3 (Stage pTa) papillary urothelial/transitional cell carcinoma 10
+BB53.00 [M]Adenocarcinoma, metastatic, NOS 10
+BB65.00 [M]Hidrocystoma 10
+BBB6.00 [M]Thymoma 10
+BBK0000 [M]Leiomyoma NOS 10
+BBTB.00 [M]Angiokeratoma 10
+BBY0.00 [M]Ewing's sarcoma 10
+C10E700 Type 1 diabetes mellitus with retinopathy 10
+C10G.00 Secondary pancreatic dm 10
+D417.00 Methaemoglobinaemia 10
+G140.00 Tricuspid valve disease NEC 10
+G22..00 Hypertensive renal disease 10
+G251.00 Stage 1 hypertension (NICE 2011) with evidence of end organ damage 10
+G33z400 Ischaemic chest pain 10
+G41y100 Thromboembolic pulmonary hypertension 10
+B12..00 Malignant neoplasm of small intestine and duodenum 9
+B221z00 Malignant neoplasm of main bronchus NOS 9
+B471000 Seminoma of descended testis 9
+B498.00 Local recurrence of malignant tumour of urinary bladder 9
+B713.00 Benign neoplasm of colon 9
+B74z.00 Lipoma NOS 9
+B768900 Atypical mole syndrome 9
+B7J0400 Haemangioma of intra-abdominal structures 9
+BB...00 [M]Morphology of neoplasms 9
+BB5c.00 [M]Parathyroid adenomas and adenocarcinomas 9
+BBM..00 [M]Fibroepithelial neoplasms 9
+BBTA.00 [M]Kaposi's sarcoma 9
+C10FK00 Hyperosmolar non-ketotic state in type 2 diabetes mellitus 9
+D411000 Kikuchi disease 9
+PD1y100 Cortical cystic disease 9
+B130.00 Malignant neoplasm of hepatic flexure of colon 8
+B14..00 Malignant neoplasm of rectum, rectosigmoid junction and anus 8
+B211.00 Malignant neoplasm of supraglottis 8
+B224000 Malignant neoplasm of lower lobe bronchus 8
+B311.00 Malignant neoplasm of connective and soft tissue of upper limb and shoulder 8
+B51z.00 Malignant neoplasm of brain NOS 8
+B627W00 Unspecified B-cell non-Hodgkin's lymphoma 8
+B7...00 Benign neoplasms 8
+B741200 Lipoma of anterior chest wall 8
+B741E00 Lipoma of thigh 8
+B768500 Melanocytic naevi of trunk 8
+B80z000 Carcinoma in situ of pancreas 8
+B833000 Carcinoma in situ of ovary 8
+B833600 Vulval intraepithelial neoplasia grade 3 8
+BB2B.00 [M]Squamous cell carcinoma, metastatic NOS 8
+BBE0.00 [M]Pigmented naevus NOS 8
+BBJ..00 [M]Lipomatous neoplasms 8
+ByuGN00 [X]Melanocytic naevi, unspecified 8
+C10FB00 Type 2 diabetes mellitus with polyneuropathy 8
+C10FR00 Type 2 dm with gastroparesis 8
+D415500 Splenic cyst 8
+D415700 Splenic infarction 8
+G24..00 Secondary hypertension 8
+G307.00 Acute subendocardial infarction 8
+G311200 Angina at rest 8
+K101z00 Acute pyelonephritis NOS 8
+B061.00 Malignant neoplasm of tonsillar fossa 7
+B132.00 Malignant neoplasm of descending colon 7
+B136.00 Malignant neoplasm of ascending colon 7
+B142.00 Malignant neoplasm of anal canal 7
+B24X.00 Malignant neoplasm of mediastinum, part unspecified 7
+B32E.00 Malignant melanoma stage IIIB 7
+B344.00 Malignant neoplasm of upper-outer quadrant of female breast 7
+B494.00 Malignant neoplasm of posterior wall of urinary bladder 7
+B627C00 Follicular non-Hodgkin's lymphoma 7
+B77..00 Benign neoplasm of breast 7
+B803400 Carcinoma in situ of caecum 7
+B803800 High grade dysplasia of colon 7
+B808000 Carcinoma in situ of liver 7
+BB05.00 [M]Tumour cells, benign 7
+BB20.00 [M]Papilloma NOS(excl.bladder) 7
+BB59.00 [M]Monomorphic adenoma 7
+BB5h.00 [M]Adrenal cortical tumours 7
+BB81C00 [M]Mucinous cystadenoma NOS 7
+BBK1.00 [M]Angiomyomatous neoplasms 7
+BBbR.00 [M]Oligodendroglioma,anaplast. 7
+C10ER00 Latent autoimmune diabetes mellitus in adult 7
+C10F100 Type 2 diabetes mellitus with ophthalmic complications 7
+C10K.00 Type A insulin resistance 7
+G133.00 Mitral and aortic incompetence 7
+G13z.00 Mitral+aortic valve dis. NOS 7
+G203.00 Diastolic hypertension 7
+K101300 Acute pyonephrosis 7
+N330C00 Osteoporosis localized to spine 7
+B04z.00 Malignant neoplasm of floor of mouth NOS 6
+B11z.00 Malignant neoplasm stomach NOS 6
+B30z000 Osteosarcoma 6
+B324000 Malignant melanoma of scalp 6
+B35..00 Malignant neoplasm of male breast 6
+B492.00 Malignant neoplasm of lateral wall of urinary bladder 6
+B550200 Malignant neoplasm of nose NOS 6
+B590.00 Disseminated malignancy NOS 6
+B62F000 Small cell B-cell lymphoma 6
+B62yz00 Malignant lymphoma NOS 6
+B702000 Benign neoplasm parotid gland 6
+B715800 Focal nodular hyperplasia of liver 6
+B741500 Lipoma of shoulder 6
+B741600 Lipoma of upper arm 6
+B76B.00 Xanthogranuloma 6
+B810800 Carcinoma in situ of vocal fold - glottis 6
+B812z00 Carcinoma in situ of bronchus or lung NOS 6
+B937500 Idiopathic thrombocythaemia 6
+B937W00 Myelodysplastic syndrome, unspecified 6
+BB06.00 [M]Tumour cells,?benign/?malig 6
+BB5U000 [M]Villous adenoma NOS 6
+BB5jz00 [M]Endometrioid adenoma/ca.NOS 6
+BB80200 [M]Borderline mucinous cystadenoma of the ovary 6
+BB81000 [M]Serous cystadenoma NOS 6
+BB95.00 [M]Intraductal papilloma 6
+BBEz.00 [M]Naevi or melanoma NOS 6
+BBF0.00 [M]Soft tissue tumour, benign 6
+BBU4.00 [M]Cystic lymphangioma 6
+BBb..00 [M]Gliomas 6
+BBbG.00 [M]Pilocytic astrocytoma 6
+BBs0.00 [M]Polycythaemia vera 6
+BBs5.00 [M]Chronic lymphoproliferative disease 6
+C34y200 Gouty tophi of other sites 6
+G302.00 Acute inferolateral infarction 6
+G33z600 New onset angina 6
+G37..00 Cardiac syndrome X 6
+G581000 Acute left ventricular failure 6
+G610.00 Cortical haemorrhage 6
+G614.00 Pontine haemorrhage 6
+J23z500 Appendicular mucocoele 6
+B071z00 Malignant neoplasm of posterior wall of nasopharynx NOS 5
+B110100 Malignant neoplasm of cardio-oesophageal junction of stomach 5
+B300z00 Malignant neoplasm of bones of skull and face NOS 5
+B327400 Malignant melanoma of lower leg 5
+B47z.00 Malignant neoplasm of testis NOS 5
+B576100 Secondary malignant neoplasm of peritoneum 5
+B59..00 Malignant neoplasm of unspecified site 5
+B602.00 Burkitt's lymphoma 5
+B706000 Benign neoplasm of tonsillar fossa 5
+B713300 Benign neoplasm sigmoid colon 5
+B741000 Lipoma of scalp 5
+B768600 Melanocytic naevi of upper limb, including shoulder 5
+B782.00 Subserous uterine leiomyoma 5
+B7A2.00 Benign teratoma of ovary 5
+B7F0.00 Benign neoplasm of brain 5
+B7J1.00 Lymphangioma 5
+B800100 Carcinoma in situ of tongue 5
+B834000 High grade prostatic intraepithelial neoplasia 5
+B91z100 Uncert. neopl. kidney 5
+B929.00 Neurofibromatosis type 2 5
+BB28.00 [M]Papillomatosis NOS 5
+BB38.00 [M]Trichoepithelioma 5
+BB3B.00 [M]Pilomatrixoma 5
+BB3F.00 [M]Basal cell carcinoma, infiltrative 5
+BB40.00 [M]Transitional cell papilloma NOS 5
+BBC3.00 [M]Granulosa cell tumour NOS 5
+BBE6.00 [M]Fibrous papule of nose 5
+BBJ5.00 [M]Myxoid liposarcoma 5
+BBW4.00 [M]Chondrosarcoma NOS 5
+BBX..00 [M]Giant cell tumours 5
+BBX0.00 [M]Giant cell tumour of bone NOS 5
+BBdz.00 [M]Meningioma NOS 5
+BBm9.00 [M] Monocytoid B-cell lymphoma 5
+BBmK.00 [M]Waldenstrom's macroglobulinaemia 5
+ByuB.00 [X]Malignant neoplasm of thyroid and other endocrine glands 5
+D411.00 Chronic lymphadenitis 5
+E27z000 Hair plucking 5
+G120.00 Rheumatic aortic stenosis 5
+G132.00 Mitral insufficiency and aortic stenosis 5
+G30A.00 Mural thrombosis 5
+G34y100 Chronic myocardial ischaemia 5
+G617.00 Intrcereb haem,intraventriculr 5
+K101200 Acute pyelitis 5
+N338600 Delayed union of fracture 5
+B02..00 Malignant neoplasm of major salivary glands 4
+B06z.00 Malignant neoplasm of oropharynx NOS 4
+B110.00 Malignant neoplasm of cardia of stomach 4
+B150000 Primary carcinoma of liver 4
+B226.00 Mesothelioma 4
+B324100 Malignant melanoma of neck 4
+B325700 Malignant melanoma of back 4
+B327700 Malignant melanoma of foot 4
+B333000 Malignant neoplasm of skin of cheek, external 4
+B343.00 Malignant neoplasm of lower-inner quadrant of female breast 4
+B410000 Malignant neoplasm of endocervical canal 4
+B4A3.00 Malignant neoplasm of urethra 4
+B576200 Malignant ascites 4
+B627F00 Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue 4
+B640.00 Acute lymphoid leukaemia 4
+B640000 B-cell acute lymphoblastic leukaemia 4
+B641100 Clinical stage A chronic lymphocytic leukaemia 4
+B65..00 Myeloid leukaemia 4
+B68..00 Unspecif. cell type leukaemia 4
+B6z..00 Malignant neoplasm lymphatic or haematopoietic tissue NOS 4
+B741300 Lipoma of posterior chest wall 4
+B741C00 Lipoma of groin 4
+B768000 Melanocytic naevi of lip 4
+B768100 Melanocytic naevi of eyelid, including canthus 4
+B770.00 Benign neoplasm of female breast 4
+B7D0.00 Benign neoplasm of renal parenchyma 4
+B7F4000 Spinal meningioma 4
+B7H1.00 Benign neoplasm of parathyroid gland 4
+B800400 Carcinoma in situ of floor of mouth 4
+B807000 Carcinoma in situ of duodenum 4
+B902600 Neoplasm of uncertain or unknown behaviour of appendix 4
+B908100 Uncert. neopl. thymus 4
+B922.00 Uncert. neopl. adrenal gland 4
+BA04.00 Neoplasm of unspecified nature of bladder 4
+BB11.00 [M]Carcinoma in situ NOS 4
+BB1P.00 [M]Non-small cell carcinoma 4
+BB21.00 [M]Papillary carcinoma in situ 4
+BB3z.00 [M]Basal cell neoplasm NOS 4
+BB4A.00 [M]Papillary transitional cell carcinoma 4
+BB57.00 [M]Adenocarcinoma, intestinal type 4
+BB5D400 [M]Liver cell adenoma 4
+BB5Nz00 [M]Adenomatous or adenocarcinomatous polyps of the colon NOS 4
+BB5U.00 [M]Villous adenomas and adenocarcinomas 4
+BB8..00 [M]Cystic/mucinous/serous neop 4
+BB9B.00 [M]Medullary carcinoma NOS 4
+BB9F.00 [M]Lobular carcinoma NOS 4
+BBE..00 [M]Naevi and melanomas 4
+BBF6.00 [M]Epithelioid cell sarcoma 4
+BBJ2.00 [M]Fibrolipoma 4
+BBJC.00 [M]Myelolipoma 4
+BBM5.00 [M]Serous adenofibroma 4
+BBR8.00 [M]Complete hydatidiform mole 4
+BBV0.00 [M]Osteoma NOS 4
+BBV7.00 [M]Osteoid osteoma NOS 4
+BBXz.00 [M]Giant cell tumour NOS 4
+BBb5.00 [M]Choroid plexus papilloma NOS 4
+BBe1.00 [M]Neurofibromatosis NOS 4
+BBs4.00 [M]Idiopathic thrombocythaemia 4
+ByuDE00 [X]Unspecified B-cell non-Hodgkin's lymphoma 4
+C101z00 Diabetes mellitus NOS with ketoacidosis 4
+C10E800 Type 1 diabetes mellitus - poor control 4
+C10F400 Type 2 diabetes mellitus with ulcer 4
+C10P100 Type II diabetes mellitus in remission 4
+D413.00 Unspecified lymphadenitis, excluding mesenteric lymphadenitis 4
+G311300 Refractory angina 4
+G341000 Ventricular cardiac aneurysm 4
+G34z000 Asymptomatic coronary heart disease 4
+G38..00 Postoperative myocardial infarction 4
+G39..00 Coronary microvascular disease 4
+G584.00 Right ventricular failure 4
+G61z.00 Intracerebral haemorrhage NOS 4
+J520000 Acute constipation 4
+J624.00 Hepatorenal syndrome 4
+B053.00 Malignant neoplasm of soft palate 3
+B152.00 Malignant neoplasm of liver unspecified 3
+B18yz00 Malignant neoplasm of specified parts of peritoneum NOS 3
+B200.00 Malignant neoplasm of nasal cavities 3
+B220.00 Malignant neoplasm of trachea 3
+B301.00 Malignant neoplasm of mandible 3
+B302000 Malignant neoplasm of cervical vertebra 3
+B303200 Malignant neoplasm of clavicle 3
+B310300 Malignant neoplasm of cartilage of ear 3
+B327100 Malignant melanoma of thigh 3
+B331100 Malignant neoplasm of upper eyelid 3
+B36..00 Local recurrence of malignant tumour of breast 3
+B410.00 Malignant neoplasm of endocervix 3
+B410z00 Malignant neoplasm of endocervix NOS 3
+B41z.00 Malignant neoplasm of cervix uteri NOS 3
+B43z.00 Malignant neoplasm of body of uterus NOS 3
+B495.00 Malignant neoplasm of bladder neck 3
+B5...00 Malignant neoplasm of other and unspecified sites 3
+B58y500 Secondary malignant neoplasm of prostate 3
+B58yz00 Secondary malignant neoplasm of other specified site NOS 3
+B617.00 Nodular lymphocyte predominant Hodgkin lymphoma 3
+B627A00 Diffuse non-Hodgkin's large cell lymphoma 3
+B62xX00 Other and unspecified peripheral and cutaneous T-cell lymphomas 3
+B651z00 Chronic myeloid leukaemia NOS 3
+B715000 Benign neoplasm of liver 3
+B715300 Benign neoplasm of cystic duct 3
+B737000 Benign neoplasm of femur 3
+B741G00 Lipoma of lower leg 3
+B741L00 Lipoma of lateral chest wall 3
+B7A..00 Benign neoplasm of ovary 3
+B7D3000 Benign papilloma of bladder 3
+B7G..00 Benign neoplasm thyroid gland 3
+B7J0z00 Haemangioma NOS 3
+B800200 Carcinoma in situ of salivary glands 3
+B802000 Carcinoma in situ of cardia of stomach 3
+B803.00 Carcinoma in situ of colon 3
+B808600 Carcinoma in situ of ampulla of Vater 3
+B833400 Vulval intraepithelial neoplasia grade 1 3
+B834100 Prostatic intraepithelial neoplasia 3
+B836000 Carcinoma in situ of testis 3
+B900000 Uncert.neopl. parotid gland 3
+B901900 Uncert. neopl. hypopharynx 3
+B903300 Uncert. neopl. gall bladder 3
+B910.00 Uncert. neopl. uterus 3
+BB1D.00 [M]Spindle cell carcinoma 3
+BB22.00 [M]Papillary carcinoma NOS 3
+BB3E.00 [M]Basal cell carcinoma, micronodular 3
+BB3G.00 [M]Pigmented basal cell carcinoma 3
+BB44.00 [M]Schneiderian papilloma 3
+BB4B.00 [M]Grade 1 (Stage pTa) papillary urothelial/transitional cell carcinoma 3
+BB4C.00 [M]Grade 2 (Stage pTa) papillary urothelial/transitional cell carcinoma 3
+BB5B.00 [M]Pancreatic adenomas and carcinomas 3
+BB5B400 [M]Glucagonoma NOS 3
+BB5L100 [M]Adenocarcinoma in adenomatous polyp 3
+BB5az00 [M]Renal adenoma/ca NOS 3
+BB5f000 [M]Follicular adenoma 3
+BB69000 [M]Sebaceous adenoma 3
+BB81L00 [M]Papillary cystic tumour 3
+BB9L.00 [M]Paget's disease, extramammary, excluding Paget's disease of bone 3
+BBB2.00 [M]Adenocarcinoma with squamous metaplasia 3
+BBEU.00 [M]Blue naevus NOS 3
+BBEX.00 [M]Melanoma in situ 3
+BBEa.00 [M]Spindle cell naevus 3
+BBJ9.00 [M]Intramuscular lipoma 3
+BBJH.00 [M]Dedifferntiated liposarcoma 3
+BBK3000 [M]Rhabdomyoma NOS 3
+BBMz.00 [M]Fibroepithelial neoplasm NOS 3
+BBQ..00 [M]Germ cell neoplasms 3
+BBR0.00 [M]Hydatidiform mole NOS 3
+BBR5.00 [M]Partial hydatidiform mole 3
+BBTE.00 [M]Angiofibroma NOS 3
+BBY..00 [M]Miscellaneous bone tumours 3
+BBba.00 [M]Primitive neuroectodermal tumour 3
+BBbz.00 [M]Glioma NOS 3
+BBe..00 [M]Nerve sheath tumour 3
+BBe9.00 [M]Triton tumour, malignant 3
+BBg..00 [M]Lymphomas, NOS or diffuse 3
+BBmD.00 [M] Cutaneous lymphoma 3
+BBr2300 [M]Chronic lymphoid leukaemia 3
+Byu2000 [X]Malignant neoplasm of bronchus or lung, unspecified 3
+ByuC000 [X]Malignant neoplasm of other specified sites 3
+C10E400 Unstable type 1 diabetes mellitus 3
+C10G000 Secondary pancreatic diabetes mellitus without complication 3
+C34y600 Gouty tophi of toe 3
+E27z400 Nail-biting 3
+G31y300 Transient myocardial ischaemia 3
+G3y..00 Other specified ischaemic heart disease 3
+G401000 Post operative pulmonary embolus 3
+G619.00 Lobar cerebral haemorrhage 3
+J22z.00 Other appendicitis NOS 3
+K100600 Calculous pyelonephritis 3
+N1y1.00 Fatigue fracture of vertebra 3
+NyuB800 [X]Unspecified osteoporosis with pathological fracture 3
+PD10.00 Congenital renal cyst, single 3
+PD11100 Polycystic kidneys, adult type 3
+B056.00 Malignant neoplasm of retromolar area 2
+B072000 Malignant neoplasm of pharyngeal recess 2
+B08z.00 Malignant neoplasm of hypopharynx NOS 2
+B110z00 Malignant neoplasm of cardia of stomach NOS 2
+B111100 Malignant neoplasm of pyloric canal of stomach 2
+B121.00 Malignant neoplasm of jejunum 2
+B123.00 Malignant neoplasm of Meckel's diverticulum 2
+B12z.00 Malignant neoplasm of small intestine NOS 2
+B139.00 Hereditary nonpolyposis colon cancer 2
+B150.00 Primary malignant neoplasm of liver 2
+B150z00 Primary malignant neoplasm of liver NOS 2
+B151z00 Malignant neoplasm of intrahepatic bile ducts NOS 2
+B161z00 Malignant neoplasm of extrahepatic bile ducts NOS 2
+B162.00 Malignant neoplasm of ampulla of Vater 2
+B213100 Malignant neoplasm of cricoid cartilage 2
+B221.00 Malignant neoplasm of main bronchus 2
+B222000 Malignant neoplasm of upper lobe bronchus 2
+B223z00 Malignant neoplasm of middle lobe, bronchus or lung NOS 2
+B224.00 Malignant neoplasm of lower lobe, bronchus or lung 2
+B22y.00 Malignant neoplasm of other sites of bronchus or lung 2
+B240.00 Malignant neoplasm of thymus 2
+B303000 Malignant neoplasm of rib 2
+B306z00 Malignant neoplasm of pelvis, sacrum or coccyx NOS 2
+B307z00 Malignant neoplasm of long bones of leg NOS 2
+B310000 Malignant neoplasm of soft tissue of head 2
+B323300 Malignant melanoma of forehead 2
+B323z00 Malignant melanoma of face NOS 2
+B325.00 Malignant melanoma of trunk (excluding scrotum) 2
+B325400 Malignant melanoma of perianal skin 2
+B327.00 Malignant melanoma of lower limb and hip 2
+B329.00 Malignant melanoma stage IB 2
+B332000 Malignant neoplasm of skin of auricle (ear) 2
+B333z00 Malignant neoplasm skin other and unspec part of face NOS 2
+B336000 Malignant neoplasm of skin of shoulder 2
+B33z000 Kaposi's sarcoma of skin 2
+B41yz00 Malignant neoplasm of other site of cervix NOS 2
+B420.00 Choriocarcinoma 2
+B430z00 Malignant neoplasm of corpus uteri NOS 2
+B432.00 Malignant neoplasm of overlapping lesion of corpus uteri 2
+B4A1z00 Malignant neoplasm of renal pelvis NOS 2
+B4y..00 Malignant neoplasm of genitourinary organ otherwise specified 2
+B4z..00 Malignant neoplasm of genitourinary organ NOS 2
+B501z00 Malignant neoplasm of orbit NOS 2
+B511.00 Malignant neoplasm of frontal lobe 2
+B512.00 Malignant neoplasm of temporal lobe 2
+B51yz00 Malignant neoplasm of other part of brain NOS 2
+B542000 Malignant neoplasm of pituitary gland 2
+B564000 Secondary and unspecified malignant neoplasm of superficial inguinal lymph nodes 2
+B581000 Secondary malignant neoplasm of ureter 2
+B587.00 Secondary malignant neoplasm of adrenal gland 2
+B58y000 Secondary malignant neoplasm of breast 2
+B5z..00 Malignant neoplasm of other and unspecified site NOS 2
+B614.00 Hodgkin's nodular sclerosis 2
+B618.00 Nodular sclerosis classical Hodgkin lymphoma 2
+B620000 Nodular lymphoma-unspec. site 2
+B620z00 Nodular lymphoma NOS 2
+B627000 Follicular non-Hodgkin's small cleaved cell lymphoma 2
+B62E100 Anaplastic large cell lymphoma, ALK-positive 2
+B62x200 Peripheral T-cell lymphoma 2
+B630300 Lambda light chain myeloma 2
+B680.00 Acute leukaemia NOS 2
+B704600 Benign neoplasm uvula 2
+B710.00 Benign neoplasm of oesophagus 2
+B713000 Benign neoplasm of hepatic flexure of colon 2
+B713900 Benign neoplasm of ileocaecal valve 2
+B740000 Lipoma of forehead 2
+B741.00 Lipoma skin/subcut. excl face 2
+B741400 Lipoma of axilla 2
+B741H00 Lipoma of foot 2
+B741K00 Lipoma of lower back 2
+B74y.00 Lipoma other specified sites 2
+B760.00 Benign neoplasm of skin of lip 2
+B761.00 Benign neoplasm of eyelid skin 2
+B761000 Benign neoplasm of canthus 2
+B766z00 Benign neoplasm of skin of upper limb or shoulder NOS 2
+B768700 Melanocytic naevi of lower limb, including hip 2
+B790.00 Benign neoplasm of cervix uteri NEC 2
+B7H2.00 Benign neoplasm of pituitary gland and craniopharyngeal duct 2
+B7H2000 Benign neoplasm of pituitary gland 2
+B7H2100 Benign neoplasm of Rathke's pouch 2
+B7J0200 Haemangioma of intracranial structures 2
+B7J0300 Haemangioma of retina 2
+B803500 Carcinoma in situ of appendix 2
+B804000 Carcinoma in situ of rectosigmoid junction 2
+B805000 Anal intraepithelial neoplasia grade III 2
+B806.00 Carcinoma in situ of anus NOS 2
+B810600 Carcinoma in situ of aryepiglottic fold 2
+B81y700 Carcinoma in situ of ethmoidal sinus 2
+B82..00 Carcinoma in situ of skin 2
+B833700 Vaginal intraepithelial neoplasia grade 1 2
+B8z..00 Carcinoma in situ NOS 2
+B902500 Uncert. neopl. rectum 2
+B905000 Uncert. neopl. oesophagus 2
+B906800 Uncert. neopl. vocal cord 2
+B911100 Epithelioid trophoblastic tumour 2
+B915.00 Uncert. neopl. prostate 2
+B925000 Uncert. neopl. brain 2
+BB07.00 [M]Tumour cells, malignant 2
+BB2C.00 [M]Squamous cell carcinoma, keratinising type NOS 2
+BB34.00 [M]Basal cell carcinoma, fibroepithelial type 2
+BB35.00 [M]Basosquamous carcinoma 2
+BB48.00 [M]Basaloid carcinoma 2
+BB5..00 [M]Adenomas/adenocarcinomas 2
+BB5J.00 [M]Adenoid cystic carcinoma 2
+BB5N200 [M]Multiple adenomatous polyps 2
+BB5T000 [M]Papillary adenoma NOS 2
+BB5X100 [M]Clear cell adenocarcinoma NOS 2
+BB5y000 [M]Basal cell adenocarcinoma 2
+BB66.00 [M]Papillary hydradenoma 2
+BB80000 [M]Cystadenoma NOS 2
+BB81.00 [M]Ovarian cystic, mucinous and serous neoplasms 2
+BB82.00 [M]Mucinous adenoma/carcinoma 2
+BB82000 [M]Mucinous adenoma 2
+BB8z.00 [M]Cystic, mucinous or serous neoplasm NOS 2
+BB9E000 [M]Intraductal carcinoma and lobular carcinoma in situ 2
+BB9J.00 [M]Paget's disease, mammary 2
+BBD0.00 [M]Paraganglioma NOS 2
+BBDD.00 [M]Glomangioma 2
+BBEA.00 [M]Amelanotic melanoma 2
+BBED.00 [M]Precancerous melanosis NOS 2
+BBEF.00 [M]Hutchinson's melanotic freckle 2
+BBGN.00 [M]Myofibromatosis 2
+BBGP.00 [M]Pigmented dermatofibrosarcoma protuberans 2
+BBH0.00 [M]Myxoma NOS 2
+BBJA.00 [M]Spindle cell lipoma 2
+BBJB200 [M]Angiolipoma NOS 2
+BBK3500 [M]Adult rhabdomyoma 2
+BBQ1z00 [M]Seminoma NOS 2
+BBQ2.00 [M]Germinoma 2
+BBQB.00 [M]Mixed germ cell tumour 2
+BBV2.00 [M]Chondroblastic osteosarcoma 2
+BBb0.00 [M]Glioma, malignant 2
+BBbT.00 [M]Medulloblastoma NOS 2
+BBg1.00 [M]Malignant lymphoma NOS 2
+BBgz.00 [M]Lymphoma, diffuse or NOS 2
+Byu0.00 [X]Malignant neoplasm of lip, oral cavity and pharynx 2
+Byu1100 [X]Other specified carcinomas of liver 2
+Byu8.00 [X]Malignant neoplasm of male genital organs 2
+ByuA100 [X]Malignant neoplasm/central nervous system, unspecified 2
+ByuA200 [X]Malignant neoplasm of meninges, unspecified 2
+ByuA300 [X]Malignant neoplasm, overlapping lesion of brain and other part of central nervous system 2
+ByuC300 [X]Secondary malignant neoplasm/oth+unspc respiratory organs 2
+ByuC800 [X]Malignant neoplasm without specification of site 2
+ByuFF00 [X]Melanoma in situ, unspecified 2
+C109C00 Non-insulin dependent diabetes mellitus with nephropathy 2
+C10E300 Type 1 diabetes mellitus with multiple complications 2
+C10EN00 Type 1 diabetes mellitus with ketoacidotic coma 2
+C10FP00 Type 2 diabetes mellitus with ketoacidotic coma 2
+C34y.00 Other specified gouty manifestation 2
+D415A00 Hyposplenism 2
+E278200 Psychogenic backache 2
+Ey...00 Other specified mental disorders 2
+F122.00 Malignant neuroleptic syndrome 2
+G102.00 Chronic rheumatic myopericarditis 2
+G11z.00 Mitral valve disease NOS 2
+G140300 Tricuspid stenosis, cause unspecified 2
+G301100 Acute anteroseptal infarction 2
+G30y200 Acute septal infarction 2
+G331.00 Prinzmetal's angina 2
+G341.00 Aneurysm of heart 2
+G342.00 Atherosclerotic cardiovascular disease 2
+G402.00 Pulmonary infarct 2
+G61X.00 Intracerebral haemorrhage in hemisphere, unspecified 2
+G61X100 Right sided intracerebral haemorrhage, unspecified 2
+J200.00 Acute appendicitis+peritonitis 2
+J23..00 Other diseases of appendix 2
+J62..00 Liver abscess/chr.liver seque. 2
+K04z.00 Acute renal failure NOS 2
+K10y100 Pyelitis unspecified 2
+K10y200 Pyonephrosis unspecified 2
+K10yz00 Unspecified pyelonephritis NOS 2
+N338100 Pseudoarthrosis-fract.nonunion 2
+PD1..00 Congenital cystic kidney disease 2
+B000000 Malignant neoplasm of upper lip, external 1
+B011.00 Malignant neoplasm of dorsal surface of tongue 1
+B012.00 Malignant neoplasm of tongue, tip and lateral border 1
+B013.00 Malignant neoplasm of ventral surface of tongue 1
+B013z00 Malignant neoplasm of ventral tongue surface NOS 1
+B016.00 Malignant neoplasm of lingual tonsil 1
+B01z.00 Malignant neoplasm of tongue NOS 1
+B041.00 Malignant neoplasm of lateral portion of floor of mouth 1
+B060z00 Malignant neoplasm tonsil NOS 1
+B067.00 Malignant neoplasm of posterior wall of oropharynx 1
+B07z.00 Malignant neoplasm of nasopharynx NOS 1
+B0z0.00 Malignant neoplasm of pharynx unspecified 1
+B0z2.00 Malignant neoplasm of laryngopharynx 1
+B0zy.00 Malignant neoplasm of other sites of lip, oral cavity and pharynx 1
+B103.00 Malignant neoplasm of upper third of oesophagus 1
+B105.00 Malignant neoplasm of lower third of oesophagus 1
+B111000 Malignant neoplasm of prepylorus of stomach 1
+B115.00 Malignant neoplasm of lesser curve of stomach unspecified 1
+B118.00 Siewert type II adenocarcinoma 1
+B120.00 Malignant neoplasm of duodenum 1
+B13y.00 Malignant neoplasm of other specified sites of colon 1
+B143.00 Malignant neoplasm of anus unspecified 1
+B151300 Malignant neoplasm of intrahepatic canaliculi 1
+B153.00 Secondary malignant neoplasm of liver 1
+B160.00 Malignant neoplasm of gallbladder 1
+B161100 Malignant neoplasm of hepatic duct 1
+B16z.00 Malignant neoplasm of gallbladder and extrahepatic bile ducts NOS 1
+B170.00 Malignant neoplasm of head of pancreas 1
+B180200 Malignant neoplasm of retrocaecal tissue 1
+B1zz.00 Malignant neoplasm of digestive tract and peritoneum NOS 1
+B2...00 Malignant neoplasm of respiratory tract and intrathoracic organs 1
+B21y.00 Malignant neoplasm of larynx, other specified site 1
+B300300 Malignant neoplasm of nasal bone 1
+B300900 Malignant neoplasm of zygomatic bone 1
+B302200 Malignant neoplasm of lumbar vertebra 1
+B302z00 Malignant neoplasm of vertebral column NOS 1
+B303100 Malignant neoplasm of sternum 1
+B304200 Malignant neoplasm of humerus 1
+B306000 Malignant neoplasm of ilium 1
+B307200 Malignant neoplasm of tibia 1
+B310200 Malignant neoplasm of soft tissue of neck 1
+B311z00 Malignant neoplasm of connective and soft tissue of upper limb and shoulder NOS 1
+B312100 Malignant neoplasm of connective and soft tissue of thigh and upper leg 1
+B312600 Malignant neoplasm of connective and soft tissue of great toe 1
+B314000 Malignant neoplasm of connective and soft tissue of abdominal wall 1
+B323000 Malignant melanoma of external surface of cheek 1
+B325300 Malignant melanoma of groin 1
+B326100 Malignant melanoma upper arm 1
+B326z00 Malignant melanoma of upper limb or shoulder NOS 1
+B327z00 Malignant melanoma of lower limb or hip NOS 1
+B328.00 Malignant melanoma stage IA 1
+B332.00 Malignant neoplasm skin of ear and external auricular canal 1
+B333.00 Malignant neoplasm skin of other and unspecified parts face 1
+B334.00 Malignant neoplasm of scalp and skin of neck 1
+B334000 Malignant neoplasm of scalp 1
+B334z00 Malignant neoplasm of scalp or skin of neck NOS 1
+B335700 Malignant neoplasm of skin of back 1
+B336300 Malignant neoplasm of skin of hand 1
+B337.00 Malignant neoplasm of skin of lower limb and hip 1
+B337700 Malignant neoplasm of skin of foot 1
+B339.00 Dermatofibrosarcoma protuberans 1
+B340.00 Malignant neoplasm of nipple and areola of female breast 1
+B341.00 Malignant neoplasm of central part of female breast 1
+B441.00 Malignant neoplasm of fallopian tube 1
+B44y.00 Malignant neoplasm of other site of uterine adnexa 1
+B471.00 Malignant neoplasm of descended testis 1
+B471100 Teratoma of descended testis 1
+B490.00 Malignant neoplasm of trigone of urinary bladder 1
+B491.00 Malignant neoplasm of dome of urinary bladder 1
+B496.00 Malignant neoplasm of ureteric orifice 1
+B49y.00 Malignant neoplasm of other site of urinary bladder 1
+B500z00 Malignant neoplasm of eyeball NOS 1
+B512z00 Malignant neoplasm of temporal lobe NOS 1
+B522.00 Malignant neoplasm of spinal cord 1
+B542100 Malignant neoplasm of craniopharyngeal duct 1
+B550100 Malignant neoplasm of cheek NOS 1
+B550300 Malignant neoplasm of jaw NOS 1
+B550z00 Malignant neoplasm of head, neck and face NOS 1
+B560200 Secondary and unspecified malignant neoplasm of superficial cervical lymph nodes 1
+B561000 Secondary and unspecified malignant neoplasm of internal mammary lymph nodes 1
+B563.00 Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes 1
+B572.00 Secondary malignant neoplasm of pleura 1
+B575000 Secondary malignant neoplasm of colon 1
+B582200 Secondary malignant neoplasm of skin of neck 1
+B583100 Secondary malignant neoplasm of spinal cord 1
+B58y400 Secondary malignant neoplasm of vulva 1
+B591.00 Other malignant neoplasm NOS 1
+B59zX00 Kaposi's sarcoma,unspecifd 1
+B5y..00 Malignant neoplasm of other and unspecified site otherwise specified 1
+B602100 Burkitt's lymphoma of lymph nodes of head, face and neck 1
+B610300 Hodgkin's paragranuloma of intra-abdominal lymph nodes 1
+B61C.00 Other classical Hodgkin lymphoma 1
+B61z500 Hodgkin's disease NOS of lymph nodes of inguinal region and lower limb 1
+B621100 Mycosis fungoides-head/neck 1
+B627B00 Other types of follicular non-Hodgkin's lymphoma 1
+B627G00 Mediastinal (thymic) large B-cell lymphoma 1
+B628300 Follicular lymphoma grade 3a 1
+B628600 Cutaneous follicle centre lymphoma 1
+B62C.00 Unifocal Langerhans-cell histiocytosis 1
+B62E900 Angioimmunoblastic T-cell lymphoma 1
+B62x100 Lymphoepithelioid lymphoma 1
+B62y400 Malignant lymphoma NOS of lymph nodes of axilla and upper limb 1
+B64..00 Lymphoid leukaemia 1
+B677.00 Myelodysplastic and myeloproliferative disease 1
+B701.00 Benign neoplasm tongue 1
+B701100 Benign neoplasm tongue dorsum 1
+B704400 Benign neoplasm of hard palate 1
+B704500 Benign neoplasm soft palate 1
+B706100 Benign neoplasm of anterior tonsillar pillar 1
+B707200 Benign neoplasm of pharyngeal recess 1
+B713400 Benign neoplasm of caecum 1
+B714000 Benign neoplasm rectosigmoid 1
+B714100 Benign neoplasm rectum 1
+B715700 Benign neoplasm of ampulla of Vater 1
+B723300 Benign neoplasm of middle lobe bronchus and lung 1
+B740.00 Lipoma skin/subcut.tissue face 1
+B740500 Lipoma of temple 1
+B741A00 Lipoma of buttock 1
+B741D00 Lipoma of hip 1
+B741z00 Lipoma skin / subcutaneous NOS 1
+B744.00 Lipoma of spermatic cord 1
+B75z.00 Benign neoplasm soft tiss. NOS 1
+B763200 Benign neoplasm skin of cheek 1
+B764000 Benign neoplasm of scalp 1
+B764100 Benign neoplasm skin of neck 1
+B764z00 Benign neoplasm of scalp or skin of neck NOS 1
+B765200 Benign neoplasm of skin of chest 1
+B765300 Benign neoplasm of skin of abdomen 1
+B767100 Benign neoplasm thigh skin 1
+B76y.00 Benign neoplasm of other specified skin sites 1
+B79y.00 Other spec benign neopl uterus 1
+B7D3.00 Benign neoplasm of bladder 1
+B7E2.00 Benign neoplasm of lacrimal gland 1
+B7Ez.00 Benign neoplasm of eye NOS 1
+B7Fy.00 Benign neoplasm of other part of nervous system 1
+B7H3.00 Benign neoplasm pineal gland 1
+B7J1000 Cystic hygroma of neck 1
+B7z..00 Benign neoplasm other unspecif 1
+B7z0.00 Benign neoplasm of lymph nodes 1
+B800.00 Carcinoma in situ of lip, oral cavity and pharynx 1
+B800900 Carcinoma in situ of hypopharynx 1
+B801.00 Carcinoma in situ of oesophagus 1
+B802.00 Carcinoma in situ of stomach 1
+B803000 Carcinoma in situ of hepatic flexure of colon 1
+B803600 Carcinoma in situ of ascending colon 1
+B804.00 Carcinoma in situ of rectum and rectosigmoid junction 1
+B808300 Carcinoma in situ of gall bladder 1
+B811.00 Carcinoma in situ of trachea 1
+B812200 Carcinoma in situ of upper lobe bronchus and lung 1
+B812400 Carcinoma in situ of lower lobe bronchus and lung 1
+B81y100 Carcinoma in situ of nasal cavity 1
+B823300 Carcinoma in situ of skin of cheek 1
+B823500 Carcinoma in situ of skin of temple 1
+B823600 Carcinoma in situ of skin of jaw 1
+B825000 Carcinoma in situ of skin of breast 1
+B825200 Carcinoma in situ of skin of axilla 1
+B832.00 Carcinoma in situ of other and unspecified parts of uterus 1
+B833100 Carcinoma in situ of fallopian tube 1
+B833800 Vaginal intraepithelial neoplasia grade 2 1
+B833z00 Carcinoma in situ of female genital organs NOS 1
+B901700 Uncert. neopl. nasopharynx 1
+B902200 Uncert. neopl. jejunum 1
+B905100 Uncert. neopl. pancreas 1
+B905300 Uncert. neopl. spleen 1
+B906700 Uncert. neopl. vestibular fold 1
+B913100 Uncert. neopl. vulva 1
+B914.00 Uncert. neopl. testis 1
+B91zz00 Uncertain neoplasm of urinary organ NOS 1
+B921.00 Uncert. neopl. pineal gland 1
+B923.00 Uncert. neopl. paraganglia 1
+B924000 Uncert. neopl. thyroid gland 1
+B937000 Refractory anaemia without sideroblasts, so stated 1
+B937200 Refractory anaemia with excess of blasts 1
+B937600 Refractory anaemia without ring sideroblasts 1
+BA03.00 Neoplasm of unspecified nature of breast 1
+BA0y.00 Other site neopl.unspec.nature 1
+BA0z.00 Neoplasm unspec nature NOS 1
+BB0z.00 [M]Unspecified tumour cell NOS 1
+BB10.00 [M]Epithelial tumour, benign 1
+BB23.00 [M]Verrucous papilloma 1
+BB26.00 [M]Papillary squamous cell carcinoma 1
+BB2F.00 [M]Squamous cell carcinoma, spindle cell type 1
+BB30.00 [M]Basal cell tumour 1
+BB37.00 [M]Intraepidermal epithelioma of Jadassohn 1
+BB39.00 [M]Trichofolliculoma 1
+BB41.00 [M]Urothelial papilloma 1
+BB4z.00 [M]Transitional cell papilloma or carcinoma NOS 1
+BB51000 [M]Adenocarcinoma in situ in villous adenoma 1
+BB5C.00 [M]Gastrinoma and carcinomas 1
+BB5C000 [M]Gastrinoma NOS 1
+BB5Rz00 [M]Carcinoid tumours NOS 1
+BB5Vz00 [M]Pituitary adenoma/ca. NOS 1
+BB5W000 [M]Oxyphilic adenoma 1
+BB5X.00 [M]Clear cell adenomas and adenocarcinomas 1
+BB5e.00 [M]Lipoadenoma 1
+BB5g.00 [M]Multiple endocrine adenomas 1
+BB5h100 [M]Adrenal cortical carcinoma 1
+BB5hz00 [M]Adrenal cortical tumours NOS 1
+BB6..00 [M]Adnexal/skin appendage neop 1
+BB60000 [M]Skin appendage adenoma 1
+BB80.00 [M]Cystadenoma and carcinoma 1
+BB82100 [M]Mucinous adenocarcinoma 1
+BB85.00 [M]Signet ring carcinoma 1
+BB9..00 [M]Ductal/lobular/medull.neop. 1
+BB91000 [M]Intraductal papillary adenocarcinoma with invasion 1
+BB9K000 [M]Pagets+intradc carc breast 1
+BBA2.00 [M]Acinar cell carcinoma 1
+BBB6000 [M]Thymoma, benign 1
+BBC4.00 [M]Granulosa cell tumour,malig 1
+BBCC.00 [M]Leydig cell tumour 1
+BBCC000 [M]Leydig cell tumour, benign 1
+BBD4.00 [M]Glomus jugulare tumour 1
+BBE2.00 [M]Nodular melanoma 1
+BBEW.00 [M]Cellular blue naevus 1
+BBF..00 [M]Soft tissue tumours and sarcomas NOS 1
+BBFz.00 [M]Soft tissue tumour/sarc.NOS 1
+BBGC.00 [M]Desmoplastic fibroma 1
+BBGD.00 [M]Fibrous histiocytoma NOS 1
+BBHZ.00 [M]Angiomyxoma 1
+BBJ0.00 [M]Lipoma NOS 1
+BBK3.00 [M]Rhabdomyomatous neoplasms 1
+BBK3200 [M]Pleomorphic rhabdomyosarcoma 1
+BBL0.00 [M]Endometrial stromal sarcoma 1
+BBL9.00 [M]Carcinosarcoma NOS 1
+BBLH.00 [M]Rhabdoid sarcoma 1
+BBM4.00 [M]Adenofibroma NOS 1
+BBM9.00 [M]Cystosarcoma phyllodes, malignant 1
+BBN1.00 [M]Synovial sarcoma NOS 1
+BBQ3.00 [M]Embryonal carcinoma NOS 1
+BBQ7100 [M]Teratoma NOS 1
+BBQ7400 [M]Malignant teratoma, undifferentiated type 1
+BBR2.00 [M]Choriocarcinoma 1
+BBS3.00 [M]Endosalpingioma 1
+BBT0.00 [M]Haemangioma NOS 1
+BBT9.00 [M]Intramuscular haemangioma 1
+BBTF.00 [M]Haemangioblastoma 1
+BBU0.00 [M]Lymphangioma NOS 1
+BBV9.00 [M]Myxoid chondrosarcoma 1
+BBW1.00 [M]Osteochondromatosis NOS 1
+BBY2.00 [M]Ossifying fibroma 1
+BBZ..00 [M]Odontogenic tumours 1
+BBZE.00 [M]Calcifying odontogenic cyst 1
+BBa0.00 [M]Craniopharyngioma 1
+BBaz.00 [M]Miscellaneous tumour NOS 1
+BBbA.00 [M]Myxopapillary ependymoma 1
+BBbL.00 [M]Glioblastoma NOS 1
+BBbS.00 [M]Oligodendroblastoma 1
+BBbZ.00 [M]Pleomorphic xanthoastrocytoma 1
+BBd1.00 [M]Meningiomatosis NOS 1
+BBeA.00 [M]Neurothekeoma 1
+BBf0.00 [M]Granular cell tumour NOS 1
+BBg1000 [M]Malignant lymphoma, diffuse NOS 1
+BBgR.00 [M]Malignant lymphoma, large cell, diffuse NOS 1
+BBj6000 [M]Hodgkin,s disease, nodular sclerosis, lymphocytic predominance 1
+BBl..00 [M]Mycosis fungoides 1
+BBr..00 [M]Leukaemias 1
+BBr6000 [M]Myeloid leukaemia NOS 1
+BBrA700 [M]Acute myelofibrosis 1
+Byu1.00 [X]Malignant neoplasm of digestive organs 1
+Byu2.00 [X]Malignant neoplasm of respiratory and intrathoracic organs 1
+Byu5200 [X]Kaposi's sarcoma of multiple organs 1
+Byu5B00 [X]Kaposi's sarcoma of other sites 1
+Byu7100 [X]Malignant neoplasm/other specified female genital organs 1
+Byu9.00 [X]Malignant neoplasm of urinary tract 1
+Byu9000 [X]Malignant neoplasm of urinary organ, unspecified 1
+ByuC700 [X]Secondary malignant neoplasm of other specified sites 1
+ByuG600 [X]Bn lp neo/sk+sbct tis/o+u s 1
+Bz...00 Neoplasms NOS 1
+C100.00 Diabetes mellitus with no mention of complication 1
+C106.00 Diabetes mellitus with neurological manifestation 1
+C109J00 Insulin treated Type 2 diabetes mellitus 1
+C10A.00 Malnutritn-relat diab mellitus 1
+C10A100 Malnutrition-related diabetes mellitus with ketoacidosis 1
+C10E200 Type 1 diabetes mellitus with neurological complications 1
+C10E500 Type 1 diabetes mellitus with ulcer 1
+C10E900 Type 1 diabetes mellitus maturity onset 1
+C10EJ00 Type 1 diabetes mellitus with neuropathic arthropathy 1
+C10EL00 Type 1 diabetes mellitus with persistent microalbuminuria 1
+C10F300 Type 2 diabetes mellitus with multiple complications 1
+C10F500 Type 2 diabetes mellitus with gangrene 1
+C10F800 Reaven's syndrome 1
+C10F900 Type 2 diabetes mellitus without complication 1
+C10FF00 Type 2 diabetes mellitus with peripheral angiopathy 1
+C34y000 Gouty tophi of ear 1
+D213.00 Refractory Anaemia 1
+D412z00 Nonspecific mesenteric lymphadenitis NOS 1
+D417500 Acquired methaemoglobinaemia 1
+E2...00 Neurotic, personality and other nonpsychotic disorders 1
+E27z300 Masturbation 1
+F12X.00 Secondary parkinsonism, unspecified 1
+G1...00 Chronic rheumatic heart disease 1
+G12..00 Rheumatic aortic valve disease 1
+G131.00 Mitral stenosis+aortic insuff. 1
+G140z00 Rheumatic tricuspid valve disease NOS 1
+G141200 Rheumatic pulmonary stenosis and insufficiency 1
+G1y0.00 Rheumatic myocarditis 1
+G22z.00 Hypertensive renal disease NOS 1
+G24z.00 Secondary hypertension NOS 1
+G26..00 Severe hypertension (Nat Inst for Health Clinical Ex 2011) 1
+G303.00 Acute inferoposterior infarction 1
+G305.00 Lateral myocardial infarction NOS 1
+G31..00 Other acute/subacute IHD 1
+G31y000 Acute coronary insufficiency 1
+G330000 Nocturnal angina 1
+G330z00 Angina decubitus NOS 1
+G40..00 Acute pulmonary heart disease 1
+G580400 Congestive heart failure due to valvular disease 1
+G612.00 Basal nucleus haemorrhage 1
+G61X000 Left sided intracerebral haemorrhage, unspecified 1
+J201.00 Acute appendicitis+app.abscess 1
+J221.00 Chronic appendicitis 1
+J223.00 Recurrent appendicitis 1
+J520300 Drug induced constipation 1
+J620100 Liver abscess due to cholangitis 1
+K040.00 Acute renal tubular necrosis 1
+K045.00 Acute renal failure due to non-traumatic rhabdomyolysis 1
+K100300 Chronic pyonephrosis 1
+K100z00 Chronic pyelonephritis NOS 1
+K101500 Emphysematous pyelitis 1
+K102100 Perinephric abscess 1
+K105.00 Chronic infective interstitial nephritis 1
+N1y2.00 Pars interarticularis stress fracture 1
+N330100 Senile osteoporosis 1
+N330300 Idiopathic osteoporosis 1
+N330D00 Osteoporosis due to corticosteroids 1
+N338200 Hypertrophic non-union of fracture 1
+PD11z00 Polycystic kidney disease NOS 1
+PD12100 Medullary cystic disease, adult type 1
+G3...13 IHD - Ischaemic heart disease 6492
+B76..14 Mole of skin 4518
+G30..15 MI - acute myocardial infarction 2342
+B33..11 Basal cell carcinoma 2116
+G20..11 High blood pressure 1120
+B78..11 Fibroids 1024
+C100112 Non-insulin dependent diabetes mellitus 653
+K04..12 Acute kidney injury 617
+G2...11 BP - hypertensive disease 558
+G580.11 Congestive cardiac failure 400
+G340.12 Coronary artery disease 394
+G581.13 Impaired left ventricular function 371
+B8...11 Bowen's disease 365
+B34..11 Ca female breast 363
+G140413 Tricuspid regurgitation, cause unspecified 345
+B76..13 Dermatofibroma 317
+G20z.11 Hypertension NOS 290
+C10F.11 Type II diabetes mellitus 285
+G25..11 Stage 1 hypertension 268
+B76..15 Papilloma of skin 260
+B7H2.11 Pituitary adenoma 242
+C108.11 IDDM-Insulin dependent diabetes mellitus 242
+BBK0011 [M]Fibroid uterus 224
+B76..11 Benign naevus of skin 212
+B77..11 Fibroadenoma of breast 196
+B713.11 Colon polyp 193
+C341111 Renal stone - uric acid 185
+G61..11 CVA -intracerebral haemorrhage 177
+B711.11 Gastric polyp 167
+BBE0.12 [M]Naevus NOS 160
+B141.12 Rectal carcinoma 143
+BBG0.11 [M]Fibroma durum 139
+G133.12 Mitral and aortic regurgitation 138
+B....11 Cancers 135
+G30..14 Heart attack 134
+B1z0.11 Cancer of bowel 129
+BB5..11 [M]Adenocarcinomas 116
+B13z.11 Colonic cancer 114
+BBe5.13 [M]Schwannoma NOS 110
+C106.12 Diabetes mellitus with neuropathy 105
+B22z.11 Lung cancer 99
+BB5..12 [M]Adenomas 87
+G21z011 Cardiomegaly - hypertensive 84
+N338111 Nonunion of fracture 81
+B440.11 Cancer of ovary 79
+B76..16 Pigmented naevus 78
+B833311 Vulval intraepithelial neoplasia 78
+BBE1.12 [M]Melanoma NOS 78
+C109.12 Type 2 diabetes mellitus 76
+G311.13 Unstable angina 71
+G340.11 Triple vessel disease of the heart 66
+B33..13 Rodent ulcer 57
+G583.12 Heart failure with preserved ejection fraction 57
+BBg1.11 [M]Lymphoma NOS 53
+B33z.11 Squamous cell carcinoma of skin NOS 52
+B4A..11 Renal malignant neoplasm 51
+B577.11 Liver metastases 51
+C109.13 Type II diabetes mellitus 48
+C109.11 NIDDM - Non-insulin dependent diabetes mellitus 46
+B7A..11 Dermoid cyst of ovary 44
+G401.12 Pulmonary embolus 43
+G580.12 Right heart failure 42
+B10z.11 Oesophageal cancer 41
+B76..12 Blue naevus 41
+B937W11 Myelodysplasia 41
+B76..17 Skin tag NOS 39
+B7J..11 Angioma - benign 39
+BB91.11 [M]Duct carcinoma NOS 39
+J622.11 Encephalopathy - hepatic 38
+B831.11 CIN III - carcinoma in situ of cervix 37
+BBn0.12 [M]Myeloma NOS 37
+B430211 Malignant neoplasm of endometrium 34
+G61..12 Stroke due to intracerebral haemorrhage 31
+G58..11 Cardiac failure 29
+B937411 Primary thrombocythaemia 26
+C10F811 Metabolic syndrome X 26
+B41..11 Cervical carcinoma (uterus) 23
+G132.13 Mitral regurgitation and aortic stenosis 23
+B721z11 Benign papilloma of larynx 21
+B831.13 Cervical intraepithelial neoplasia grade III 21
+B627C11 Follicular lymphoma NOS 19
+BB2..12 [M]Squamous cell neoplasms 19
+BB43.11 [M]Urothelial carcinoma 19
+BBT0.11 [M]Angioma NOS 19
+B641.11 Chronic lymphatic leukaemia 18
+C100011 Insulin dependent diabetes mellitus 18
+BB5L011 [M]Polypoid adenoma 17
+C108.12 Type 1 diabetes mellitus 17
+B781.11 Mural fibroids 16
+B831.12 Cervical intraepithelial neoplasia 16
+BBC0.12 [M]Ovarian stromal tumour 16
+D412.12 Mesenteric adenitis 16
+G121.12 Aortic regurgitation - rheumatic 16
+G580.14 Biventricular failure 16
+B790.11 Adenomatous polyp - cervix uteri 15
+B7J0.11 Glomus tumour 14
+BB5W013 [M]Oncocytoma 14
+BBC0.13 [M]Testicular stromal tumour 14
+BBW2.11 [M]Enchondroma 14
+B702011 Adenoma of parotid gland 13
+B713.13 Polyposis coli 13
+B934.11 Polycythaemia rubra vera 13
+BBU4.11 [M]Cystic hygroma 13
+G581.12 Pulmonary oedema - acute 13
+B47z.11 Seminoma of testis 12
+B540.11 Phaeochromocytoma 12
+B7G..11 Adenoma of thyroid gland 12
+PD12111 Medullary sponge kidney 12
+B91z111 Renal uncertain neopl. 11
+B927.12 Neurofibromatosis type 1 11
+B937.14 Myelodysplasia 11
+BBe..11 [M]Neurofibromas 11
+BBg2.11 [M]Non Hodgkins lymphoma 11
+C104.11 Diabetic nephropathy 11
+G3...12 Atherosclerotic heart disease 11
+G30..11 Attack - heart 11
+PD11z11 Cystic kidney disease NEC 11
+B141.11 Carcinoma of rectum 10
+B73..12 Osteoma 10
+BB5D511 [M]Hepatoma NOS 10
+BBL7.11 [M]Nephromas/nephroblastomas 10
+BBb0.11 [M]Glioma NOS 10
+G41z.11 Chronic cor pulmonale 10
+PD1..11 Congenital cystic renal disease 10
+B56..11 Lymph node metastases 9
+B61..11 Hodgkin lymphoma 9
+B624.12 Hairy cell leukaemia 9
+B934.12 Primary polycythaemia 9
+BB2..11 [M]Papillary neoplasms 9
+BB5J.13 [M]Cylindroma NOS 9
+C10P111 Type 2 diabetes mellitus in remission 9
+E278111 Muscular headache 9
+G311.11 Crescendo angina 9
+B3...12 Sarcoma of bone and connective tissue 8
+C10E.11 Type I diabetes mellitus 8
+B142.11 Anal carcinoma 7
+B57..11 Respiratory/GIT metastases 7
+BB81.11 [M]Ovarian cystadenoma/ca 7
+BBe7.11 [M]Schwannoma, malignant 7
+Byu5011 [X]Mesothelioma of lung 7
+C10E.12 Insulin dependent diabetes mellitus 7
+B4...11 Carcinoma of genitourinary organ 6
+B627.11 Non-Hodgkin lymphoma 6
+B76..19 Syringoma 6
+BB64.11 [M]Spiradenoma NOS 6
+BB81.12 [M]Ovarian mucinous tumour 6
+BBJ2.12 [M]Soft fibroma 6
+BBW5.11 [M]Periosteal chondroma 6
+G140111 Tricuspid regurgitation - rheumatic 6
+G26..11 Severe hypertension 6
+G30..17 Silent myocardial infarction 6
+PD11111 Autosomal dominant polycystic kidney disease 6
+B11..11 Gastric neoplasm 5
+B712011 Duodenal polyp 5
+B717011 Endocrine tumour of pancreas 5
+B7J..12 Cavernous naevus 5
+B900011 Mixed parotid tumour 5
+BBK1011 [M]Angioleiomyoma 5
+BBL3.11 [M]Chondroid syringoma 5
+ByuDF11 [X]Non-Hodgkin's lymphoma NOS 5
+C10C.11 Maturity onset diabetes in youth 5
+G11..11 Rheumatic mitral valve disease 5
+B134.11 Carcinoma of caecum 4
+B5...11 Carcinoma of other and unspecified sites 4
+B7D0.11 Benign neoplasm of kidney 4
+B917.12 Transitional cell papilloma of bladder 4
+BB25.12 [M]Hyperkeratotic papilloma 4
+G131.14 Mitral stenosis+aortic regurg. 4
+J201.12 Appendix abscess 4
+K10..11 Renal infections 4
+B0...11 Carcinoma of lip, oral cavity and pharynx 3
+B33..12 Epithelioma 3
+B6y0.11 Myeloproliferative disease 3
+B710.11 Benign oesophageal polyp 3
+B7J0111 Skin haemangioma 3
+BB29.12 [M]Intraepidermal carcinoma NOS 3
+BB41.11 [M]Urinary bladder papilloma 3
+BB5N211 [M]Multiple polyposis 3
+BB81.14 [M]Ovarian serous tumour 3
+BBK0012 [M]Fibromyoma 3
+BBd2.12 [M]Meningothelial sarcoma 3
+G111.12 Mitral regurgitation - rheumatic 3
+G22..11 Nephrosclerosis 3
+J625.11 [X] Liver failure 3
+J62y.13 Hepatic failure 3
+B110111 Malignant neoplasm of gastro-oesophageal junction 2
+B3...11 Carcinoma of bone, connective tissue, skin and breast 2
+B30..12 Osteoma 2
+B933.11 Cystosarcoma phyllodes 2
+BB25.13 [M]Keratotic papilloma 2
+BB5D111 [M]Bile duct carcinoma 2
+BB5R611 [M]Goblet cell tumour 2
+BB61011 [M]Hidradenoma NOS 2
+BBM7.12 [M]Fibroadenoma phyllodes 2
+BBT4.11 [M]Arteriovenous haemangioma 2
+BBU4.12 [M]Hygroma 2
+BBbL.11 [M]Glioblastoma multiforme 2
+C100111 Maturity onset diabetes 2
+C108811 Type I diabetes mellitus - poor control 2
+C10FC11 Type II diabetes mellitus with nephropathy 2
+C10FJ11 Insulin treated Type II diabetes mellitus 2
+C10FR11 Type II dm with gastroparesis 2
+D412.11 Mesenteric lymphadenitis 2
+E270.11 Stammering 2
+E270.12 Stuttering 2
+G140412 Tricuspid incompetence, cause unspecified 2
+G140514 Tricuspid stenosis+regurg,unsp 2
+G3...11 Arteriosclerotic heart disease 2
+G311.14 Angina at rest 2
+G311011 MI- myocardial infarct aborted 2
+G580.13 Right ventricular failure 2
+G583.11 HFNEF - heart failure with normal ejection fraction 2
+B00..11 Carcinoma of lip 1
+B1...11 Carcinoma of digestive organs and peritoneum 1
+B61z.11 Hodgkin lymphoma NOS 1
+B627911 Maltoma 1
+B630.12 Myelomatosis 1
+B641011 Chronic lymphocytic leukaemia of B-cell type 1
+B712111 Jejunal polyp 1
+B713811 Polyp of colostomy site 1
+B714111 Benign papilloma rectum 1
+B7D..11 Renal benign neoplasms 1
+B7F0.11 Cerebral tumour - benign 1
+B8...12 Erythroplasia 1
+B822.11 Carcinoma in situ of ear 1
+B936.11 Myeloma - solitary 1
+B936.12 Plasmacytoma NOS 1
+B937911 Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality 1
+BB29.11 [M]Epidermoid carcinoma in situ 1
+BB2A.13 [M]Squamous cell carcinoma of skin NOS 1
+BB5D411 [M]Hepatocellular adenoma 1
+BB5D512 [M]Hepatoma, malignant 1
+BB5D513 [M]Liver cell carcinoma 1
+BB5D711 [M]Hepatocholangiocarcinoma 1
+BB5N011 [M]Adenomatosis NOS 1
+BB5N012 [M]Familial polyposis coli 1
+BB5W011 [M]Hurthle cell adenoma 1
+BB9A.11 [M]Adenoma of the nipple 1
+BBB2.11 [M]Adenoacanthoma 1
+BBC9.13 [M]Sertoli cell tumour 1
+BBE0.11 [M]Hairy naevus NOS 1
+BBK0013 [M]Leiomyofibroma 1
+BBK0014 [M]Myofibroma 1
+BBK1012 [M]Vascular leiomyoma 1
+BBM4.11 [M]Cystadenofibroma NOS 1
+BBQ7011 [M]Adult cystic teratoma 1
+BBQ8.11 [M]Dermoid NOS 1
+BBT1.11 [M]Angiosarcoma 1
+BBb3.13 [M]Subependymoma 1
+BBbB.11 [M]Astrocytic glioma 1
+BBc6.11 [M]Glioneuroma 1
+BBcC.11 [M]Olfactory neuroblastoma 1
+BBe1.11 [M]Multiple neurofibromatosis 1
+BBe5.11 [M]Acoustic neuroma 1
+BBgC.11 [M]Lymphocytic lymphoma NOS 1
+C107.11 Diabetes mellitus with gangrene 1
+C108.13 Type I diabetes mellitus 1
+C109711 Type II diabetes mellitus - poor control 1
+C10EM11 Type I diabetes mellitus with ketoacidosis 1
+C10F911 Type II diabetes mellitus without complication 1
+C10FB11 Type II diabetes mellitus with polyneuropathy 1
+C10FE11 Type II diabetes mellitus with diabetic cataract 1
+G32..12 Personal history of myocardial infarction 1
+G42..11 Pulmonary vessel disease 1
+G581.11 Asthma - cardiac 1
+G58z.12 Cardiac failure NOS 1
+J201.11 Abscess of appendix 1
+K04..11 ARF - Acute renal failure 1
+K040.11 ATN - Acute tubular necrosis 1
+K103.11 Ureteritis cystica 1
+N331N11 Minimal trauma fracture 1
+PD1..13 Polycystic kidney 1
+BBGA.11 [M]Desmoid NOS 1
+BBGK.14 [M]Subepidermal nodular fibrosis 1
+BBZF.11 [M]Adamantinoma NOS 1
+BBTF.11 [M]Angioblastoma 2
+BBEG.11 [M]Lentigo maligna melanoma 7
+BBEN.13 [M] Spitz naevus 9
+BBEJ.11 [M]Dermal naevus 20
+BBGK.12 [M]Histiocytoma NOS 23
+BBEF.11 [M]Lentigo maligna 21
+C10F. Type 2 diabetes mellitus 3059
+G58.. Heart failure 2756
+G20.. Essential hypertension 2666
+G2... Hypertensive disease 1976
+G30.. Acute myocardial infarction 1798
+C10.. Diabetes mellitus 1463
+G3... Ischaemic heart disease 1343
+C34.. Gout 1212
+G33.. Angina pectoris 1147
+N330. Osteoporosis 1028
+G580. Congestive heart failure 1005
+B33.. Other malignant neoplasm skin 736
+K04.. Acute renal failure 674
+B46.. Malignant neoplasm of prostate 595
+B22z. Malignant neoplasm of bronchus or lung NOS 544
+G581. Left ventricular failure 494
+G401. Pulmonary embolism 437
+B34.. Malignant neoplasm of female breast 414
+B76.. Benign neoplasm of skin 362
+G61.. Intracerebral haemorrhage 287
+F12.. Parkinson's disease 275
+K04C. Acute kidney injury stage 1 253
+B141. Malignant neoplasm of rectum 244
+B49.. Malignant neoplasm of urinary bladder 235
+B338. Squamous cell carcinoma of skin 230
+B577. Secondary malignant neoplasm of liver 215
+16D6. Fall 200
+B10z. Malignant neoplasm of oesophagus NOS 194
+BB2A. [M]Squamous cell carcinoma NOS 173
+B440. Malignant neoplasm of ovary 148
+C10E. Type 1 diabetes mellitus 142
+B8... Carcinoma in situ 139
+BB13. [M]Carcinoma, metastatic, NOS 139
+BB5.. [M]Adenomas/adenocarcinomas 137
+B13.. Malignant neoplasm of colon 132
+BB03. [M]Neoplasm, metastatic 125
+B13z. Malignant neoplasm of colon NOS 119
+B10.. Malignant neoplasm of oesophagus 118
+B74.. Lipoma 112
+B22.. Malignant neoplasm of trachea, bronchus and lung 109
+B58.. Secondary malignant neoplasm of other specified sites 98
+B11.. Malignant neoplasm of stomach 93
+B630. Multiple myeloma 91
+B226. Mesothelioma 82
+B17.. Malignant neoplasm of pancreas 80
+J623. Portal hypertension 75
+G2z.. Hypertensive disease NOS 74
+B.... Neoplasms 71
+B32.. Malignant melanoma of skin 71
+K04D. Acute kidney injury stage 2 71
+B34z. Malignant neoplasm of female breast NOS 69
+G340. Coronary atherosclerosis 69
+B585. Secondary malignant neoplasm of bone and bone marrow 66
+BB4.. [M]Transitional cell papillomas and carcinomas 66
+G3071 Acute non-ST segment elevation myocardial infarction 66
+J520z Constipation NOS 66
+B650. Acute myeloid leukaemia 62
+G410. Primary pulmonary hypertension 61
+B133. Malignant neoplasm of sigmoid colon 59
+B1z0. Malignant neoplasm of intestinal tract, part unspecified 59
+G133. Mitral and aortic incompetence 59
+K04E. Acute kidney injury stage 3 57
+C10P. Diabetes mellitus in remission 56
+B134. Malignant neoplasm of caecum 55
+F124. Vascular parkinsonism 55
+B641. Chronic lymphoid leukaemia 50
+B713. Benign neoplasm of colon 50
+BBE1. [M]Malignant melanoma NOS 48
+K101. Acute pyelonephritis 48
+B33z. Malignant neoplasm of skin NOS 47
+BBbL. [M]Glioblastoma NOS 46
+B2200 Malignant neoplasm of cartilage of trachea 43
+B570. Secondary malignant neoplasm of lung 43
+B78.. Uterine leiomyoma - fibroids 41
+BB52. [M]Adenocarcinoma NOS 41
+B222. Malignant neoplasm of upper lobe, bronchus or lung 40
+B812. Carcinoma in situ of bronchus and lung 38
+G20z. Essential hypertension NOS 38
+B711. Benign neoplasm stomach 37
+J622. Hepatic coma 37
+B837. Carcinoma in situ of bladder 36
+BB53. [M]Adenocarcinoma, metastatic, NOS 36
+G110. Mitral stenosis 36
+G3115 Acute coronary syndrome 36
+N331N Fragility fracture 36
+B49z. Malignant neoplasm of urinary bladder NOS 35
+BBg1. [M]Malignant lymphoma NOS 35
+BB12. [M]Carcinoma NOS 34
+BB51. [M]Adenocarcinoma in situ 34
+B57.. Secondary malignant neoplasm of respiratory and digestive systems 33
+B830. Carcinoma in situ of breast 33
+G32.. Old myocardial infarction 33
+B160. Malignant neoplasm of gallbladder 30
+G1404 Tricuspid insufficiency, cause unspecified 30
+B834. Carcinoma in situ of prostate 29
+B41.. Malignant neoplasm of cervix uteri 28
+B56.. Secondary and unspecified malignant neoplasm of lymph nodes 27
+B6y0. Myeloproliferative disorder 27
+B51.. Malignant neoplasm of brain 25
+BC... Polyp 25
+B140. Malignant neoplasm of rectosigmoid junction 24
+B590. Disseminated malignancy NOS 24
+B768. Melanocytic naevi of skin 24
+BB2.. [M]Papillary and squamous cell neoplasms 24
+BBv.. [M]Myelodysplastic syndrome 24
+B934. Polycythaemia vera 23
+C106. Diabetes mellitus with neurological manifestation 23
+C109. Non-insulin dependent diabetes mellitus 23
+G58z. Heart failure NOS 23
+B01.. Malignant neoplasm of tongue 22
+B627. Non - Hodgkin's lymphoma 22
+B4A.. Malignant neoplasm of kidney and other unspecified urinary organs 21
+B4A0. Malignant neoplasm of kidney parenchyma 21
+BB29. [M]Squamous cell carcinoma in situ NOS 20
+BB5B. [M]Pancreatic adenomas and carcinomas 20
+BB5a. [M]Renal adenoma/carcinoma 20
+BBn0. [M]Plasma cell myeloma 20
+G343. Ischaemic cardiomyopathy 20
+B7J0. Haemangioma 19
+F121. Secondary parkinsonism - drugs 19
+G583. Heart failure with normal ejection fraction 19
+B4302 Malignant neoplasm of endometrium of corpus uteri 18
+BBT1. [M]Haemangiosarcoma 18
+BBd.. [M]Meningiomas 18
+B937. Uncert.neop.other lymph/blood 17
+BBm7. [M] Monoclonal gammopathy 17
+G130. Mitral and aortic stenosis 17
+G41z. Chronic pulmonary heart disease NOS 17
+B3... Malignant neoplasm of bone, connective tissue, skin and breast 16
+B4Az. Malignant neoplasm of kidney or urinary organs NOS 16
+B6... Malignant neoplasm of lymphatic and haemopoietic tissue 16
+BB1J. [M]Small cell carcinoma NOS 16
+BB5D1 [M]Cholangiocarcinoma 16
+G13.. Diseases of mitral+aortic valv 16
+B150. Primary malignant neoplasm of liver 15
+B16y. Malignant neoplasm other gallbladder/extrahepatic bile duct 15
+B21.. Malignant neoplasm of larynx 15
+BB81. [M]Ovarian cystic, mucinous and serous neoplasms 15
+BBF1. [M]Sarcoma NOS 15
+J520. Constipation - functional 15
+B142. Malignant neoplasm of anal canal 14
+B2... Malignant neoplasm of respiratory tract and intrathoracic organs 14
+B651. Chronic myeloid leukaemia 14
+B7E8. Naevus of choroid 14
+BB2B. [M]Squamous cell carcinoma, metastatic NOS 14
+BBb0. [M]Glioma, malignant 14
+G400. Acute cor pulmonale 14
+B221. Malignant neoplasm of main bronchus 13
+B22y. Malignant neoplasm of other sites of bronchus or lung 13
+B4... Malignant neoplasm of genitourinary organ 13
+B65.. Myeloid leukaemia 13
+BBG0. [M]Fibroma NOS 13
+C10FJ Insulin treated Type 2 diabetes mellitus 13
+F12z. Parkinson's disease NOS 13
+B0... Malignant neoplasm of lip, oral cavity and pharynx 12
+B151. Malignant neoplasm of intrahepatic bile ducts 12
+B170. Malignant neoplasm of head of pancreas 12
+B937W Myelodysplastic syndrome, unspecified 12
+BB31. [M]Basal cell carcinoma NOS 12
+BB43. [M]Transitional cell carcinoma NOS 12
+G132. Mitral insufficiency and aortic stenosis 12
+G25.. Stge 1 hypertensin (NICE 2011) 12
+B060. Malignant neoplasm of tonsil 11
+B1... Malignant neoplasm of digestive organs and peritoneum 11
+B232. Mesothelioma of pleura 11
+B5832 Cerebral metastasis 11
+B62x. Malignant lymphoma otherwise specified 11
+BB3.. [M]Basal cell neoplasms 11
+BB33. [M]Basal cell carcinoma, morphoea type 11
+BBEJ. [M]Intradermal naevus 11
+Byu57 [X]Malignant neoplasm of peritoneum, unspecified 11
+C108. Insulin depnd diabetes melitus 11
+G121. Rheumatic aortic insufficiency 11
+G131. Mitral stenosis+aortic insuff. 11
+B21z. Malignant neoplasm of larynx NOS 10
+B5... Malignant neoplasm of other and unspecified sites 10
+B61.. Hodgkin's disease 10
+B801. Carcinoma in situ of oesophagus 10
+G30A. Mural thrombosis 10
+B53.. Malignant neoplasm of thyroid gland 9
+B593. Primary malignant neoplasm of unknown site 9
+BB50. [M]Adenoma NOS 9
+C104. Diabetes mellitus with renal manifestation 9
+E2781 Tension headache 9
+G30z. Acute myocardial infarction NOS 9
+G5802 Decompensated cardiac failure 9
+B06.. Malignant neoplasm oropharynx 8
+B0z2. Malignant neoplasm of laryngopharynx 8
+B1503 Hepatocellular carcinoma 8
+B153. Secondary malignant neoplasm of liver 8
+B173. Malignant neoplasm of pancreatic duct 8
+B2221 Malignant neoplasm of upper lobe of lung 8
+B43.. Malignant neoplasm of body of uterus 8
+B7H2. Benign neoplasm of pituitary gland and craniopharyngeal duct 8
+B810. Carcinoma in situ of larynx 8
+BB55. [M]Linitis plastica 8
+BB5R. [M]Carcinoid tumours 8
+BBT0. [M]Haemangioma NOS 8
+BBe8. [M]Neuroma NOS 8
+C340. Gouty arthropathy 8
+Ez... Mental disorders NOS 8
+G582. Acute heart failure 8
+J20.. Acute appendicitis 8
+J624. Hepatorenal syndrome 8
+B010. Malignant neoplasm of base of tongue 7
+B152. Malignant neoplasm of liver unspecified 7
+B224. Malignant neoplasm of lower lobe, bronchus or lung 7
+B47.. Malignant neoplasm of testis 7
+B511. Malignant neoplasm of frontal lobe 7
+B675. Acute myelofibrosis 7
+B691. Chronic myelomonocytic leukaemia 7
+BB04. [M]Neoplasm, malignant, uncertain whether primary or metastatic 7
+BB1P. [M]Non-small cell carcinoma 7
+BB3C. [M]Superficial basal cell carcinoma 7
+BBE0. [M]Pigmented naevus NOS 7
+BBL3. [M]Pleomorphic adenoma 7
+Byu6. [X]Malignant neoplasm/breast 7
+E.... Mental disorders 7
+G308. Inferior myocardial infarction NOS 7
+G30X0 Acute ST segment elevation myocardial infarction 7
+B08.. Malignant neoplasm of hypopharynx 6
+B11z. Malignant neoplasm stomach NOS 6
+B136. Malignant neoplasm of ascending colon 6
+B210. Malignant neoplasm of glottis 6
+B36.. Local recurrence of malignant tumour of breast 6
+B51z. Malignant neoplasm of brain NOS 6
+B62F1 Mantle cell lymphoma 6
+B677. Myelodysplastic and myeloproliferative disease 6
+BB25. [M]Squamous cell papilloma 6
+BB5M. [M]Tubular adenomas and adenocarcinomas 6
+BBEG. [M]Malignant melanoma in Hutchinson's melanotic freckle 6
+BBbB. [M]Astrocytoma NOS 6
+C101. Diabetes mellitus with ketoacidosis 6
+C10F9 Type 2 diabetes mellitus without complication 6
+C346. Acute exacerbation of gout 6
+G200. Malignant essential hypertension 6
+G617. Intrcereb haem,intraventriculr 6
+G619. Lobar cerebral haemorrhage 6
+J5203 Drug induced constipation 6
+K100. Chronic pyelonephritis 6
+B053. Malignant neoplasm of soft palate 5
+B081. Malignant neoplasm of pyriform sinus 5
+B110. Malignant neoplasm of cardia of stomach 5
+B131. Malignant neoplasm of transverse colon 5
+B200. Malignant neoplasm of nasal cavities 5
+B2zz. Malignant neoplasm of respiratory tract NOS 5
+B35.. Malignant neoplasm of male breast 5
+B40.. Malignant neoplasm of uterus, part unspecified 5
+B410. Malignant neoplasm of endocervix 5
+B43z. Malignant neoplasm of body of uterus NOS 5
+B44.. Malignant neoplasm of ovary and other uterine adnexa 5
+B552. Malignant neoplasm of abdomen 5
+B553. Malignant neoplasm of pelvis 5
+B628. Follicular lymphoma 5
+B681. Chronic leukaemia NOS 5
+B69.. Myelomonocytic leukaemia 5
+B77.. Benign neoplasm of breast 5
+B7H0. Benign neoplasm of adrenal gland 5
+B803. Carcinoma in situ of colon 5
+BA0.. Neoplasm of unspecified nature 5
+BB2L. [M]Bowen's disease 5
+BB5M0 [M]Tubular adenoma NOS 5
+BB9.. [M]Ductal/lobular/medull.neop. 5
+BB91. [M]Infiltrating duct carcinoma 5
+BBQ8. [M]Dermoid cyst 5
+BBe5. [M]Neurilemmoma NOS 5
+BBg2. [M]Malignant lymphoma, non Hodgkin's type 5
+Byu1. [X]Malignant neoplasm of digestive organs 5
+G202. Systolic hypertension 5
+G203. Diastolic hypertension 5
+G28.. Stge 2 hypertensin (NICE 2011) 5
+G341. Aneurysm of heart 5
+G3z.. Ischaemic heart disease NOS 5
+G41y0 Secondary pulmonary hypertension 5
+J2... Appendicitis and other disorders of the appendix 5
+J625. [X] Hepatic failure 5
+K10y0 Pyelonephritis unspecified 5
+K10z. Infection of kidney NOS 5
+PD11. Polycystic kidney disease 5
+B00.. Malignant neoplasm of lip 4
+B04z. Malignant neoplasm of floor of mouth NOS 4
+B061. Malignant neoplasm of tonsillar fossa 4
+B07.. Malignant neoplasm of nasopharynx 4
+B105. Malignant neoplasm of lower third of oesophagus 4
+B130. Malignant neoplasm of hepatic flexure of colon 4
+B17z. Malignant neoplasm of pancreas NOS 4
+B211. Malignant neoplasm of supraglottis 4
+B215. Malignant neoplasm of epiglottis NOS 4
+B223. Malignant neoplasm of middle lobe, bronchus or lung 4
+B41z. Malignant neoplasm of cervix uteri NOS 4
+B49y. Malignant neoplasm of other site of urinary bladder 4
+B514. Malignant neoplasm of occipital lobe 4
+B583. Secondary malignant neoplasm of brain and spinal cord 4
+B5830 Secondary malignant neoplasm of brain 4
+B627E Diffuse large B-cell lymphoma 4
+B728. Atrial myxoma 4
+B802. Carcinoma in situ of stomach 4
+B915. Uncert. neopl. prostate 4
+BB02. [M]Neoplasm, malignant 4
+BB57. [M]Adenocarcinoma, intestinal type 4
+BB5A. [M]Basal cell adenoma 4
+BB5j. [M]Endometrioid adenomas and carcinomas 4
+BBEF. [M]Hutchinson's melanotic freckle 4
+BBEH. [M]Superficial spreading melanoma 4
+C10B. Diabetes mellitus induced by steroids 4
+C10G. Secondary pancreatic dm 4
+D213. Refractory Anaemia 4
+G11.. Mitral valve diseases 4
+G120. Rheumatic aortic stenosis 4
+G21.. Hypertensive heart disease 4
+G310. Postmyocardial infarction syndrome 4
+G311. Preinfarction syndrome 4
+G613. Cerebellar haemorrhage 4
+G614. Pontine haemorrhage 4
+K10.. Infections of kidney 4
+N330B Vertebral osteoporosis 4
+B04.. Malignant neoplasm of floor of mouth 3
+B05z. Malignant neoplasm of mouth NOS 3
+B101. Malignant neoplasm of thoracic oesophagus 3
+B114. Malignant neoplasm of body of stomach 3
+B12z. Malignant neoplasm of small intestine NOS 3
+B135. Malignant neoplasm of appendix 3
+B181. Mesothelioma of peritoneum 3
+B23.. Malignant neoplasm of pleura 3
+B496. Malignant neoplasm of ureteric orifice 3
+B4A3. Malignant neoplasm of urethra 3
+B540. Malignant neoplasm of adrenal gland 3
+B5850 Pathological fracture due to metastatic bone disease 3
+B587. Secondary malignant neoplasm of adrenal gland 3
+B58y. Secondary malignant neoplasm of other specified sites 3
+B68z. Leukaemia NOS 3
+B7J1. Lymphangioma 3
+B8040 Carcinoma in situ of rectosigmoid junction 3
+B906. Uncert. neopl. larynx 3
+B917. Uncert. neopl. bladder 3
+BB3D. [M]Basal cell carcinoma, nodular 3
+BB5D5 [M]Hepatocellular carcinoma NOS 3
+BB5U3 [M]Tubulovillous adenoma 3
+BB5a0 [M]Renal cell carcinoma 3
+BB5jz [M]Endometrioid adenoma/ca.NOS 3
+BBL9. [M]Carcinosarcoma NOS 3
+BBQ1. [M]Seminomas 3
+BBTA. [M]Kaposi's sarcoma 3
+BBgR. [M]Malignant lymphoma, large cell, diffuse NOS 3
+BBmH. [M] Large cell lymphoma 3
+BBs5. [M]Chronic lymphoproliferative disease 3
+Byu2. [X]Malignant neoplasm of respiratory and intrathoracic organs 3
+C34z. Gout NOS 3
+G300. Acute anterolateral infarction 3
+G304. Posterior myocardial infarction NOS 3
+G33z. Angina pectoris NOS 3
+G33z7 Stable angina 3
+G34z0 Asymptomatic coronary heart disease 3
+G41.. Chronic pulmonary heart disease 3
+G42.. Other pulmonary circulation disease 3
+G4z.. Pulmonary circulation disease NOS 3
+J520y Other specified constipation 3
+N1y1. Fatigue fracture of vertebra 3
+B004. Malignant neoplasm of lip unspecified, inner aspect 2
+B020. Malignant neoplasm of parotid gland 2
+B050. Malignant neoplasm of cheek mucosa 2
+B063. Malignant neoplasm of vallecula 2
+B064. Malignant neoplasm of anterior epiglottis 2
+B0z0. Malignant neoplasm of pharynx unspecified 2
+B0zz. Malignant neoplasm of lip, oral cavity and pharynx NOS 2
+B113. Malignant neoplasm of fundus of stomach 2
+B115. Malignant neoplasm of lesser curve of stomach unspecified 2
+B119. Siewert type III adenocarcinoma 2
+B120. Malignant neoplasm of duodenum 2
+B121. Malignant neoplasm of jejunum 2
+B137. Malignant neoplasm of splenic flexure of colon 2
+B13y. Malignant neoplasm of other specified sites of colon 2
+B14.. Malignant neoplasm of rectum, rectosigmoid junction and anus 2
+B143. Malignant neoplasm of anus unspecified 2
+B15.. Malignant neoplasm of liver and intrahepatic bile ducts 2
+B15z. Malignant neoplasm of liver and intrahepatic bile ducts NOS 2
+B16.. Malignant neoplasm of gallbladder and extrahepatic bile ducts 2
+B161. Malignant neoplasm of extrahepatic bile ducts 2
+B213. Malignant neoplasm of laryngeal cartilage 2
+B2241 Malignant neoplasm of lower lobe of lung 2
+B225. Malignant neoplasm of overlapping lesion of bronchus and lung 2
+B30.. Malignant neoplasm of bone and articular cartilage 2
+B310. Malignant neoplasm of connective and soft tissue of head, face and neck 2
+B322. Malignant melanoma of ear and external auricular canal 2
+B32J. Malignant melanoma stge IV M1c 2
+B32z. Malignant melanoma of skin NOS 2
+B493. Malignant neoplasm of anterior wall of urinary bladder 2
+B498. Local recurrence of malignant tumour of urinary bladder 2
+B4Ay. Malignant neoplasm of other urinary organs 2
+B510. Malignant neoplasm of cerebrum (excluding lobes and ventricles) 2
+B513. Malignant neoplasm of parietal lobe 2
+B516. Malignant neoplasm of cerebellum 2
+B522. Malignant neoplasm of spinal cord 2
+B575. Secondary malignant neoplasm of large intestine and rectum 2
+B581. Secondary malignant neoplasm of other urinary organs 2
+B595. Malignant tumour of unknown origin 2
+B61C. Other classical Hodgkin lymphoma 2
+B61z. Hodgkin's disease NOS 2
+B627C Follicular non-Hodgkin's lymphoma 2
+B62C. Unifocal Langerhans-cell histiocytosis 2
+B62y. Malignant lymphoma NOS 2
+B63z. Immunoproliferative neoplasm or myeloma NOS 2
+B64.. Lymphoid leukaemia 2
+B68.. Unspecif. cell type leukaemia 2
+B7417 Lipoma of forearm 2
+B7Fy1 Morton neuroma 2
+B7G.. Benign neoplasm thyroid gland 2
+B7J.. Haemangiomas and lymphangiomas of any site 2
+B828. Melanoma in situ of skin 2
+B8333 Carcinoma in situ of vulva 2
+BA... Unspecified nature neoplasm 2
+BA04. Neoplasm of unspecified nature of bladder 2
+BA06. Neoplasm of unspecified nature of brain 2
+BB07. [M]Tumour cells, malignant 2
+BB08. [M]Malignant tumour, small cell type 2
+BB20. [M]Papilloma NOS(excl.bladder) 2
+BB5C. [M]Gastrinoma and carcinomas 2
+BB5J. [M]Adenoid cystic carcinoma 2
+BB5U. [M]Villous adenomas and adenocarcinomas 2
+BB5V. [M]Pituitary adenomas and carcinomas 2
+BB5z. [M]Adenomas/adenocarcinoma NOS 2
+BB82. [M]Mucinous adenoma/carcinoma 2
+BB9J. [M]Paget's disease, mammary 2
+BBC0. [M]Sex cord-stromal tumour 2
+BBCD. [M]Hilar cell tumour 2
+BBD0. [M]Paraganglioma NOS 2
+BBEX. [M]Melanoma in situ 2
+BBGJ. [M]Fibroxanthoma, malignant 2
+BBJ2. [M]Fibrolipoma 2
+BBJH. [M]Dedifferntiated liposarcoma 2
+BBLF. [M]Endometrial stromal nodule 2
+BBM.. [M]Fibroepithelial neoplasms 2
+BBM1. [M]Fibroadenoma NOS 2
+BBM6. [M]Mucinous adenofibroma 2
+BBP.. [M]Mesothelial neoplasms 2
+BBT8. [M]Capillary haemangioma 2
+BBTF. [M]Haemangioblastoma 2
+BBa0. [M]Craniopharyngioma 2
+BBb7. [M]Ependymoma NOS 2
+BBc6. [M]Ganglioglioma 2
+BBc7. [M]Neurocytoma 2
+BBe1. [M]Neurofibromatosis NOS 2
+BBg.. [M]Lymphomas, NOS or diffuse 2
+BBm9. [M] Monocytoid B-cell lymphoma 2
+BBmK. [M]Waldenstrom's macroglobulinaemia 2
+BBr30 [M]Plasma cell leukaemia 2
+BBrz. [M]Leukaemia NOS 2
+Byu4. [X]Melanoma+oth mal neopl/skin 2
+C10F6 Type 2 diabetes mellitus with retinopathy 2
+C10FM Type 2 diabetes mellitus with persistent microalbuminuria 2
+C345. Gout due to impairment of renal function 2
+C34y5 Gouty tophi of hand 2
+D414. Hypersplenism 2
+G13z. Mitral+aortic valve dis. NOS 2
+G140. Tricuspid valve disease NEC 2
+G3111 Unstable angina 2
+G3112 Angina at rest 2
+G5801 Chronic congestive heart failure 2
+G5810 Acute left ventricular failure 2
+G584. Right ventricular failure 2
+K044. Acute renal failure due to urinary obstruction 2
+K04z. Acute renal failure NOS 2
+N3300 Osteoporosis, unspecified 2
+N338. Malunion/nonunion of fracture 2
+PD10. Congenital renal cyst, single 2
+B021. Malignant neoplasm of submandibular gland 1
+B054. Malignant neoplasm of uvula 1
+B06z. Malignant neoplasm of oropharynx NOS 1
+B0732 Malignant neoplasm posterior margin nasal septum and choanae 1
+B083. Malignant neoplasm of posterior pharynx 1
+B0zy. Malignant neoplasm of other sites of lip, oral cavity and pharynx 1
+B103. Malignant neoplasm of upper third of oesophagus 1
+B106. Malignant neoplasm, overlapping lesion of oesophagus 1
+B10y. Malignant neoplasm of other specified part of oesophagus 1
+B112. Malignant neoplasm of pyloric antrum of stomach 1
+B12.. Malignant neoplasm of small intestine and duodenum 1
+B122. Malignant neoplasm of ileum 1
+B132. Malignant neoplasm of descending colon 1
+B163. Malignant neoplasm, overlapping lesion of biliary tract 1
+B16z. Malignant neoplasm of gallbladder and extrahepatic bile ducts NOS 1
+B172. Malignant neoplasm of tail of pancreas 1
+B18y. Malignant neoplasm of specified parts of peritoneum 1
+B18y3 Malignant neoplasm of omentum 1
+B1z.. Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum 1
+B2001 Malignant neoplasm of nasal conchae 1
+B202. Malignant neoplasm of maxillary sinus 1
+B205. Malignant neoplasm of sphenoidal sinus 1
+B220. Malignant neoplasm of trachea 1
+B240. Malignant neoplasm of thymus 1
+B2z.. Malignant neoplasm of other and ill-defined sites within the respiratory and intrathoracic organs 1
+B300. Malignant neoplasm of bones of skull and face 1
+B301. Malignant neoplasm of mandible 1
+B302. Malignant neoplasm of vertebral column 1
+B3030 Malignant neoplasm of rib 1
+B311. Malignant neoplasm of connective and soft tissue of upper limb and shoulder 1
+B311z Malignant neoplasm of connective and soft tissue of upper limb and shoulder NOS 1
+B314. Malignant neoplasm of connective and soft tissue of abdomen 1
+B32B. Malignant melanoma stage IIB 1
+B32H. Malignant melanoma stge IV M1b 1
+B32y. Malignant melanoma of other specified skin site 1
+B3312 Malignant neoplasm of lower eyelid 1
+B332. Malignant neoplasm skin of ear and external auricular canal 1
+B33y. Malignant neoplasm of other specified skin sites 1
+B342. Malignant neoplasm of upper-inner quadrant of female breast 1
+B34y. Malignant neoplasm of other site of female breast 1
+B3z.. Malignant neoplasm of bone, connective tissue, skin and breast NOS 1
+B490. Malignant neoplasm of trigone of urinary bladder 1
+B4A2. Malignant neoplasm of ureter 1
+B4y.. Malignant neoplasm of genitourinary organ otherwise specified 1
+B50.. Malignant neoplasm of eye 1
+B525. Malignant neoplasm of cauda equina 1
+B550. Malignant neoplasm of head, neck and face 1
+B553z Malignant neoplasm of pelvis NOS 1
+B555. Malignant neoplasm of lower limb NOS 1
+B562. Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes 1
+B565. Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes 1
+B56y. Secondary and unspecified malignant neoplasm of lymph nodes in multiple sites 1
+B56z. Secondary and unspecified malignant neoplasm of lymph nodes NOS 1
+B5762 Malignant ascites 1
+B57y. Secondary malignant neoplasm of other digestive organ 1
+B580. Secondary malignant neoplasm of kidney 1
+B5831 Secondary malignant neoplasm of spinal cord 1
+B586. Secondary malignant neoplasm of ovary 1
+B58z. Secondary malignant neoplasm of other specified site NOS 1
+B59.. Malignant neoplasm of unspecified site 1
+B594. Secondary malignant neoplasm of unknown site 1
+B59z. Malignant neoplasm of unspecified site NOS 1
+B5z.. Malignant neoplasm of other and unspecified site NOS 1
+B60z. Reticulosarcoma or lymphosarcoma NOS 1
+B617. Nodular lymphocyte predominant Hodgkin lymphoma 1
+B62.. Other malignant neoplasm of lymphoid and histiocytic tissue 1
+B621. Mycosis fungoides 1
+B62E. T/NK-cell lymphoma 1
+B62z2 Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrathoracic lymph nodes 1
+B631. Plasma cell leukaemia 1
+B63y. Other immunoproliferative neoplasms 1
+B640. Acute lymphoid leukaemia 1
+B6412 Clinical stage B chronic lymphocytic leukaemia 1
+B661. Chronic monocytic leukaemia 1
+B67.. Other specified leukaemia 1
+B680. Acute leukaemia NOS 1
+B7... Benign neoplasms 1
+B7020 Benign neoplasm parotid gland 1
+B7023 Warthin's tumour 1
+B710. Benign neoplasm of oesophagus 1
+B723. Benign neoplasm of bronchus and lung 1
+B76z. Benign neoplasm skin NOS 1
+B7F20 Cerebral meningioma 1
+B8033 Carcinoma in situ of sigmoid colon 1
+B8041 Carcinoma in situ of rectum 1
+B8108 Carcinoma in situ of vocal fold - glottis 1
+B831. Carcinoma in situ of cervix uteri 1
+B8310 Carcinoma in situ of endocervix 1
+B832. Carcinoma in situ of other and unspecified parts of uterus 1
+B835. Carcinoma in situ of penis 1
+B901. Uncert. neopl. lip/oral/pharyn 1
+B903. Uncert. neopl. liver / biliary 1
+B927. Neurofibromatosis - Von Recklinghausen's disease 1
+B933. Uncert. neopl. breast 1
+B93y0 Uncert. neopl. eye 1
+BB05. [M]Tumour cells, benign 1
+BB11. [M]Carcinoma in situ NOS 1
+BB1N. [M]Small cell-large cell carcinoma 1
+BB28. [M]Papillomatosis NOS 1
+BB2C. [M]Squamous cell carcinoma, keratinising type NOS 1
+BB35. [M]Basosquamous carcinoma 1
+BB3A. [M]Tricholemmoma 1
+BB3G. [M]Pigmented basal cell carcinoma 1
+BB41. [M]Urothelial papilloma 1
+BB48. [M]Basaloid carcinoma 1
+BB4A. [M]Papillary transitional cell carcinoma 1
+BB4B. [M]Grade 1 (Stage pTa) papillary urothelial/transitional cell carcinoma 1
+BB59. [M]Monomorphic adenoma 1
+BB5B1 [M]Islet cell carcinoma 1
+BB5Bz [M]Pancreatic adenoma/ca NOS 1
+BB5R9 [M]Neuroendocrine carcinoma 1
+BB5X. [M]Clear cell adenomas and adenocarcinomas 1
+BB5az [M]Renal adenoma/ca NOS 1
+BB5c. [M]Parathyroid adenomas and adenocarcinomas 1
+BB66. [M]Papillary hydradenoma 1
+BB69. [M]Sebaceous adenoma/ca. 1
+BB690 [M]Sebaceous adenoma 1
+BB821 [M]Mucinous adenocarcinoma 1
+BB9F. [M]Lobular carcinoma NOS 1
+BB9L. [M]Paget's disease, extramammary, excluding Paget's disease of bone 1
+BBB6. [M]Thymoma 1
+BBB7. [M]Epithelial-myoepithelial carcinoma 1
+BBD4. [M]Glomus jugulare tumour 1
+BBDF. [M]Glomangiomyoma 1
+BBE5. [M]Halo naevus 1
+BBEB. [M]Junctional naevus 1
+BBEK. [M]Compound naevus 1
+BBEV. [M]Blue naevus, malignant 1
+BBEY. [M]Dysplastic naevus 1
+BBH0. [M]Myxoma NOS 1
+BBJ.. [M]Lipomatous neoplasms 1
+BBJ9. [M]Intramuscular lipoma 1
+BBJA. [M]Spindle cell lipoma 1
+BBJB0 [M]Angiomyolipoma 1
+BBK00 [M]Leiomyoma NOS 1
+BBL7. [M]Renal mixed/stromal neoplas 1
+BBP3. [M]Fibrous mesothelioma,malig. 1
+BBQ.. [M]Germ cell neoplasms 1
+BBQ7. [M]Teratomas 1
+BBT2. [M]Cavernous haemangioma 1
+BBTB. [M]Angiokeratoma 1
+BBTE. [M]Angiofibroma NOS 1
+BBTJ. [M]Epithelioid haemangioendothelioma NOS 1
+BBV0. [M]Osteoma NOS 1
+BBW0. [M]Osteochondroma 1
+BBW2. [M]Chondroma NOS 1
+BBb.. [M]Gliomas 1
+BBbC. [M]Astrocytoma, anaplastic type 1
+BBbz. [M]Glioma NOS 1
+BBd0. [M]Meningioma NOS 1
+BBd2. [M]Meningioma, malignant 1
+BBdz. [M]Meningioma NOS 1
+BBf0. [M]Granular cell tumour NOS 1
+BBgL. [M]Malignant lymphoma, small lymphocytic NOS 1
+BBgz. [M]Lymphoma, diffuse or NOS 1
+BBk0. [M]Malignant lymphoma, nodular NOS 1
+BBmD. [M] Cutaneous lymphoma 1
+BBrA3 [M]Myeloid sarcoma 1
+BBs0. [M]Polycythaemia vera 1
+Byu.. [X]Addtnl neoplsm classfn term 1
+Byu0. [X]Malignant neoplasm of lip, oral cavity and pharynx 1
+Byu9. [X]Malignant neoplasm of urinary tract 1
+ByuA. [X]Malignant neoplasm of eye, brain and other parts of central nervous system 1
+ByuB. [X]Malignant neoplasm of thyroid and other endocrine glands 1
+ByuB1 [X]Malignant neoplasm of endocrine gland, unspecified 1
+ByuC3 [X]Secondary malignant neoplasm/oth+unspc respiratory organs 1
+ByuC7 [X]Secondary malignant neoplasm of other specified sites 1
+ByuE. [X]Malignant neoplasms/independent (primary) multiple sites 1
+Bz... Neoplasms NOS 1
+C1061 Diabetes mellitus, adult onset, with neurological manifestation 1
+C107. Diabetes mellitus with peripheral circulatory disorder 1
+C10FN Type 2 diabetes mellitus with ketoacidosis 1
+C10P1 Type II diabetes mellitus in remission 1
+D418. Calcified lymph nodes 1
+G111. Rheumatic mitral insufficiency 1
+G12.. Rheumatic aortic valve disease 1
+G1401 Rheumatic tricuspid insufficiency 1
+G1402 Rheumatic tricuspid stenosis and insufficiency 1
+G201. Benign essential hypertension 1
+G22.. Hypertensive renal disease 1
+G23.. Hypertensive heart+renal dis. 1
+G250. Stage 1 hypertension (NICE 2011) without evidence of end organ damage 1
+G30B. Acute posterolateral myocardial infarction 1
+G30X. Acute transmural myocardial infarction of unspecified site 1
+G3114 Worsening angina 1
+G33z6 New onset angina 1
+G33zz Angina pectoris NOS 1
+G3400 Single coronary vessel disease 1
+G34z. Other chronic ischaemic heart disease NOS 1
+G35.. Subsequent myocardial infarction 1
+G38.. Postoperative myocardial infarction 1
+G4... Pulmonary circulation diseases 1
+G4y.. Pulmonary circulation dis. OS 1
+G611. Internal capsule haemorrhage 1
+J20z1 Acute gangrenous appendicitis 1
+J5200 Acute constipation 1
+J5201 Chronic constptn with overflow 1
+J5204 Chronic constipation 1
+J62.. Liver abscess/chr.liver seque. 1
+J62y. Other sequelae of chronic liver disease 1
+K040. Acute renal tubular necrosis 1
+K0430 Acute renal failure due to ACE inhibitor 1
+K045. Acute renal failure due to non-traumatic rhabdomyolysis 1
+K04y. Other acute renal failure 1
+N330z Osteoporosis NOS 1
+NyuB8 [X]Unspecified osteoporosis with pathological fracture 1
+PD1.. Congenital cystic kidney disease 1

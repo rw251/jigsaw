@@ -1,0 +1,603 @@
+ClinicalCode	Description	FrequencyInData
+c64F.	BUDESONIDE 200micrograms/dose dry powder cartridge refill	8
+c64H.	EASYHALER BUDESONIDE 100micrograms breath-actuated dry powder inhaler	95
+c64d.	BUDESONIDE 100micrograms breath-actuated dry powder inhaler	16
+c64g.	BUDESONIDE 200micrograms breath-actuated dry powder inhaler	66
+c64h.	BUDESONIDE 400micrograms breath-actuated dry powder inhaler	33
+c66B.	BECLOMETASONE DIPROPIONATE 100micrograms breath-actuated dry powder inhaler	76
+c66H.	BECLOMETASONE DIPROPIONATE 200micrograms breath-actuated dry powder inhaler	2
+c66a.	QVAR EASI-BREATHE 100micrograms CFC-free breath-actuated dry powder inhaler	925
+c66b.	EASYHALER BECLOMETASONE 200micrograms breath-actuated dry powder inhaler	555
+c66c.	CLENIL MODULITE 50micrograms CFC-free inhaler	473
+c66g.	BECLOMETASONE DIPROPIONATE 200micrograms CFC-free inhaler	18
+c67..	BUDESONIDE+FORMOTEROL	61
+c671.	SYMBICORT 100/6 Turbohaler	548
+c672.	SYMBICORT 200/6 Turbohaler	2267
+c673.	SYMBICORT 400/12 Turbohaler	4221
+c674.	DUORESP SPIROMX 160/4.5mcg inh	2
+c675.	DUORESP SPIROMAX 320mcg/9mcg breath-act dry powder inhaler	109
+c67x.	BUDESONIDE+FORMOTEROL FUMARATE DIHYDRATE 400micrograms/12micrograms breath-actuated dry powder inhaler	253
+c67y.	BUDESONIDE+FORMOTEROL FUMARATE DIHYDRATE 200micrograms/6micrograms breath-actuated dry powder inhaler	102
+c67z.	BUDESONIDE+FORMOTEROL FUMARATE DIHYDRATE 100micrograms/6micrograms breath-actuated dry powder inhaler	80
+c6A1.	FOSTAIR 100micrograms/6micrograms inhaler	4522
+c6A2.	FOSTAIR NEXTHALER 100micrograms/6micrograms powder inhaler	389
+c6A3.	FOSTAIR 200micrograms/6micrograms inhaler	353
+c6A4.	FOSTAIR NEXTHALER 200micrograms/6micrograms powder inhaler	189
+c6Ax.	BECLOMET+FORMOTER 200/6mcg inh	1
+c6Az.	BECLOMETASONE+FORMOTEROL 100micrograms/6micrograms inhaler	49
+d151.	DALMANE 15mg capsules	80
+d161.	LOPRAZOLAM 1mg tablets	487
+d171.	LORMETAZEPAM 500micrograms tablets	416
+d172.	LORMETAZEPAM 1mg tablets	494
+d182.	NITRAZEPAM 5mg tablets	7454
+d184.	NITRAZEPAM 2.5mg/5mL mixture	7
+d186.	MOGADON 5mg tablets	2
+d18f.	NITRAZEPAM 5mg/5mL suspension	1
+d1a9.	TEMAZEPAM 10mg tablets	11420
+d1aa.	TEMAZEPAM 20mg tablets	5200
+d1ao.	TEMAZEPAM 10mg/5mL sugar free oral solution	134
+d213.	DIAZEPAM 2mg tablets	12399
+d241.	CHLORDIAZEPOXIDE 5mg capsules	682
+d242.	CHLORDIAZEPOXIDE 10mg capsules	172
+d243.	CHLORDIAZEPOXIDE HYDROCHLORIDE 5mg tablets	12
+d244.	CHLORDIAZEPOXIDE HYDROCHLORIDE 10mg tablets	35
+d247.	*CHLORDIAZEPOXIDE 10mg tablets	2
+d263.	CLOBAZAM 10mg tablets	1091
+d268.	CLOBAZAM 10mg/5mL oral suspension	1
+d2d2.	OXAZEPAM 10mg tablets	686
+d2d3.	OXAZEPAM 15mg tablets	197
+d412.	CHLORPROMAZINE 25mg tablets	1977
+d413.	CHLORPROMAZINE 50mg tablets	842
+d414.	CHLORPROMAZINE 100mg tablets	750
+d415.	CHLORPROMAZINE 25mg/5mL syrup	97
+d41A.	CHLORPROMAZINE 25mg/5mL sugar free solution	9
+d451.	DEPIXOL 3mg tablets	24
+d45z.	FLUPENTIXOL 3mg tablets	473
+d471.	HALOPERIDOL 1.5mg tablets	474
+d472.	HALOPERIDOL 5mg tablets	478
+d473.	HALOPERIDOL 10mg tablets	42
+d47r.	HALOPERIDOL 500microgram capsules	734
+d47t.	HALOPERIDOL 1mg/mL liquid	142
+d47u.	HALOPERIDOL 500micrograms tablets	31
+d47v.	*HALOPERIDOL 5mg/1mL injection	50
+d48..	LEVOMEPROMAZINE	304
+d481.	NOZINAN 25mg/1mL injection	1
+d483.	NOZINAN 25mg tablets	2
+d48y.	LEVOMEPROMAZINE 25mg/1mL injection	1882
+d48z.	LEVOMEPROMAZINE 25mg tablets	942
+d4aw.	PERICYAZINE 2.5mg tablets	119
+d4bx.	PERPHENAZINE 2mg tablets	2
+d4cy.	PIMOZIDE 4mg tablets	95
+d4e4.	PROMAZINE 25mg tablets	1397
+d4e5.	PROMAZINE 50mg tablets	360
+d4ev.	PROMAZINE 25mg/5mL syrup	4762
+d4ew.	PROMAZINE 50mg/5mL syrup	1241
+d4fx.	SULPIRIDE 400mg tablets	39
+d4fy.	SULPIRIDE 200mg/5mL sugar free solution	40
+d4fz.	SULPIRIDE 200mg tablets	724
+d4h1.	*STELAZINE 1mg tablets	15
+d4h6.	*STELAZINE 1mg/5mL syrup	6
+d4hs.	TRIFLUOPERAZINE 1mg tablets	21
+d4ht.	TRIFLUOPERAZINE 5mg tablets	185
+d4hx.	TRIFLUOPERAZINE 1mg/5mL syrup	15
+d4jx.	ZUCLOPENTHIXOL DIHYDROCHLORIDE 2mg tablets	34
+d4jy.	ZUCLOPENTHIXOL DIHYDROCHLORIDE 10mg tablets	148
+d4jz.	ZUCLOPENTHIXOL DIHYDROCHLORIDE 25mg tablets	1052
+d4l1.	CLOZAPINE 25mg tablets	7
+d4l2.	CLOZAPINE 100mg tablets	4
+d4lG.	CLOZAPINE 200mg tablets	8
+d4p1.	RISPERIDONE 1mg tablets	2089
+d4p2.	RISPERIDONE 2mg tablets	1998
+d4p3.	RISPERIDONE 3mg tablets	466
+d4p4.	RISPERIDONE 4mg tablets	639
+d4p5.	RISPERDAL 1mg tablets	490
+d4p6.	RISPERDAL 2mg tablets	298
+d4p7.	RISPERDAL 3mg tablets	10
+d4p9.	RISPERIDONE 1mg/mL liquid	51
+d4pA.	RISPERDAL 1mg/mL liquid	147
+d4pB.	RISPERIDONE 6mg tablets	166
+d4pD.	RISPERDAL 0.5mg tablets	14
+d4pH.	RISPERIDONE 1mg oro-dispersible tablets	29
+d4pJ.	RISPERIDONE 2mg oro-dispersible tablets	6
+d4pM.	RISPERIDONE 0.5mg oro-dispersible tablets	66
+d4pN.	RISPERDAL QUICKLET 0.5mg tabs	1
+d4pQ.	RISPERIDONE 3mg oro-dispersible tablets	6
+d4pz.	RISPERIDONE 0.5mg tablets	2950
+d4r1.	OLANZAPINE 5mg tablets	2692
+d4r2.	OLANZAPINE 7.5mg tablets	247
+d4r3.	OLANZAPINE 10mg tablets	3846
+d4r7.	OLANZAPINE 2.5mg tablets	925
+d4rt.	OLANZAPINE 20mg tablets	2588
+d4ru.	OLANZAPINE 20mg dispersible tablets	149
+d4rw.	OLANZAPINE 15mg dispersible tablets	137
+d4rx.	OLANZAPINE 15mg tablets	1100
+d4ry.	OLANZAPINE 5mg dispersible tablets	121
+d4rz.	OLANZAPINE 10mg dispersible tablets	669
+d4s1.	QUETIAPINE 25mg tablets	7493
+d4s2.	QUETIAPINE 100mg tablets	2785
+d4s3.	QUETIAPINE 200mg tablets	1678
+d4sC.	SEROQUEL XL 50mg m/r tablets	107
+d4sD.	SEROQUEL XL 200mg m/r tablets	8
+d4sH.	SONDATE XL 50mg m/r tablets	7
+d4sS.	EBESQUE XL 50mg m/r tablets	15
+d4sU.	EBESQUE XL 300mg m/r tablets	4
+d4sV.	EBESQUE XL 400mg m/r tablets	28
+d4sW.	ZALURON XL 50mg m/r tablets	269
+d4sX.	ZALURON XL 150mg m/r tablets	12
+d4sY.	ZALURON XL 200mg m/r tablets	66
+d4sZ.	ZALURON XL 300mg m/r tablets	91
+d4sb.	BIQUELLE XL 50mg m/r tablets	10
+d4sf.	BIQUELLE XL 400mg m/r tablets	10
+d4ss.	QUETIAPINE 150mg m/r tablets	191
+d4st.	QUETIAPINE 400mg m/r tablets	208
+d4su.	QUETIAPINE 300mg m/r tablets	323
+d4sv.	QUETIAPINE 200mg m/r tablets	235
+d4sw.	QUETIAPINE 50mg m/r tablets	628
+d4sx.	QUETIAPINE 300mg tablets	1255
+d4sz.	QUETIAPINE 150mg tablets	508
+d4t1.	AMISULPRIDE 50mg tablets	571
+d4t2.	AMISULPRIDE 200mg tablets	791
+d4t3.	SOLIAN 50mg tablets	1
+d4tx.	AMISULPRIDE 100mg tablets	1061
+d4ty.	AMISULPRIDE 100mg/mL sugar free oral solution	152
+d4tz.	AMISULPRIDE 400mg tablets	121
+d4vw.	ARIPIPRAZOLE 5mg tablets	756
+d4vy.	ARIPIPRAZOLE 15mg tablets	312
+d4vz.	ARIPIPRAZOLE 10mg tablets	613
+d4wt.	PALIPERIDONE 100mg suspension for injection pfs	1
+d51v.	FLUPENTIXOL DECANOATE 20mg/1mL injection	62
+d522.	MODECATE 25mg/1mL injection	2
+d52s.	FLUPHENAZINE DECANOATE 25mg/1mL prefilled syringe	12
+d553.	HALOPERIDOL 50mg/1mL injection	2
+d711.	AMITRIPTYLINE 10mg tablets	40902
+d712.	AMITRIPTYLINE 25mg tablets	17694
+d713.	AMITRIPTYLINE 50mg tablets	14372
+d71h.	AMITRIPTYLINE 25mg/5mL sugar free solution	104
+d71i.	AMITRIPTYLINE 50mg/5mL sugar free solution	35
+d71y.	*AMITRIPTYLINE 10mg/5mL syrup	4
+d73u.	CLOMIPRAMINE HCL 10mg capsules	144
+d73v.	CLOMIPRAMINE HCL 25mg capsules	368
+d73w.	CLOMIPRAMINE HCL 50mg capsules	244
+d73z.	CLOMIPRAMINE HCL 75mg m/r tabs	142
+d751.	PROTHIADEN 25mg capsules	2
+d752.	PROTHIADEN 75mg tablets	29
+d75y.	DOSULEPIN HYDROCHLORIDE 25mg capsules	3363
+d75z.	DOSULEPIN HYDROCHLORIDE 75mg tablets	2681
+d76x.	DOXEPIN 25mg capsules	84
+d76y.	DOXEPIN 50mg capsules	69
+d771.	IMIPRAMINE 10mg tabs	392
+d772.	IMIPRAMINE 25mg tablets	1889
+d79y.	LOFEPRAMINE 70mg/5mL sugar free suspension	8
+d79z.	LOFEPRAMINE 70mg tablets	445
+d7b1.	MIANSERIN 10mg tablets	45
+d7b3.	MIANSERIN 30mg tablets	54
+d7c6.	NORTRIPTYLINE 10mg tablets	3079
+d7c8.	NORTRIPTYLINE 25mg tablets	1677
+d7e5.	TRAZODONE HYDROCHLORIDE 150mg tablets	1012
+d7ew.	TRAZODONE HYDROCHLORIDE 100mg capsules	3228
+d7ex.	TRAZODONE HYDROCHLORIDE 50mg capsules	8680
+d7ez.	TRAZODONE HYDROCHLORIDE 50mg/5mL liquid	4527
+d7fx.	TRIMIPRAMINE 50mg capsules	175
+d7fy.	TRIMIPRAMINE 10mg tablets	1
+d7fz.	TRIMIPRAMINE 25mg tablets	161
+d81z.	PHENELZINE 15mg tablets	30
+d852.	MOCLOBEMIDE 150mg tablets	3
+d916.	TRIPTAFEN tablets	38
+da11.	FLUANXOL 500micrograms tablets	61
+da12.	FLUANXOL 1mg tablets	49
+da1y.	FLUPENTIXOL 500micrograms tablets	308
+da1z.	FLUPENTIXOL 1mg tablets	1175
+da32.	FLUVOXAMINE MALEATE 50mg tabs	2
+da4..	FLUOXETINE HYDROCHLORIDE	282
+da41.	FLUOXETINE 20mg capsules	24030
+da43.	FLUOXETINE 20mg/5mL oral liquid	710
+da45.	PROZAC 20mg capsules	7
+da46.	FLUOXETINE 60mg capsules	202
+da49.	OXACTIN 20mg capsules	2986
+da4E.	FLUOXETINE 20mg dispersible tablets	4
+da51.	SERTRALINE 50mg tablets	29705
+da52.	SERTRALINE 100mg tablets	24780
+da53.	LUSTRAL 50mg tablets	8
+da54.	LUSTRAL 100mg tablets	14
+da61.	PAROXETINE 20mg tablets	5471
+da63.	PAROXETINE 30mg tablets	1560
+da65.	PAROXETINE 10mg/5mL sugar free liquid	187
+da67.	PAROXETINE 10mg tablets	433
+da71.	VENLAFAXINE 37.5mg tablets	1819
+da72.	VENLAFAXINE 75mg tablets	570
+da77.	VENLAFAXINE 75mg m/r capsules	657
+da78.	EFEXOR XL 75mg m/r capsules	122
+da79.	VENLAFAXINE 150mg m/r capsules	1140
+da7A.	EFEXOR XL 150mg m/r capsules	41
+da7I.	VENLAFAXINE 75mg m/r tablets	487
+da7K.	VENLAFAXINE 150mg m/r tablets	163
+da7P.	VENSIR XL 75mg m/r capsules	97
+da7Q.	VENSIR XL 150mg m/r capsules	90
+da7V.	VENLALIC XL 75mg m/r tablets	2348
+da7W.	VENLALIC XL 150mg m/r tablets	2556
+da7X.	VENLALIC XL 225mg m/r tablets	280
+da7Y.	VENLAFAXINE 225mg m/r tablets	219
+da7Z.	VENAXX XL 75mg m/r capsules	2718
+da7a.	VENAXX XL 150mg m/r capsules	3211
+da7p.	VENLALIC XL 37.5mg m/r tablets	113
+da7q.	VENLAFAXINE 37.5mg m/r tablets	190
+da7u.	VENLADEX XL 150mg m/r tablets	1
+da7w.	VENLAFAXINE 225mg m/r capsules	233
+da91.	CITALOPRAM 20mg tablets	45457
+da93.	CITALOPRAM 10mg tablets	23298
+da95.	CITALOPRAM 40mg tablets	6427
+da97.	CIPRAMIL 40mg/mL oral drops 15mL	1
+da9z.	CITALOPRAM 40mg/mL oral drops	888
+daA1.	REBOXETINE 4mg tablets	279
+daB1.	MIRTAZAPINE 30mg tablets	19904
+daB3.	MIRTAZAPINE 30mg oro-dispersible tablets	1093
+daB4.	ZISPIN SOLTAB 30mg oro-dispersible tablets	101
+daB5.	MIRTAZAPINE 15mg oro-dispersible tablets	1090
+daB6.	ZISPIN SOLTAB 15mg oro-dispersible tablets	118
+daB7.	MIRTAZAPINE 45mg oro-dispersible tablets	1320
+daB8.	ZISPIN SOLTAB 45mg oro-dispersible tablets	5
+daBy.	MIRTAZAPINE 45mg tablets	13844
+daBz.	MIRTAZAPINE 15mg tablets	19316
+daC1.	ESCITALOPRAM 10mg tablets	865
+daC2.	CIPRALEX 10mg tablets	3
+daC3.	ESCITALOPRAM 20mg tablets	510
+daC5.	ESCITALOPRAM 5mg tablets	521
+daC6.	CIPRALEX 5mg tablets	3
+daC9.	CIPRALEX 20mg/mL oral drops	1
+daE4.	VORTIOXETINE 10mg tablets	6
+di1f.	ASPIRIN 300mg e/c tablets	681
+di2..	PARACETAMOL	10
+di21.	PARACETAMOL 500mg tablets	205248
+di22.	PARACETAMOL 500mg soluble tabs	6863
+di24.	PARACETAMOL 250mg/5mL mixture	3173
+di2C.	CALPOL SIX PLUS s/f suspension	3
+di2E.	PARACETAMOL 500mg supps	17
+di2U.	*PARACETAMOL 1g/sachet powder	5
+di2a.	PANADOL 500mg tablets	1
+di2n.	PARACETAMOL 120mg/5mL susp	2
+di2q.	PARACETAMOL 500mg capsules	16796
+di2s.	PARACETAMOL 120mg/5mL sugar free suspension	7
+di2u.	PARACETAMOL 250mg/5mL sugar free suspension	5802
+di8z.	*NAPROXEN SODIUM 275mg tablets	36
+di91.	ACUPAN 30mg tablets	108
+di9y.	NEFOPAM HYDROCHLORIDE 30mg tablets	8995
+dia7.	*CO-PROXAMOL tablets	163
+did2.	PALDESIC 250mg/5mL oral suspension	5
+did7.	PARACETAMOL 1000mg/100mL infusion	1
+didt.	PARACETAMOL 1g suppositories	2
+didu.	PARACETAMOL 500mg/5mL susp	355
+didv.	PARACETAMOL 1000mg tablets	51
+didw.	PARACETAMOL 250mg/5mL sugar-free oral suspension sachets	2
+didy.	PARACETAMOL 120mg/5mL sachets	1
+dn31.	CARBAMAZEPINE 100mg tablets	3885
+dn32.	CARBAMAZEPINE 200mg tablets	4032
+dn33.	CARBAMAZEPINE 400mg tablets	1031
+dn34.	TEGRETOL 100mg tablets	2368
+dn35.	TEGRETOL 200mg tablets	686
+dn36.	TEGRETOL 400mg tablets	271
+dn37.	TEGRETOL 100mg/5mL sugar free liquid	132
+dn38.	TEGRETOL RETARD 200mg m/r tabs	814
+dn39.	TEGRETOL RETARD 400mg m/r tabs	754
+dn3J.	CARBAGEN SR 200mg m/r tablets	183
+dn3K.	CARBAGEN SR 400mg m/r tablets	8
+dn3a.	CARBAMAZEPINE 200mg m/r tabs	558
+dn3b.	CARBAMAZEPINE 400mg m/r tabs	984
+dn3w.	CARBAMAZEPINE 250mg supps	1
+dn3y.	CARBAMAZEPINE 100mg chewable tablets	9
+dn3z.	CARBAMAZEPINE 100mg/5mL sugar free liquid	358
+dn4y.	CLONAZEPAM 500microgram tablets	4870
+dn4z.	CLONAZEPAM 2mg tablets	422
+dn54.	EMESIDE 250mg/5mL syrup	1
+dn5x.	ETHOSUXIMIDE 250mg capsules	25
+dn71.	PHENOBARBITAL 15mg tablets	103
+dn72.	PHENOBARBITAL 30mg tablets	1248
+dn73.	PHENOBARBITAL 60mg tablets	341
+dn78.	PHENOBARBITAL 200mg/1mL injection	2
+dn81.	EPANUTIN 30mg/5mL suspension	36
+dn82.	EPANUTIN 50mg Infatabs	34
+dn83.	PHENYTOIN 50mg chewable tablets	4
+dn8y.	PHENYTOIN 30mg/5mL suspension	92
+dn92.	PHENYTOIN 100mg tablets	552
+dn93.	*EPANUTIN 25mg capsules	296
+dn94.	*EPANUTIN 50mg capsules	502
+dn95.	*EPANUTIN 100mg capsules	1095
+dn96.	*EPANUTIN 300mg capsules	186
+dn9w.	PHENYTOIN SODIUM 300mg capsules	2131
+dn9x.	PHENYTOIN SODIUM 25mg caps	562
+dn9y.	PHENYTOIN SODIUM 50mg capsules	1975
+dn9z.	PHENYTOIN SODIUM 100mg capsules	5279
+dna1.	*MYSOLINE 250mg tablets	24
+dnax.	PRIMIDONE 50mg tablets	186
+dnay.	PRIMIDONE 250mg tablets	1490
+dnb1.	EPILIM 100mg crushable tablets	11
+dnb2.	EPILIM 200mg e/c tablets	962
+dnb3.	EPILIM 500mg e/c tablets	957
+dnb4.	EPILIM 200mg/5mL sugar free liquid	196
+dnb5.	EPILIM 200mg/5mL syrup	73
+dnb7.	SODIUM VALPROATE 200mg e/c tablets	2799
+dnb8.	SODIUM VALPROATE 500mg e/c tablets	2946
+dnbC.	EPIVAL CR 500mg m/r tablets	8
+dnbH.	EPISENTA 500mg/sachet m/r granules	3
+dnbI.	EPISENTA 1g/sachet m/r granules	3
+dnbJ.	SODUM VALPROATE 150mg m/r caps	15
+dnbK.	SODUM VALPROATE 300mg m/r caps	431
+dnbL.	SODIUM VALPROATE 500mg/sachet m/r granules	7
+dnbM.	SODIUM VALPROATE 1g/sachet m/r granules	3
+dnbQ.	EPILIM CHRONOSPHERE 100mg/sachet m/r granules	2
+dnbS.	EPILIM CHRONOSPHERE 500mg/sachet m/r granules	24
+dnbT.	EPILIM CHRONOSPHERE 750mg/sachet m/r granules	1
+dnbc.	EPILIM CHRONO 200 m/r tablets	780
+dnbd.	EPILIM CHRONO 300 m/r tablets	1727
+dnbe.	EPILIM CHRONO 500 m/r tablets	4621
+dnbo.	SODIUM VALPROATE 100mg/sachet m/r granules	1
+dnbr.	SODIUM VALPROATE 200mg m/r tablets	323
+dnbs.	SODIUM VALPROATE 300mg m/r tablets	1679
+dnbt.	SODIUM VALPROATE 500mg m/r tablets	1119
+dnbv.	SODIUM VALPROATE 100mg crushable tablets	953
+dnby.	SODIUM VALPROATE 200mg/5mL sugar free liquid	1393
+dnbz.	SODIUM VALPROATE 200mg/5mL syrup	93
+dnf1.	LAMOTRIGINE 50mg tablets	3504
+dnf2.	LAMOTRIGINE 100mg tablets	2383
+dnf3.	LAMICTAL 50mg tablets	650
+dnf4.	LAMICTAL 100mg tablets	616
+dnf5.	LAMOTRIGINE 25mg tablets	2052
+dnf6.	LAMICTAL 25mg tablets	527
+dnf7.	LAMICTAL 5mg dispersible tablets	10
+dnf8.	LAMICTAL 25mg dispersible tablets	25
+dnfA.	LAMOTRIGINE 5mg dispersible tablets	1
+dnfB.	LAMOTRIGINE 25mg dispersible tablets	239
+dnfC.	LAMOTRIGINE 100mg dispersible tablets	409
+dnfD.	LAMICTAL 200mg tablets	376
+dnfE.	LAMOTRIGINE 200mg tablets	1352
+dnfJ.	LAMICTAL 2mg dispersible tabs	1
+dnfz.	LAMOTRIGINE 2mg dispersible tablets	12
+dnh6.	VALPROIC ACID 500mg e/c capsules	19
+dnh7.	DEPAKOTE 250mg e/c tablets	421
+dnh8.	DEPAKOTE 500mg e/c tablets	625
+dnhy.	VALPROIC ACID 500mg e/c tabs	1156
+dnhz.	VALPROIC ACID 250mg e/c tabs	771
+dnj..	GABAPENTIN	389
+dnj1.	GABAPENTIN 100mg capsules	20792
+dnj2.	GABAPENTIN 300mg capsules	34952
+dnj3.	GABAPENTIN 400mg capsules	4196
+dnj4.	NEURONTIN 100mg capsules	1
+dnjy.	GABAPENTIN 600mg tablets	4888
+dnjz.	GABAPENTIN 800mg tablets	33
+dnk1.	TOPIRAMATE 50mg tablets	490
+dnk2.	TOPIRAMATE 100mg tablets	84
+dnk3.	TOPIRAMATE 200mg tablets	4
+dnk6.	TOPAMAX 200mg tablets	27
+dnk7.	TOPIRAMATE 25mg tablets	519
+dnk8.	TOPAMAX 25mg tablets	5
+dnk9.	TOPIRAMATE 15mg beads in capsules	14
+dnkA.	TOPIRAMATE 25mg beads in capsules	474
+dnkD.	TOPIRAMATE 50mg beads in capsules	329
+dnmx.	OXCARBAZEPINE 150mg tablets	527
+dnmy.	OXCARBAZEPINE 300mg tablets	638
+dnmz.	OXCARBAZEPINE 600mg tablets	73
+dno1.	KEPPRA 250mg tablets	760
+dno2.	KEPPRA 500mg tablets	909
+dno3.	KEPPRA 1g tablets	299
+dno4.	KEPPRA 750mg tablets	156
+dno5.	KEPPRA 100mg/mL s/f oral solution	29
+dno6.	KEPPRA 500mg/5mL solution for injection	8
+dnos.	LEVETIRACETAM 500mg/sachet granules	80
+dnot.	LEVETIRACETAM 250mg/sachet granules	94
+dnou.	LEVETIRACETAM 500mg/5mL solution for injection	12
+dnov.	LEVETIRACTAM 100mg/mL s/f soln	589
+dnow.	LEVETIRACETAM 750mg tablets	279
+dnox.	LEVETIRACETAM 1g tablets	1400
+dnoy.	LEVETIRACETAM 500mg tablets	3687
+dnoz.	LEVETIRACETAM 250mg tablets	3023
+dnp1.	LYRICA 25mg capsules	852
+dnp2.	LYRICA 50mg capsules	1168
+dnp3.	LYRICA 75mg capsules	1003
+dnp4.	LYRICA 100mg capsules	656
+dnp5.	LYRICA 150mg capsules	1023
+dnp6.	LYRICA 200mg capsules	348
+dnp7.	LYRICA 300mg capsules	1018
+dnp8.	LYRICA 225mg capsules	139
+dnp9.	LYRICA 20mg/1mL oral solution	10
+dnpJ.	REWISCA 50mg capsules	2
+dnpK.	REWISCA 75mg capsules	15
+dnpL.	REWISCA 100mg capsules	2
+dnpM.	REWISCA 150mg capsules	1
+dnpN.	REWISCA 200mg capsules	1
+dnpr.	PREGABALIN 20mg/1mL solution	70
+dnps.	PREGABALIN 225mg capsules	331
+dnpt.	PREGABALIN 300mg capsules	3389
+dnpu.	PREGABALIN 200mg capsules	1655
+dnpv.	PREGABALIN 100mg capsules	1676
+dnpw.	PREGABALIN 150mg capsules	3423
+dnpx.	PREGABALIN 75mg capsules	4601
+dnpy.	PREGABALIN 50mg capsules	3016
+dnpz.	PREGABALIN 25mg capsules	2911
+dnq1.	ZONISAMIDE 25mg capsules	32
+dnq2.	ZONISAMIDE 50mg capsules	171
+dnq3.	ZONISAMIDE 100mg capsules	292
+dnt9.	LACOSAMIDE 50mg tablets	61
+dntA.	LACOSAMIDE 100mg tablets	74
+dntB.	LACOSAMIDE 150mg tablets	170
+dntC.	LACOSAMIDE 200mg tablets	68
+dnu1.	ZEBINIX 800mg tablets	19
+dnu2.	ESLICARBAZPN ACETAT 800mg tabs	29
+dnv8.	RETIGABINE 100mg tablets	3
+dnv9.	RETIGABINE 200mg tablets	13
+dnvA.	RETIGABINE 300mg tablets	3
+dnw1.	FYCOMPA 2mg tablets	4
+dnwv.	PERAMPANEL 10mg tablets	13
+dnww.	PERAMPANEL 8mg tablets	9
+dnwx.	PERAMPANEL 6mg tablets	10
+dnwz.	PERAMPANEL 2mg tablets	6
+do18.	DIAZEPAM 5mg/2.5mL RecTubes	15
+do19.	DIAZEPAM 10mg/2.5mL RecTubes	3
+do1A.	DIAZEPAM 2.5mg/1.25mL RecTubes	4
+do2z.	*CLONAZEPAM 1mg/1mL injection	6
+fb1z.	FLUDROCORTISONE ACET 100microgram tablets	2586
+fe3..	DEXAMETHASONE [ENDOCRINE]	212
+fe31.	DEXAMETHASONE 500micrograms tablets	681
+fe32.	DEXAMETHASONE 2mg tablets	2696
+fe3D.	DEXAMETHASONE 3.8mg/1mL solution for injection	2
+fe3p.	DEXAMETHASONE 6.6mg/2mL solution for injection	29
+fe3q.	DEXAMETHASONE 3.3mg/1mL solution for injection	77
+fe3s.	DEXAMETHASONE 2mg/5mL sugar free solution	76
+fe3z.	DEXAMETHASONE 4mg/1mL injection	50
+j22..	DICLOFENAC SODIUM	3
+j222.	VOLTAROL 50mg tablets	2
+j223.	VOLTAROL 75mg/3mL injection	2
+j224.	VOLTAROL 100mg suppositories	3
+j226.	VOLTAROL RETARD 100mg m/r tabs	1
+j229.	DICLOFENAC 75mg/3mL injection	2
+j22C.	DICLOFENAC SODIUM 75mg m/r capsules	343
+j22E.	VOLTAROL 50mg suppositories	4
+j22F.	DICLOFENAC SODIUM 25mg supps	1
+j22G.	DICLOFENAC SODIUM 50mg supps	16
+j22J.	DICLOFLEX 50mg e/c tablets	3
+j22P.	VOLSAID RETARD 75mg m/r tabs	27
+j22Q.	VOLSAID RETARD 100mg m/r tabs	2
+j22R.	DICLOFENAC 75mg e/c+m/r capsules	15
+j22a.	DICLOFENAC 100mg suppositories	55
+j22c.	DICLOFENAC 100mg m/r tablets	42
+j22d.	DICLOFENAC 25mg e/c tablets	241
+j22e.	DICLOFENAC 50mg e/c tablets	3511
+j22h.	VOLTAROL 50mg dispersible tablets	2
+j22i.	DICLOFENAC 50mg dispersible tablets	79
+j22o.	ARTHROTEC 50 tablets	343
+j22p.	DICLOFENAC SODIUM+MISOPROSTOL 50mg/200micrograms tablets	336
+j22r.	DICLOFENAC 100mg m/r capsules	228
+j22t.	DICLOFENAC SODIUM+MISOPROSTOL 75mg/200micrograms tablets	184
+j22y.	DICLOFENAC SODIUM 75mg m/r tablets	84
+j22z.	ARTHROTEC 75 tablets	159
+j249.	ETODOLAC 600mg m/r tablets	71
+j27x.	FLURBIPROFEN 50mg tablets	70
+j27y.	FLURBIPROFEN 100mg tablets	5
+j281.	IBUPROFEN 200mg tablets	787
+j282.	IBUPROFEN 400mg tablets	3994
+j283.	IBUPROFEN 600mg tablets	190
+j287.	BRUFEN 200mg tablets	2
+j28A.	BRUFEN RETARD 800mg m/r tabs	76
+j28B.	IBUPROFEN 800mg m/r tablets	95
+j28Y.	IBUPROFEN 100mg/5mL sugar free syrup	51
+j28d.	*FENBID 300mg Spansules	1
+j28w.	IBUPROFEN 100mg/5mL syrup	90
+j28x.	IBUPROFEN 200mg m/r capsules	13
+j28y.	IBUPROFEN 300mg m/r capsules	3
+j291.	INDOMETACIN 25mg capsules	413
+j292.	INDOMETACIN 50mg capsules	157
+j293.	INDOMETACIN 100mg supps	2
+j29y.	INDOMETACIN 75mg m/r capsules	13
+j2a1.	KETOPROFEN 50mg capsules	1
+j2a3.	KETOPROFEN 100mg suppositories	4
+j2b1.	MEFENAMIC ACID 250mg capsules	108
+j2b2.	PONSTAN 250mg capsules	10
+j2b3.	PONSTAN FORTE 500mg tablets	22
+j2bx.	MEFENAMIC ACID 500mg tablets	160
+j2c..	NAPROXEN	5
+j2c1.	NAPROXEN 250mg tablets	2150
+j2c2.	NAPROXEN 500mg tablets	2243
+j2c5.	NAPROSYN 250mg tablets	14
+j2c6.	NAPROSYN 500mg tablets	2
+j2cP.	VIMOVO 500mg/20mg m/r tablets	8
+j2cZ.	NAPROXEN+ESOMEPRAZOLE 500mg/20mg m/r tablets	1
+j2ck.	NAPROXEN 250mg e/c tablets	2287
+j2cl.	NAPROXEN 500mg e/c tablets	1356
+j2co.	NAPROSYN EC 250mg e/c tablets	5
+j2cp.	NAPROSYN EC 375mg e/c tablets	4
+j2cq.	NAPROSYN EC 500mg e/c tablets	1
+j2cw.	NAPROXEN 375mg e/c tablets	57
+j2e1.	PIROXICAM 10mg capsules	8
+j2e2.	PIROXICAM 20mg capsules	58
+j2ew.	PIROXICAM 20mg melt tablets	1
+j2j1.	ACEMETACIN 60mg capsules	52
+j2l1.	TENOXICAM 20mg tablets	7
+j2m2.	ACECLOFENAC 100mg tablets	39
+j2n2.	MELOXICAM 7.5mg tablets	934
+j2n3.	MELOXICAM 15mg tablets	151
+j2n5.	*MOBIC 7.5mg tablets	1
+j2or.	FENACTOL 50mg e/c tablets	228
+j2ot.	FENACTOL RETARD 100mg m/r tabs	4
+j2oy.	*MOBIGEL 4% spray 25g	21
+j2oz.	*DICLOFENAC SODIUM 4% spray	4
+j2pA.	IBUPROFEN 100mg/5mL sachets s/f oral suspension	1
+j2pJ.	IBUPROFEN 200mg capsules	180
+j2pL.	CALPROFEN 100mg/5mL sugar free oral suspension	10
+j2pW.	IBUPROFEN 400mg capsules	169
+j2qz.	DEXKETOPROFEN 25mg tablets	3
+j2rx.	DICLOFENAC POTASSIUM 12.5mg tablets	1
+j2ry.	DICLOFENAC POTASSIUM 25mg tabs	13
+j2rz.	DICLOFENAC POTASSIUM 50mg tabs	47
+j2tz.	DEXIBUPROFEN 400mg tablets	10
+k611.	OTRIVINE-ANTISTIN eye drops 10mL	10
+k621.	BETNESOL 0.1% eye drops 10mL	56
+k626.	BETNESOL-N eye drops	31
+k62z.	BETAMETHASONE 0.1% eye ointment	8
+k645.	DEXAMETHASONE SODIUM PHOSPHATE 0.1% single-use eye drops	37
+k646.	MINIMS DEXAMETHASONE SODIUM PHOSPHATE 0.1% single-use eye drops 0.5mL	84
+k647.	DEXAMETHASONE+HYPROMELLOSE 0.1%/0.5% eye drops	170
+k648.	DEXAMETHASONE+TOBRAMYCIN 0.1%/0.3% eye drops	92
+k649.	TOBRADEX eye drops 5mL	725
+k65z.	FLUOROMETHOLONE eye drops	13
+k693.	OPTICROM AQUEOUS 2% eye drops 13.5mL	18
+k695.	*HAY-CROM AQUEOUS 2% eye drops	21
+k696.	VIVIDRIN 2% eye drops	1
+k69E.	OPTREX ALLERGY eye drops 10mL	1
+k69J.	OPTICROM ALLERGY eye drops 5mL	109
+k69L.	CATACROM 2% single-use eye drops 0.3mL	3
+k69x.	SODIUM CROMOGLICATE 2% single-use eye drops	3
+k69y.	SODIUM CROMOGLICATE 2% eye drops	1751
+k6b1.	LODOXAMIDE 0.1% eye drops	58
+k6b2.	ALOMIDE 0.1% eye drops 10mL	6
+k6d8.	VOLTAROL OPHTHA 0.1% multidose eye drops 5mL	1
+k6e1.	NEDOCROMIL SODIUM 2% eye drops	19
+k6e2.	RAPITIL 2% eye drops	6
+k6g1.	KETOROLAC TROMETAMOL 0.5% ophthalmic solution	50
+k6h1.	AZELASTINE HYDROCHLORIDE 0.05% eye drops	14
+k6j1.	VEXOL 1% eye drops 5mL	72
+k6jz.	RIMEXOLONE 1% eye drops	172
+k6k1.	KETOTIFEN 250micrograms/mL eye drops	3
+k6l1.	OLOPATADINE 1mg/mL eye drops	10
+k6l2.	OPATANOL 1mg/mL eye drops 5mL	41
+k6m1.	LOTEMAX 0.5% eye drops 5mL	1
+k6mz.	LOTEPREDNOL ETABONATE 0.5% eye drops	1
+k6n1.	NEPAFENAC 0.1% eye drops	9
+k6n2.	NEVANAC 0.1% eye drops 5mL	1
+k6o1.	YELLOX 0.09% eye drops 5mL	43
+k6o2.	BROMFENAC 0.09% eye drops	51
+m33s.	LIDOCAINE 5% 10cmx14cm patches	166
+o13y.	KETAMINE 500mg/10mL injection	1
+o323.	SEEBRI BREEZHALR 44mcg inh cap	1135
+o32y.	GLYCOPYRRONIUM 200microgram/1mL injection	1856
+o32z.	GLYCOPYRRONIUM 600microgram/3mL injection	116
+o331.	HYOSCINE 400microgram/mL injection	11
+o57..	MIDAZOLAM	98
+o572.	HYPNOVEL 10mg/2mL injection	1
+o575.	BUCCOLAM 5mg/1mL oromucosal solution pre-filled oral syringe	1
+o576.	BUCCOLAM 10mg/2mL oromucosal solution prefilled oral syringe	149
+o57r.	MIDAZOLAM 10mg/2mL oromucosal soln pre-filled oral syringe	25
+o57w.	MIDAZOLAM 50mg/50mL injection	3
+o57y.	MIDAZOLAM 10mg/5mL injection	65
+o57z.	MIDAZOLAM 10mg/2mL injection	1898
+oa1J.	LIDOCAINE 9.6% spray	1
+oa1M.	CATHEJELL WITH LIDOCAINE gel 8.5g	15
+oa1N.	CATHEJELL WITH LIDOCAINE gel 12.5g	2
+oa1P.	HYDRO-CAINE gel 6mL	378
+oa1T.	CATHEJELL LIDOCAINE C gel 8.5g	1
+oa1a.	XYLOCAINE + ADRENALINE 1% injection 20mL	5
+oa1b.	XYLOCAINE + ADREN injection 50mL	10
+oa1g.	XYLOCAINE + ADRENALINE 2% injection 20mL	44
+oa1h.	XYLOCAINE + ADREN injection 50mL	27
+oa1l.	INSTILLAGEL 2% gel 11mL	1206
+oa1s.	XYLOCAINE PUMP spray 50mL	165
+oa29.	MARCAIN POLYAMP 0.25% injection	3
+oa71.	SCANDONEST 3% PLAIN cartridges 2.2mL	1
+oaz1.	LIDOCAINE 2% injection 2mL	6
+oazd.	LIDOCAINE 1% injection 2mL	257
+oaze.	LIDOCAINE 1% injection 10mL	31
+oazf.	LIDOCAINE 1% injection 20mL	4
+oazg.	*LIGNOCAINE 1% injection 50mL	185
+oazl.	LIDOCAINE 2% injection 5mL	7
+oazm.	LIDOCAINE 2% injection 20mL	9
+oazo.	LIDOCAINE+ADRENALINE 2% injection 20mL	1
+oazs.	*LIGNOCAINE 2% gel 11mL	18
+oazv.	LIDOCAINE 5% ointment	20
+oazw.	LIDOCAINE 10% spray	2

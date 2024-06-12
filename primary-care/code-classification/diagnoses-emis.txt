@@ -1,0 +1,352 @@
+ClinicalCode	Description	FrequencyInData
+OLTR.	Test Request: 	21363
+16D6.00	Fall	430
+ESCTRE9	Referral to cardiologist	292
+ESCTOC1	Occupational therapy home visit	281
+ESCTAC8	Acute infective exacerbation of chronic obstructive airways disease	262
+ESCTPR2	Provision of written information	188
+ESCTLI7	Lives with family	147
+ESCTHA2	Has mental capacity to give consent	101
+ESCTSA1	Safeguarding report	95
+ESCTLO4	Long acting reversible contraception declined	86
+ESCTRE4	Referral to community-based occupational therapy service	61
+ESCTGE3	Genital lichen sclerosus	60
+ESCTAS6	Asthma trigger - perfume	49
+EGTON8	Insect Bites	38
+ESCTMI4	Mixed urinary incontinence	35
+ESCTSI7	Signposting	30
+ESCTIN7	Infection associated with wound	26
+ESCTWE3	Weber type B fracture	26
+ESCTIM1	Implementation of aseptic technique	24
+ESCTNH1	NHS Continuing Healthcare Checklist Assessment	23
+ESCTST7	Strain of neck muscle	22
+ETLME1	Memory screening	22
+ESCTOP2	Optic cup disc ratio of left eye	19
+ESCTOP1	Optic cup disc ratio of right eye	17
+ESCTRE6	MSG:Referral to clinical allergist	17
+ESCTCL9	Closed fracture of bone of knee joint	16
+ESCTDY1	Dying care	16
+ESCTHA3	Hamstring injury	16
+ESCTLO3	Low sugar diet	16
+ESCTNE3	Neutropenic sepsis	16
+ESCTDI9	Discharge to home	13
+ESCTOP7	Open fracture of phalanx of finger	13
+ESCTWE2	Weber type A fracture	12
+ESCTAC4	Activities of daily living assessment	11
+ESCTLI1	Lives in bungalow	11
+ESCTCL8	Closed fracture of phalanx of thumb	10
+ESCTUN6	Undifferentiated inflammatory arthritis	10
+ESCTEA1	Early satiety	8
+ESCTLI2	Lives in rented accommodation	8
+ESCTCL2	Clinical summary	7
+ESCTGR3	Grip strength	7
+ESCTOP3	Open wound of abdominal wall	7
+ESCTOR1	Oral hygiene education	7
+ESCTUL1	Ultrasonography of urinary bladder for post-void residual volume	7
+ESCTBR1	Bristol stool form scale	6
+ESCTDR1	Drug seeking behaviour	6
+ESCTLE2	Leakage from urinary catheter	6
+ESCTLO2	Lower gastrointestinal haemorrhage	6
+ESCTTR2	Trendelenburg sign negative	6
+ESCTWE4	Weber type C fracture	6
+ESCTBR4	Bradykinesia	5
+ESCTCL4	Closed fracture of skull	5
+ESCTFA2	Failed attempted procedure	5
+ESCTHI5	History of circumcision	5
+ESCTHI7	History of flexible sigmoidoscopy	5
+ESCTIN5	Infection associated with indwelling urinary catheter	5
+ESCTSI4	Simple renal cyst	5
+ESCTAN2	Antalgic gait	4
+ESCTNI1	Night pain	4
+ESCTPE6	Peripherally inserted central catheter care	4
+ESCTSU4	Superficial injury of thumb	4
+ESCTTE1	Tendon injury	4
+ESCTTR1	Trendelenburg sign positive	4
+ESCTWO8	Wound pain	4
+ESCTAL3	Allergy to grass pollen	3
+ESCTIN3	Indication for procedure	3
+ESCTLI8	Lives with roommate	3
+ESCTMA1	Major head injury	3
+ESCTSU2	Suspected urological cancer	3
+ESCTSU3	Superficial injury of pelvic region	3
+ESCTUP1	Upper limb ischaemia	3
+ESCTBU1	Burn of eye region	2
+ESCTCL5	Closed fracture of facial bone	2
+ESCTCR6	Crushing injury of hand	2
+ESCTEL1	Electronic	2
+ESCTEL2	Electrocardiogram, single lead	2
+ESCTFO4	Foster father	2
+ESCTGR4	Grip strength of left hand	2
+ESCTHO3	Home assessment	2
+ESCTMO2	Mouth care assessment	2
+ESCTOS1	Osteoarthritis of knee	2
+ESCTRU1	Rubella immune	2
+ESCTSC5	Scab of wound edge	2
+ESCTTE3	Tension pneumothorax	2
+ESCTTI5	Tinetti falls efficacy score	2
+ESCTTO1	Total urinary incontinence	2
+ESCTUR1	Urinary catheter care education	2
+ESCTVE1	Ventriculoperitoneal shunt malfunction	2
+EGTON2	Cause of Death	1
+ESCTAB4	Able to balance	1
+ESCTAC3	Active range of knee extension	1
+ESCTAL2	Allergy to pollen	1
+ESCTAN1	Analgesic overuse headache	1
+ESCTAN3	Anal sphincter tone absent	1
+ESCTAN6	Antepartum foetal death	1
+ESCTAR1	Art therapy	1
+ESCTAS2	Ascites	1
+ESCTAT2	Atrioventricular conduction disorder	1
+ESCTBR2	Broken tooth without complication	1
+ESCTBR3	Broken tooth with complication	1
+ESCTCL3	Clean intermittent self-catheterisation education	1
+ESCTCO8	Consultation via multimedia	1
+ESCTDE7	Death certification	1
+ESCTDI1	Discharge by diabetic liaison nurse	1
+ESCTFI2	Finding of legal status of patient	1
+ESCTFO3	Foster mother	1
+ESCTFO5	Foot care assessment	1
+ESCTFO7	Foster parent	1
+ESCTGR5	Grip strength of right hand	1
+ESCTHE7	Hemicrania continua	1
+ESCTIN8	Infection associated with burn	1
+ESCTKN4	Knee joint - range of movement	1
+ESCTMA2	Management of internal defibrillation	1
+ESCTMA4	Making funeral arrangements	1
+ESCTMI2	Migrant	1
+ESCTMO1	Modified early warning score	1
+ESCTNO1	Not receiving all benefits due	1
+ESCTOB1	Obstruction of urinary catheter	1
+ESCTOC3	Occlusive stroke	1
+ESCTOP8	Open fracture of phalanx of thumb	1
+ESCTOP9	Open fracture of bone of knee joint	1
+ESCTPE5	Persistent wound pain	1
+ESCTPO4	Positron emission tomography of whole body	1
+ESCTPR3	Provision of smoking cessation leaflet	1
+ESCTRA1	Range of knee flexion	1
+ESCTSE3	Self-care patient education	1
+ESCTSL1	Slow vital capacity	1
+ESCTST6	Stillbirth - unknown if foetal death intrapartum or prior to labour	1
+ESCTST9	Strain of hamstring muscle	1
+ESCTSU6	Subcutaneous infusion	1
+ESCTTE6	Temperature of left foot	1
+ESCTTE7	Temperature of right foot	1
+ESCTTH4	Thomas test negative	1
+ESCTTI2	Time of death	1
+ESCTTR3	Traumatic injury during pregnancy	1
+ETLSI2	Six item orientation memory concentration test	1
+ESCTIN24	Informed consent given for treatment	5442
+ESCTCO15	Consultation via video conference	762
+ESCTRE14	MSG:Referral to gastroenterologist	675
+ESCTRE12	MSG:Referral to dermatologist	614
+ESCTSI89	Signposting to general practice based pharmacist	461
+EGTONEL2	Elderly health assessment	426
+ESCTRE26	MSG:Referral to medical ophthalmologist	391
+ESCTRE18	MSG:Referral to gynaecologist	334
+EGTON222	Medication Review	300
+EGTON350	Ideal weight	271
+ESCTRE36	Referral to urologist	262
+ESCTRE16	MSG:Referral to general surgeon	230
+ESCTRE23	MSG:Referral to obstetrician and gynaecologist	212
+EGTONTH1	Third party history	207
+EGTONTR1	Travel advice	181
+EGTONYA1	Yag laser capsulotomy	167
+EGTONVI2	Vision normal subjectively	164
+ESCTRE28	MSG:Referral to pain management specialist	162
+ESCTRE34	MSG:Referral to rheumatologist	151
+EGTON320	Smoking Status	145
+ESCTRE22	MSG:Referral to neurosurgeon	131
+EGTON232	Undefined Diagnosis	129
+ESCTRE13	MSG:Referral to endocrinologist	118
+EGTON446	Telephone Reminder	110
+EGTON269	Left cataract extraction and implant	107
+EGTONSL2	Sleeps Well Without Sedation	107
+EGTON268	Right cataract extraction and implant	106
+ESCTCL11	Closed fracture of foot	106
+EGTONVI5	Vision adequate with aid	103
+ESCTSI46	Signposting to community physiotherapist	83
+ESCTRE38	MSG:Referral to vascular surgeon	74
+ESCTRE37	Referral to vascular surgery service	66
+EGTONPO2	Post Natal Examination	59
+EGTONSI1	Sitting and standing BP	59
+EGTONGR6	Grade A none drinker or rare	57
+EGTON255	Right cataract extraction	56
+EGTON436	Radiculopathy	54
+EGTON447	Verbal Reminder	54
+EGTON418	Alcohol intake	50
+EGTONSM5	Smear action- repeat 3 years	49
+EGTON456	Fasting serum cholesterol	46
+ESCTSI42	Signposting to IAPT (Improving Access to Psychological Therapies) service	46
+EGTONSE2	Sero-negative polyarthritis	44
+ESCTSI62	Signposting to GP (general practitioner)	44
+EGTON254	Left cataract extraction	42
+EGTONAC2	Acute tonsilitis/pharyngitis	41
+EGTONWE1	Wedge compression # lumbar spine	36
+EGTON279	Painful Right Knee	34
+EGTONWE3	Weight reduction clinic	34
+EGTON312	Painful Elbow	33
+EGTONDI1	Dietary advice given	31
+ESCTRE29	MSG:Referral to pain management specialist	31
+EGTON273	Left Loin Pain	27
+EGTON474	Body temperature reading	26
+EGTONFO1	Foot care advice given	26
+EGTON457	Fasting triglycerides	24
+EGTON131	Semi Frozen Shoulder	23
+ESCTRE11	MSG:Referral to dental surgeon	23
+EGTONGR3	Grade B moderately active	22
+ESCTPA23	Pain relief by medication	22
+ESCTDE11	Death verification	21
+ESCTIN19	Infection by methicillin sensitive Staphylococcus aureus	21
+ESCTIN20	Intravenous infusion	21
+EGTON132	Cataract extraction & lens repl	19
+EGTONTR2	Travel destination	18
+EGTONAS2	Aspirin prophylaxis discussed	17
+EGTONFR1	Frequent Wakening	16
+EGTONGR4	Grade C lightly active	15
+EGTON126	Recurrent Tonsillitis	14
+ESCTSI59	Signposting to mental health service	14
+EGTON419	Health clinic	13
+EGTONPA4	Partially sighted (subjectively)	13
+EGTONVI4	Vision adequate without aid	13
+ESCTSI76	Signposting to nurse practitioner	13
+EGTONAS1	Aspirin prophylaxis (over the counter)	12
+ESCTRE10	MSG:Referral to chest physician	12
+ESCTSI71	Signposting to social prescribing service	12
+EGTONWE2	Wedge compression # of dorsal spine	11
+ESCTDI20	Diabetic ketoacidosis without coma	11
+ESCTRE32	MSG:Referral to radiologist	11
+EGTON266	Lump In Axilla	9
+EGTON322	Ex-Cigarette Smoker	9
+EGTONHI5	Hip measurement	9
+EGTON460	Vertigo	8
+EGTONBE1	Bereavement period	8
+EGTONDE2	Delayed Onset+ Freq.,Early Wakening	8
+EGTONSL3	Sleeps Well With Sedation	8
+ESCTST13	Strain of calf muscle	8
+EGTON143	Colonic Polyp	7
+EGTON267	Injury To Left Hand	6
+EGTONGR5	Grade D inactive	6
+EGTONLD1	LDL cholesterol level	6
+EGTONSM3	Smoking Age Started	6
+EGTONSM6	Smoking Clinic	6
+ESCTRE40	Referral to plastic surgeon	6
+ESCTSI83	Signposting to community pharmacy	6
+EGTON109	Grommets Inserted	5
+EGTON303	Groin Pain	5
+EGTON305	Smear Reminder Telephone	5
+EGTON455	Fasting lipids	5
+EGTONGR2	Grade A very active	5
+EGTONVE2	Very obese	5
+ESCTCO13	Cochlear implant in situ	5
+ESCTDI15	Discharge from urology service	5
+ESCTRE20	MSG:Referral to hepatobiliary surgeon	5
+ESCTRE62	Recurrent cellulitis	5
+ESCTSI13	Signposting to Macmillan Cancer Support	5
+EGTON105	Hydrocele surgery	4
+EGTON114	Live Birth	4
+EGTON309	Sore Neck	4
+EGTONFU1	Fungal Mouth Infection Nos	4
+EGTONHI1	Hip examination normal	4
+EGTONJE1	Jejunal diverticula	4
+EGTONRE6	Registration medical	4
+ESCTDI17	Discharge from speech and language therapy service	4
+ESCTLI10	Lives with friend	4
+ESCTPR13	Provision of medication list	4
+ESCTSI79	Signposting to nurse	4
+EGTON204	Well man clinic	3
+EGTON265	Blackout	3
+EGTON280	HRT Clinic	3
+EGTON329	Visual acuity	3
+EGTON441	Abnormal smear result	3
+EGTONEL1	Elderly over 75 annual consultation	3
+ESCTCH15	Challenging behaviour	3
+ESCTIN22	Incident reporting	3
+ESCTRE21	MSG:Referral to clinical immunologist	3
+ESCTRE24	Referral to obstetrician	3
+ESCTRE41	Referral to rehabilitation service	3
+ESCTRE52	Re-excision of lesion of skin	3
+ESCTSI78	Signposting to health care assistant	3
+EGTON304	Painful Left Arm	2
+EGTON409	Vib. sense L ankle present	2
+EGTON411	Vib. sense R ankle present	2
+EGTON415	Standing Systolic Bp	2
+EGTON416	Standing Diastolic Bp	2
+EGTON459	Rheumatic fever	2
+EGTONBL2	Blind (subjectively)	2
+EGTONBL3	BP box score	2
+EGTONEA2	Early And Frequent Wakening	2
+EGTONHE4	Hearing adequate with aid	2
+EGTONTE1	Testicular Examination	2
+EGTONVI7	Vision inadequate with aid	2
+ESCTDE10	Death notification	2
+ESCTIN23	Incoming mail processing status	2
+ESCTIN25	Interpreter for British sign language	2
+ESCTLI12	Lives with lodger	2
+ESCTOP11	Open fracture of foot	2
+ESCTPA10	Passive range of knee extension	2
+ESCTRE45	Recommendation to start drug treatment	2
+ESCTRE47	Respiratory arrest	2
+ESCTSI34	Signposting to food bank	2
+ESCTSI55	Signposting to weight management service	2
+ESCTSI66	Signposting to alcohol misuse service	2
+ESCTSI72	Signposting to dentist	2
+ESCTSI77	Signposting to smoking cessation service	2
+EGTON107	Deformity of Feet	1
+EGTON140	Multiple allergies	1
+EGTON166	Well Woman Clinic	1
+EGTON211	Sore Thumb	1
+EGTON217	Catheter in situ	1
+EGTON355	Dorsalis pedis	1
+EGTON382	L knee reflex normal	1
+EGTON387	R knee reflex normal	1
+EGTON410	Absent vibration sense L ankle	1
+EGTON412	Absent vibration sense R ankle	1
+EGTONEA1	Early Morning Wakening	1
+EGTONGR9	Grade D 50 or more units/week	1
+EGTONHE3	Health care services	1
+EGTONHO2	Home Visit Not Wanted	1
+EGTONIC1	Icthyosis	1
+EGTONLE1	Left hemiparesis	1
+EGTONRE3	Red reflex right eye present	1
+EGTONRE4	Red reflex left eye present	1
+EGTONRI1	Right hemiparesis	1
+EGTONVI8	Vision - blind despite any aid	1
+EGTONWE4	Well person clinic	1
+EGTONYE1	Yes	1
+ESCTCO10	Cognitive assessment of Minnesota	1
+ESCTCO16	Consent given for communication by telephone	1
+ESCTDI11	Discharge to residential home	1
+ESCTDI12	Discharge to hospital	1
+ESCTDI16	Discharge from occupational therapy service	1
+ESCTHI10	History of pressure ulcer	1
+ESCTIN16	Intravenous fluid Hartmann's solution administration	1
+ESCTIN17	Insole	1
+ESCTPR14	Provision of patient escort	1
+ESCTRE19	Referral to audiological service	1
+ESCTRE30	Referral to pathology service	1
+ESCTSI18	Signposting to Anxiety UK	1
+ESCTSI31	Signposting to community exercise group	1
+ESCTSI38	Signposting to optician	1
+ESCTSI44	Signposting for NHS Health Check	1
+ESCTSI53	Signposting to dementia support service	1
+ESCTSI80	Signposting to Social Services	1
+ESCTSI91	Signposting to general practice extended hours service	1
+ESCTSI93	Signposting to bereavement support service	1
+ESCTSI95	Signposting to health and wellbeing worker	1
+ESCTSI96	Signposting to support service for carers	1
+ESCTSI97	Signposting to NHS 111 service	1
+EGTONEGTON4K274	Text Cytology Report	142
+EGTON1024	Rolls own cigarettes	1
+EGTON1028	Ex-smoker NOS	1
+EGTONGR10	Grade A non-smoker	1
+EGTONGR11	Grade B light smoker (1-10/day)	1
+EGTONGR13	Grade D heavy smoker (>20 Day)	1
+EGTON66	Hydradenitis suppurativa	89
+EGTON52	T4 (Thyroxine)	55
+EGTON22	Urea and electrolyte	26
+EGTON17	Total CO2	5
+EGTON59	Alcohol overdose	1
+EGTON75	BUPA medical	1
+EGTON4K270	Cytology Report Normal	50
+EGTON1025	Current Smoker NOS	6
+EGTON1027	Ex- Rolled Tobacco Smoker	6
